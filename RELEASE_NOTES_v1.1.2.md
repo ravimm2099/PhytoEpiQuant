@@ -1,0 +1,1 @@
+PhytoEpiQuant v1.1.2: Added executable Incidence, severity & density calculator and dataset-planner routing. Six required columns are recognized by name. Example output: P1 20%, 6%, 6 lesions/m2; P2 45%, 18%, 16; P3 70%, 37%, 35. Note: live R runtime verification pending.

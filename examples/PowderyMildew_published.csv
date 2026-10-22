@@ -1,0 +1,241 @@
+treatment,moisture,replicate,time,disease_proportion,severity_pct
+Drip,High moisture,1,0,0.011,1.0999999999999999
+Drip,High moisture,2,0,0.011,1.0999999999999999
+Drip,High moisture,3,0,0.011,1.0999999999999999
+Drip,High moisture,1,7,0.034,3.4000000000000004
+Drip,High moisture,2,7,0.04,4.0
+Drip,High moisture,3,7,0.036,3.5999999999999996
+Drip,High moisture,1,14,0.114,11.4
+Drip,High moisture,2,14,0.109,10.9
+Drip,High moisture,3,14,0.097,9.700000000000001
+Drip,High moisture,1,21,0.126,12.6
+Drip,High moisture,2,21,0.12,12.0
+Drip,High moisture,3,21,0.103,10.299999999999999
+Drip,High moisture,1,28,0.16,16.0
+Drip,High moisture,2,28,0.149,14.899999999999999
+Drip,High moisture,3,28,0.149,14.899999999999999
+Drip,High moisture,1,35,0.183,18.3
+Drip,High moisture,2,35,0.189,18.9
+Drip,High moisture,3,35,0.171,17.1
+Drip,High moisture,1,42,0.297,29.7
+Drip,High moisture,2,42,0.331,33.1
+Drip,High moisture,3,42,0.343,34.300000000000004
+Drip,High moisture,1,49,0.331,33.1
+Drip,High moisture,2,49,0.366,36.6
+Drip,High moisture,3,49,0.366,36.6
+Drip,High moisture,1,56,0.389,38.9
+Drip,High moisture,2,56,0.457,45.7
+Drip,High moisture,3,56,0.411,41.099999999999994
+Drip,High moisture,1,63,0.434,43.4
+Drip,High moisture,2,63,0.434,43.4
+Drip,High moisture,3,63,0.434,43.4
+MS,High moisture,1,0,0.005,0.5
+MS,High moisture,2,0,0.007,0.7000000000000001
+MS,High moisture,3,0,0.008,0.8
+MS,High moisture,1,7,0.017,1.7000000000000002
+MS,High moisture,2,7,0.024,2.4
+MS,High moisture,3,7,0.014,1.4000000000000001
+MS,High moisture,1,14,0.051,5.1
+MS,High moisture,2,14,0.074,7.3999999999999995
+MS,High moisture,3,14,0.046,4.6
+MS,High moisture,1,21,0.061,6.1
+MS,High moisture,2,21,0.089,8.9
+MS,High moisture,3,21,0.056,5.6000000000000005
+MS,High moisture,1,28,0.069,6.9
+MS,High moisture,2,28,0.07,7.000000000000001
+MS,High moisture,3,28,0.066,6.6000000000000005
+MS,High moisture,1,35,0.089,8.9
+MS,High moisture,2,35,0.1,10.0
+MS,High moisture,3,35,0.091,9.1
+MS,High moisture,1,42,0.171,17.1
+MS,High moisture,2,42,0.229,22.900000000000002
+MS,High moisture,3,42,0.211,21.099999999999998
+MS,High moisture,1,49,0.211,21.099999999999998
+MS,High moisture,2,49,0.234,23.400000000000002
+MS,High moisture,3,49,0.229,22.900000000000002
+MS,High moisture,1,56,0.297,29.7
+MS,High moisture,2,56,0.32,32.0
+MS,High moisture,3,56,0.297,29.7
+MS,High moisture,1,63,0.366,36.6
+MS,High moisture,2,63,0.354,35.4
+MS,High moisture,3,63,0.331,33.1
+MS,Moderate moisture,1,0,0.009,0.8999999999999999
+MS,Moderate moisture,2,0,0.009,0.8999999999999999
+MS,Moderate moisture,3,0,0.009,0.8999999999999999
+MS,Moderate moisture,1,7,0.028,2.8000000000000003
+MS,Moderate moisture,2,7,0.025,2.5
+MS,Moderate moisture,3,7,0.021,2.1
+MS,Moderate moisture,1,14,0.077,7.7
+MS,Moderate moisture,2,14,0.08,8.0
+MS,Moderate moisture,3,14,0.071,7.1
+MS,Moderate moisture,1,21,0.056,5.6000000000000005
+MS,Moderate moisture,2,21,0.086,8.6
+MS,Moderate moisture,3,21,0.071,7.1
+MS,Moderate moisture,1,28,0.103,10.299999999999999
+MS,Moderate moisture,2,28,0.109,10.9
+MS,Moderate moisture,3,28,0.097,9.700000000000001
+MS,Moderate moisture,1,35,0.137,13.700000000000001
+MS,Moderate moisture,2,35,0.143,14.299999999999999
+MS,Moderate moisture,3,35,0.149,14.899999999999999
+MS,Moderate moisture,1,42,0.229,22.900000000000002
+MS,Moderate moisture,2,42,0.269,26.900000000000002
+MS,Moderate moisture,3,42,0.309,30.9
+MS,Moderate moisture,1,49,0.309,30.9
+MS,Moderate moisture,2,49,0.297,29.7
+MS,Moderate moisture,3,49,0.354,35.4
+MS,Moderate moisture,1,56,0.354,35.4
+MS,Moderate moisture,2,56,0.411,41.099999999999994
+MS,Moderate moisture,3,56,0.389,38.9
+MS,Moderate moisture,1,63,0.411,41.099999999999994
+MS,Moderate moisture,2,63,0.4,40.0
+MS,Moderate moisture,3,63,0.4,40.0
+Furrow,Moderate moisture,1,0,0.01,1.0
+Furrow,Moderate moisture,2,0,0.01,1.0
+Furrow,Moderate moisture,3,0,0.01,1.0
+Furrow,Moderate moisture,1,7,0.036,3.5999999999999996
+Furrow,Moderate moisture,2,7,0.036,3.5999999999999996
+Furrow,Moderate moisture,3,7,0.04,4.0
+Furrow,Moderate moisture,1,14,0.097,9.700000000000001
+Furrow,Moderate moisture,2,14,0.097,9.700000000000001
+Furrow,Moderate moisture,3,14,0.114,11.4
+Furrow,Moderate moisture,1,21,0.114,11.4
+Furrow,Moderate moisture,2,21,0.097,9.700000000000001
+Furrow,Moderate moisture,3,21,0.103,10.299999999999999
+Furrow,Moderate moisture,1,28,0.149,14.899999999999999
+Furrow,Moderate moisture,2,28,0.166,16.6
+Furrow,Moderate moisture,3,28,0.154,15.4
+Furrow,Moderate moisture,1,35,0.183,18.3
+Furrow,Moderate moisture,2,35,0.194,19.400000000000002
+Furrow,Moderate moisture,3,35,0.194,19.400000000000002
+Furrow,Moderate moisture,1,42,0.343,34.300000000000004
+Furrow,Moderate moisture,2,42,0.377,37.7
+Furrow,Moderate moisture,3,42,0.343,34.300000000000004
+Furrow,Moderate moisture,1,49,0.377,37.7
+Furrow,Moderate moisture,2,49,0.389,38.9
+Furrow,Moderate moisture,3,49,0.377,37.7
+Furrow,Moderate moisture,1,56,0.4,40.0
+Furrow,Moderate moisture,2,56,0.411,41.099999999999994
+Furrow,Moderate moisture,3,56,0.434,43.4
+Furrow,Moderate moisture,1,63,0.457,45.7
+Furrow,Moderate moisture,2,63,0.457,45.7
+Furrow,Moderate moisture,3,63,0.434,43.4
+MS above canopy,High moisture,1,0,0.007,0.7000000000000001
+MS above canopy,High moisture,2,0,0.009,0.8999999999999999
+MS above canopy,High moisture,3,0,0.006,0.6
+MS above canopy,High moisture,1,7,0.013,1.3
+MS above canopy,High moisture,2,7,0.014,1.4000000000000001
+MS above canopy,High moisture,3,7,0.011,1.0999999999999999
+MS above canopy,High moisture,1,14,0.019,1.9
+MS above canopy,High moisture,2,14,0.018,1.7999999999999998
+MS above canopy,High moisture,3,14,0.016,1.6
+MS above canopy,High moisture,1,21,0.04,4.0
+MS above canopy,High moisture,2,21,0.043,4.3
+MS above canopy,High moisture,3,21,0.046,4.6
+MS above canopy,High moisture,1,28,0.041,4.1000000000000005
+MS above canopy,High moisture,2,28,0.05,5.0
+MS above canopy,High moisture,3,28,0.049,4.9
+MS above canopy,High moisture,1,35,0.044,4.3999999999999995
+MS above canopy,High moisture,2,35,0.053,5.3
+MS above canopy,High moisture,3,35,0.054,5.4
+MS above canopy,High moisture,1,42,0.083,8.3
+MS above canopy,High moisture,2,42,0.089,8.9
+MS above canopy,High moisture,3,42,0.097,9.700000000000001
+MS above canopy,High moisture,1,49,0.114,11.4
+MS above canopy,High moisture,2,49,0.123,12.3
+MS above canopy,High moisture,3,49,0.103,10.299999999999999
+MS above canopy,High moisture,1,56,0.12,12.0
+MS above canopy,High moisture,2,56,0.12,12.0
+MS above canopy,High moisture,3,56,0.12,12.0
+MS above canopy,High moisture,1,63,0.131,13.100000000000001
+MS above canopy,High moisture,2,63,0.149,14.899999999999999
+MS above canopy,High moisture,3,63,0.16,16.0
+MS above canopy,Moderate moisture,1,0,0.011,1.0999999999999999
+MS above canopy,Moderate moisture,2,0,0.009,0.8999999999999999
+MS above canopy,Moderate moisture,3,0,0.008,0.8
+MS above canopy,Moderate moisture,1,7,0.018,1.7999999999999998
+MS above canopy,Moderate moisture,2,7,0.019,1.9
+MS above canopy,Moderate moisture,3,7,0.018,1.7999999999999998
+MS above canopy,Moderate moisture,1,14,0.025,2.5
+MS above canopy,Moderate moisture,2,14,0.026,2.6
+MS above canopy,Moderate moisture,3,14,0.022,2.1999999999999997
+MS above canopy,Moderate moisture,1,21,0.064,6.4
+MS above canopy,Moderate moisture,2,21,0.056,5.6000000000000005
+MS above canopy,Moderate moisture,3,21,0.05,5.0
+MS above canopy,Moderate moisture,1,28,0.063,6.3
+MS above canopy,Moderate moisture,2,28,0.063,6.3
+MS above canopy,Moderate moisture,3,28,0.071,7.1
+MS above canopy,Moderate moisture,1,35,0.066,6.6000000000000005
+MS above canopy,Moderate moisture,2,35,0.074,7.3999999999999995
+MS above canopy,Moderate moisture,3,35,0.083,8.3
+MS above canopy,Moderate moisture,1,42,0.097,9.700000000000001
+MS above canopy,Moderate moisture,2,42,0.103,10.299999999999999
+MS above canopy,Moderate moisture,3,42,0.109,10.9
+MS above canopy,Moderate moisture,1,49,0.12,12.0
+MS above canopy,Moderate moisture,2,49,0.137,13.700000000000001
+MS above canopy,Moderate moisture,3,49,0.131,13.100000000000001
+MS above canopy,Moderate moisture,1,56,0.126,12.6
+MS above canopy,Moderate moisture,2,56,0.143,14.299999999999999
+MS above canopy,Moderate moisture,3,56,0.131,13.100000000000001
+MS above canopy,Moderate moisture,1,63,0.149,14.899999999999999
+MS above canopy,Moderate moisture,2,63,0.189,18.9
+MS above canopy,Moderate moisture,3,63,0.166,16.6
+Overhead,High moisture,1,0,0.003,0.3
+Overhead,High moisture,2,0,0.004,0.4
+Overhead,High moisture,3,0,0.006,0.6
+Overhead,High moisture,1,7,0.008,0.8
+Overhead,High moisture,2,7,0.006,0.6
+Overhead,High moisture,3,7,0.008,0.8
+Overhead,High moisture,1,14,0.016,1.6
+Overhead,High moisture,2,14,0.017,1.7000000000000002
+Overhead,High moisture,3,14,0.016,1.6
+Overhead,High moisture,1,21,0.026,2.6
+Overhead,High moisture,2,21,0.029,2.9000000000000004
+Overhead,High moisture,3,21,0.029,2.9000000000000004
+Overhead,High moisture,1,28,0.037,3.6999999999999997
+Overhead,High moisture,2,28,0.047,4.7
+Overhead,High moisture,3,28,0.041,4.1000000000000005
+Overhead,High moisture,1,35,0.053,5.3
+Overhead,High moisture,2,35,0.053,5.3
+Overhead,High moisture,3,35,0.051,5.1
+Overhead,High moisture,1,42,0.089,8.9
+Overhead,High moisture,2,42,0.089,8.9
+Overhead,High moisture,3,42,0.091,9.1
+Overhead,High moisture,1,49,0.111,11.1
+Overhead,High moisture,2,49,0.097,9.700000000000001
+Overhead,High moisture,3,49,0.12,12.0
+Overhead,High moisture,1,56,0.111,11.1
+Overhead,High moisture,2,56,0.111,11.1
+Overhead,High moisture,3,56,0.131,13.100000000000001
+Overhead,High moisture,1,63,0.114,11.4
+Overhead,High moisture,2,63,0.114,11.4
+Overhead,High moisture,3,63,0.143,14.299999999999999
+Overhead,Moderate moisture,1,0,0.005,0.5
+Overhead,Moderate moisture,2,0,0.005,0.5
+Overhead,Moderate moisture,3,0,0.004,0.4
+Overhead,Moderate moisture,1,7,0.009,0.8999999999999999
+Overhead,Moderate moisture,2,7,0.005,0.5
+Overhead,Moderate moisture,3,7,0.006,0.6
+Overhead,Moderate moisture,1,14,0.024,2.4
+Overhead,Moderate moisture,2,14,0.019,1.9
+Overhead,Moderate moisture,3,14,0.022,2.1999999999999997
+Overhead,Moderate moisture,1,21,0.029,2.9000000000000004
+Overhead,Moderate moisture,2,21,0.022,2.1999999999999997
+Overhead,Moderate moisture,3,21,0.025,2.5
+Overhead,Moderate moisture,1,28,0.049,4.9
+Overhead,Moderate moisture,2,28,0.039,3.9
+Overhead,Moderate moisture,3,28,0.043,4.3
+Overhead,Moderate moisture,1,35,0.06,6.0
+Overhead,Moderate moisture,2,35,0.051,5.1
+Overhead,Moderate moisture,3,35,0.058,5.800000000000001
+Overhead,Moderate moisture,1,42,0.097,9.700000000000001
+Overhead,Moderate moisture,2,42,0.097,9.700000000000001
+Overhead,Moderate moisture,3,42,0.1,10.0
+Overhead,Moderate moisture,1,49,0.109,10.9
+Overhead,Moderate moisture,2,49,0.1,10.0
+Overhead,Moderate moisture,3,49,0.109,10.9
+Overhead,Moderate moisture,1,56,0.12,12.0
+Overhead,Moderate moisture,2,56,0.126,12.6
+Overhead,Moderate moisture,3,56,0.114,11.4
+Overhead,Moderate moisture,1,63,0.131,13.100000000000001
+Overhead,Moderate moisture,2,63,0.131,13.100000000000001
+Overhead,Moderate moisture,3,63,0.126,12.6

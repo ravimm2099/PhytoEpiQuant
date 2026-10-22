@@ -1,0 +1,10 @@
+isolate,replicate,infection_frequency,lesion_area_cm2,sporulation_per_cm2,expected_CFI
+Isolate_A,R1,0.2,1.5,800,240.0
+Isolate_A,R2,0.3,1.8,950,513.0
+Isolate_A,R3,0.25,1.6,900,360.0
+Isolate_B,R1,0.6,2.5,1200,1800.0
+Isolate_B,R2,0.7,2.7,1350,2551.5
+Isolate_B,R3,0.65,2.6,1250,2112.5
+Isolate_C,R1,0.4,1.2,700,336.0
+Isolate_C,R2,0.45,1.4,750,472.5
+Isolate_C,R3,0.35,1.3,720,327.6

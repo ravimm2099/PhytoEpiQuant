@@ -1,0 +1,51 @@
+dataset,column,meaning,data_type,example,guidance
+complex_airborne_spores.csv,station,Air sampling station identifier,categorical,S1,Keep measurement units consistent; one row per observation
+complex_airborne_spores.csv,time,Days since initial observation,numeric,0,Keep measurement units consistent; one row per observation
+complex_airborne_spores.csv,spore_count,Number of captured spores per sample,numeric,39,Keep measurement units consistent; one row per observation
+complex_airborne_spores.csv,temperature_c,Air temperature in degrees Celsius,numeric,31.4,Keep measurement units consistent; one row per observation
+complex_airborne_spores.csv,relative_humidity_pct,Relative humidity (%),numeric,76.2,Keep measurement units consistent; one row per observation
+complex_airborne_spores.csv,rainfall_mm,Rainfall in mm,numeric,3.3,Keep measurement units consistent; one row per observation
+complex_airborne_spores.csv,wind_speed_ms,Wind speed in m/s,numeric,0.6,Keep measurement units consistent; one row per observation
+complex_incidence_panel.csv,site,Study location identifier,categorical,Jodhpur,Keep measurement units consistent; one row per observation
+complex_incidence_panel.csv,treatment,Experimental treatment category,categorical,Control,Keep measurement units consistent; one row per observation
+complex_incidence_panel.csv,replicate,Independent replicate identifier,numeric,1,Keep measurement units consistent; one row per observation
+complex_incidence_panel.csv,time,Days since initial observation,numeric,0,Keep measurement units consistent; one row per observation
+complex_incidence_panel.csv,plants_assessed,Number of plants examined,numeric,120,Keep measurement units consistent; one row per observation
+complex_incidence_panel.csv,plants_diseased,Number showing disease,numeric,4,Keep measurement units consistent; one row per observation
+complex_incidence_panel.csv,incidence_pct,100 × diseased / assessed,numeric,3.33,Keep measurement units consistent; one row per observation
+complex_incidence_panel.csv,severity_pct,Disease severity on 0–100 percent scale,numeric,3.57,Keep measurement units consistent; one row per observation
+complex_longitudinal_dpc.csv,site,Study location identifier,categorical,Jodhpur,Keep measurement units consistent; one row per observation
+complex_longitudinal_dpc.csv,treatment,Experimental treatment category,categorical,Control,Keep measurement units consistent; one row per observation
+complex_longitudinal_dpc.csv,replicate,Independent replicate identifier,numeric,1,Keep measurement units consistent; one row per observation
+complex_longitudinal_dpc.csv,time,Days since initial observation,numeric,0,Keep measurement units consistent; one row per observation
+complex_longitudinal_dpc.csv,severity_pct,Disease severity on 0–100 percent scale,numeric,6.4,Keep measurement units consistent; one row per observation
+complex_longitudinal_dpc.csv,disease_proportion,Disease fraction 0–1,numeric,0.064,Keep measurement units consistent; one row per observation
+complex_longitudinal_dpc.csv,plants_assessed,Number of plants examined,numeric,100,Keep measurement units consistent; one row per observation
+complex_longitudinal_dpc.csv,plants_diseased,Number showing disease,numeric,6,Keep measurement units consistent; one row per observation
+complex_longitudinal_dpc.csv,temperature_c,Air temperature in degrees Celsius,numeric,34.0,Keep measurement units consistent; one row per observation
+complex_longitudinal_dpc.csv,relative_humidity_pct,Relative humidity (%),numeric,37.1,Keep measurement units consistent; one row per observation
+complex_quadrat_counts.csv,field_id,Field identifier,categorical,F01,Keep measurement units consistent; one row per observation
+complex_quadrat_counts.csv,quadrat_id,Sampling-unit identifier,numeric,1,Keep measurement units consistent; one row per observation
+complex_quadrat_counts.csv,plants_assessed,Number of plants examined,numeric,20,Keep measurement units consistent; one row per observation
+complex_quadrat_counts.csv,diseased_count,Number of diseased plants per quadrat,numeric,1,Keep measurement units consistent; one row per observation
+complex_quadrat_counts.csv,incidence_pct,100 × diseased / assessed,numeric,5.0,Keep measurement units consistent; one row per observation
+complex_quadrat_counts.csv,region,Region category,categorical,north,Keep measurement units consistent; one row per observation
+complex_spatial_grid.csv,field_id,Field identifier,categorical,F01,Keep measurement units consistent; one row per observation
+complex_spatial_grid.csv,row,Spatial row index,numeric,1,Keep measurement units consistent; one row per observation
+complex_spatial_grid.csv,column,Spatial column index,numeric,1,Keep measurement units consistent; one row per observation
+complex_spatial_grid.csv,x_m,Planar x coordinate in metres,numeric,2.5,Keep measurement units consistent; one row per observation
+complex_spatial_grid.csv,y_m,Planar y coordinate in metres,numeric,2.5,Keep measurement units consistent; one row per observation
+complex_spatial_grid.csv,disease_status,"0 healthy, 1 diseased",numeric,0,Keep measurement units consistent; one row per observation
+complex_spatial_grid.csv,severity_pct,Disease severity on 0–100 percent scale,numeric,14.0,Keep measurement units consistent; one row per observation
+complex_time_to_disease.csv,site,Study location identifier,categorical,A,Keep measurement units consistent; one row per observation
+complex_time_to_disease.csv,treatment,Experimental treatment category,categorical,Control,Keep measurement units consistent; one row per observation
+complex_time_to_disease.csv,plant_id,Plant identifier,numeric,1,Keep measurement units consistent; one row per observation
+complex_time_to_disease.csv,time_to_event_days,"Time until disease or censoring, days",numeric,36,Keep measurement units consistent; one row per observation
+complex_time_to_disease.csv,event_status,"1 event observed, 0 censored",numeric,1,Keep measurement units consistent; one row per observation
+complex_time_to_disease.csv,initial_lesion_mm,Baseline lesion size in mm,numeric,3.36,Keep measurement units consistent; one row per observation
+complex_yield_loss.csv,site,Study location identifier,categorical,Jodhpur,Keep measurement units consistent; one row per observation
+complex_yield_loss.csv,treatment,Experimental treatment category,categorical,Control,Keep measurement units consistent; one row per observation
+complex_yield_loss.csv,replicate,Independent replicate identifier,numeric,1,Keep measurement units consistent; one row per observation
+complex_yield_loss.csv,severity_pct,Disease severity on 0–100 percent scale,numeric,63.0,Keep measurement units consistent; one row per observation
+complex_yield_loss.csv,yield_kg_plot,Harvested yield (kg/plot),numeric,2.981,Keep measurement units consistent; one row per observation
+complex_yield_loss.csv,soil_moisture_pct,Soil moisture (%),numeric,34.2,Keep measurement units consistent; one row per observation

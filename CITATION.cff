@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "If you use PhytoEpiQuant in research, please cite this software release."
+title: "PhytoEpiQuant: R Shiny tools for plant disease epidemiology"
+type: software
+authors:
+  - family-names: Mathur
+    given-names: Manish
+    affiliation: "Chief Technical Officer, ARS- Net (Crop Protection), FNESA, India"
+version: 1.0.0
+date-released: 2026-10-19
+abstract: "An R Shiny application for mathematical analyses of plant disease epidemiology, disease progress, cumulative disease intensity and exploratory forecasting."

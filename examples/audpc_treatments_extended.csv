@@ -1,0 +1,16 @@
+treatment,replicate,time,disease
+Control,1,0,3
+Control,1,5,10
+Control,1,10,23
+Control,1,15,38
+Control,1,20,58
+Control,2,0,5
+Control,2,5,12
+Control,2,10,25
+Control,2,15,40
+Control,2,20,60
+Control,3,0,7
+Control,3,5,14
+Control,3,10,27
+Control,3,15,42
+Control,3,20,62

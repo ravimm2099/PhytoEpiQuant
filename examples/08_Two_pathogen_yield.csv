@@ -1,0 +1,7 @@
+plot,pathogen_A_severity_pct,pathogen_B_severity_pct,yield_kg,attainable_yield_kg
+T1,0,0,100,100
+T2,10,0,93,100
+T3,0,15,91,100
+T4,10,15,78,100
+T5,25,20,60,100
+T6,40,35,39,100

@@ -1,0 +1,15 @@
+method,objective,required_columns,app_input_columns,availability,limitations,minimum_conditions
+DPC simulation,Predict epidemic trajectory from initial incidence and rate,"time,disease_proportion","time,disease_proportion",Existing: DPC tab,"Descriptive simulation, not fitted parameters",At least two dates for observed overlay; proportions 0–1
+AUDPC / rAUDPC,Summarize cumulative disease burden,"time,severity_pct","time,disease",Existing: AUDPC tab,"Per series, time must be unique and increasing",At least two distinct time points; severity 0–100
+Poisson / negative-binomial count comparison,Evaluate disease counts per sampling unit,diseased_count,diseased_count,Existing: Count distributions tab,Expected frequencies are method-of-moments based,At least two nonnegative integer counts
+Variance-to-mean dispersion,Assess overdispersion of disease counts,diseased_count,diseased_count,Existing: Dispersion tab,Overdispersion is not proof of spatial clustering,At least two nonnegative integer counts
+Ordinary runs test,Test ordering of binary disease states,disease_status,disease_status,Existing: Runs test tab,Sequence order must be meaningful,"Both 0 and 1, at least two ordered observations"
+Clark–Evans nearest neighbour,Describe spatial aggregation of point locations,"x_m,y_m","x,y",Existing: Nearest neighbour tab,Requires known planar study-window area; no edge correction,Two or more unique planar point coordinates
+Directed network metrics,Summarize directed links among units,adjacency matrix,headerless matrix,Existing: Directed network tab,"Matrix must be binary, square, zero diagonal",At least two nodes; square adjacency matrix
+Probability distribution simulator,Explore sampling and disease count distributions,,sidebar parameters,Existing: Probability distributions tab,No raw observations needed,Select distribution and valid parameters
+Multi-treatment AUDPC comparison,Compare cumulative disease burden among treatments,"treatment,replicate,time,severity_pct",,Planned: not implemented,Replicate-level AUDPC followed by design-aware comparisons,Repeated measurements per replicate
+Disease progress parameter fitting,Estimate growth rates and compare models,"time,disease_proportion",,Planned: not implemented,"Needs nonlinear fitting, uncertainty and diagnostics",Multiple observation times across epidemic
+Survival / time-to-event,Estimate time until disease onset,"time_to_event_days,event_status",,Planned: not implemented,Requires censoring-aware survival methods,"Event=1, censored=0"
+Disease–yield regression,Estimate association between severity and yield,"severity_pct,yield_kg_plot",,Planned: not implemented,Associational; confounding and design must be considered,Multiple independent units with yield and severity
+Airborne inoculum time series,Describe temporal spore concentrations,"time,spore_count",,Planned: not implemented,Sampling effort/air volume may be required,Repeated spore measurements
+Spatial autocorrelation,Evaluate disease spatial dependence,"x_m,y_m,disease_status",,Planned: not implemented,Requires spatial weights and appropriate inference,Georeferenced observations

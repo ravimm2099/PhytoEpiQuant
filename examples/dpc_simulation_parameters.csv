@@ -1,0 +1,6 @@
+model,y0,rate_per_day,duration_days
+exponential,0.05,0.12,20
+monomolecular,0.05,0.12,20
+logistic,0.05,0.12,20
+gompertz,0.05,0.12,20
+linear,0.05,0.12,20

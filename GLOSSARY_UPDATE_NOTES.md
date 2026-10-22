@@ -1,0 +1,1 @@
+Adds a self-contained educational terminology/equation tab and a descriptive CFI calculator. Does not alter existing models or claim scientific validation. R runtime testing is required before release.

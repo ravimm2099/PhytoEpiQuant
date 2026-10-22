@@ -1,0 +1,2501 @@
+Plant_ID,Plant_Group,infection_indicator_not_density,humidity_pct,temperature_C,leaf_spot_size_original_units,Disease_Status,Leaf_Color
+PLANT_0001,Corn,1,69.49,30.68,3.8,Mild Infection,Brown
+PLANT_0002,Potato,1,45.72,34.57,6.96,Mild Infection,Brown
+PLANT_0003,Corn,0,86.21,29.29,3.08,Healthy,Yellow
+PLANT_0004,Rice,0,87.46,16.71,0.5,Healthy,Yellow
+PLANT_0005,Rice,1,43.38,26.23,1.58,Severe Infection,Green
+PLANT_0006,Corn,0,42.74,15.68,5.7,Healthy,Brown
+PLANT_0007,Potato,0,52.86,30.53,0.4,Healthy,Brown
+PLANT_0008,Wheat,0,33.73,33.76,9.7,Healthy,Green
+PLANT_0009,Tomato,1,63.62,28.87,9.41,Mild Infection,Yellow
+PLANT_0010,Potato,0,46.75,33.78,8.41,Healthy,Yellow
+PLANT_0011,Corn,0,33.0,26.71,5.3,Healthy,Yellow
+PLANT_0012,Wheat,0,81.47,26.91,0.78,Healthy,Yellow
+PLANT_0013,Potato,0,86.65,26.97,4.77,Healthy,Yellow
+PLANT_0014,Potato,1,38.61,24.51,0.24,Severe Infection,Green
+PLANT_0015,Potato,1,66.59,33.64,1.66,Mild Infection,Green
+PLANT_0016,Wheat,0,86.42,30.12,7.06,Healthy,Green
+PLANT_0017,Tomato,1,79.22,18.72,6.78,Severe Infection,Green
+PLANT_0018,Tomato,0,83.81,27.7,8.66,Healthy,Yellow
+PLANT_0019,Corn,0,75.77,16.03,5.79,Healthy,Green
+PLANT_0020,Wheat,0,50.66,29.8,9.89,Healthy,Brown
+PLANT_0021,Tomato,0,88.14,21.48,1.85,Healthy,Yellow
+PLANT_0022,Potato,1,72.25,30.68,8.34,Mild Infection,Yellow
+PLANT_0023,Tomato,0,63.54,20.74,7.39,Healthy,Brown
+PLANT_0024,Wheat,1,68.63,16.91,7.27,Severe Infection,Yellow
+PLANT_0025,Wheat,0,48.16,26.67,6.2,Healthy,Brown
+PLANT_0026,Corn,1,39.37,17.34,4.42,Mild Infection,Brown
+PLANT_0027,Wheat,0,83.15,24.08,3.6,Healthy,Brown
+PLANT_0028,Rice,0,81.52,22.44,1.74,Healthy,Brown
+PLANT_0029,Potato,0,35.07,31.33,6.33,Healthy,Green
+PLANT_0030,Corn,0,62.61,26.88,1.33,Healthy,Brown
+PLANT_0031,Corn,0,48.5,16.64,7.28,Healthy,Yellow
+PLANT_0032,Corn,1,68.23,29.94,9.7,Severe Infection,Yellow
+PLANT_0033,Tomato,0,71.33,19.79,8.02,Healthy,Brown
+PLANT_0034,Corn,0,44.23,29.16,8.66,Healthy,Green
+PLANT_0035,Rice,1,73.59,22.64,9.26,Mild Infection,Green
+PLANT_0036,Rice,0,62.65,19.52,9.97,Healthy,Green
+PLANT_0037,Potato,0,59.11,26.18,5.24,Healthy,Yellow
+PLANT_0038,Potato,0,68.26,21.05,8.41,Healthy,Green
+PLANT_0039,Potato,0,34.19,33.12,1.32,Healthy,Green
+PLANT_0040,Potato,0,76.06,16.88,8.9,Healthy,Brown
+PLANT_0041,Corn,1,75.85,26.94,4.15,Mild Infection,Brown
+PLANT_0042,Potato,0,35.53,29.96,6.95,Healthy,Yellow
+PLANT_0043,Potato,0,44.84,17.58,8.59,Healthy,Yellow
+PLANT_0044,Wheat,0,51.88,29.86,1.52,Healthy,Brown
+PLANT_0045,Rice,0,89.47,23.82,0.29,Healthy,Green
+PLANT_0046,Tomato,1,59.52,28.79,8.67,Mild Infection,Yellow
+PLANT_0047,Tomato,1,84.09,34.34,8.17,Mild Infection,Yellow
+PLANT_0048,Wheat,0,74.28,16.7,9.48,Healthy,Green
+PLANT_0049,Wheat,0,64.26,33.09,1.72,Healthy,Yellow
+PLANT_0050,Rice,0,39.56,27.2,5.4,Healthy,Green
+PLANT_0051,Potato,0,72.28,23.36,7.89,Healthy,Brown
+PLANT_0052,Potato,1,60.24,16.22,9.88,Severe Infection,Yellow
+PLANT_0053,Tomato,0,80.72,29.54,1.01,Healthy,Green
+PLANT_0054,Wheat,1,60.84,21.84,1.18,Mild Infection,Yellow
+PLANT_0055,Potato,0,57.81,22.92,4.27,Healthy,Brown
+PLANT_0056,Corn,0,56.48,20.36,5.09,Healthy,Green
+PLANT_0057,Wheat,0,59.29,19.53,9.4,Healthy,Yellow
+PLANT_0058,Corn,0,42.84,15.34,7.03,Healthy,Brown
+PLANT_0059,Tomato,0,82.43,16.15,7.69,Healthy,Yellow
+PLANT_0060,Corn,0,32.61,28.09,2.84,Healthy,Brown
+PLANT_0061,Potato,0,35.77,24.39,5.77,Healthy,Yellow
+PLANT_0062,Corn,0,80.89,32.18,0.38,Healthy,Green
+PLANT_0063,Potato,1,51.73,15.63,6.22,Severe Infection,Brown
+PLANT_0064,Potato,0,35.41,32.61,6.21,Healthy,Yellow
+PLANT_0065,Tomato,0,50.53,29.12,1.3,Healthy,Yellow
+PLANT_0066,Potato,0,43.11,34.09,9.89,Healthy,Green
+PLANT_0067,Corn,1,88.4,18.65,1.15,Mild Infection,Green
+PLANT_0068,Rice,0,36.14,32.36,7.17,Healthy,Yellow
+PLANT_0069,Wheat,0,61.51,20.29,8.91,Healthy,Brown
+PLANT_0070,Wheat,0,38.25,27.53,2.1,Healthy,Yellow
+PLANT_0071,Corn,1,34.5,31.24,2.82,Mild Infection,Green
+PLANT_0072,Wheat,0,30.83,15.61,2.41,Healthy,Green
+PLANT_0073,Rice,0,36.46,31.6,1.89,Healthy,Brown
+PLANT_0074,Tomato,1,42.79,19.65,0.66,Mild Infection,Green
+PLANT_0075,Potato,0,55.01,33.69,0.86,Healthy,Brown
+PLANT_0076,Rice,0,75.13,26.99,8.82,Healthy,Yellow
+PLANT_0077,Rice,0,85.62,15.76,1.58,Healthy,Green
+PLANT_0078,Potato,0,67.54,16.59,6.46,Healthy,Yellow
+PLANT_0079,Tomato,0,75.49,22.19,6.92,Healthy,Yellow
+PLANT_0080,Tomato,1,85.35,27.25,0.66,Mild Infection,Brown
+PLANT_0081,Tomato,1,31.13,16.49,1.24,Mild Infection,Brown
+PLANT_0082,Wheat,0,89.26,22.77,4.8,Healthy,Brown
+PLANT_0083,Corn,0,79.18,28.23,4.32,Healthy,Yellow
+PLANT_0084,Rice,0,47.48,27.76,6.31,Healthy,Brown
+PLANT_0085,Corn,0,55.22,32.24,9.91,Healthy,Yellow
+PLANT_0086,Rice,0,83.31,21.59,9.31,Healthy,Brown
+PLANT_0087,Potato,1,61.37,19.39,6.55,Severe Infection,Green
+PLANT_0088,Potato,0,32.07,33.4,5.88,Healthy,Brown
+PLANT_0089,Corn,0,81.52,26.77,3.45,Healthy,Yellow
+PLANT_0090,Tomato,0,41.35,25.9,3.46,Healthy,Green
+PLANT_0091,Tomato,1,42.27,29.59,5.84,Severe Infection,Yellow
+PLANT_0092,Potato,1,52.24,31.41,1.82,Severe Infection,Brown
+PLANT_0093,Potato,0,57.18,33.09,8.63,Healthy,Brown
+PLANT_0094,Rice,0,60.53,26.36,3.2,Healthy,Brown
+PLANT_0095,Potato,0,37.65,33.2,5.02,Healthy,Green
+PLANT_0096,Rice,0,45.06,29.87,6.77,Healthy,Brown
+PLANT_0097,Corn,0,45.74,22.66,2.88,Healthy,Brown
+PLANT_0098,Tomato,1,30.63,26.03,6.82,Mild Infection,Green
+PLANT_0099,Rice,0,48.04,33.04,7.23,Healthy,Yellow
+PLANT_0100,Tomato,0,83.94,27.74,5.86,Healthy,Brown
+PLANT_0101,Wheat,0,36.79,20.85,2.62,Healthy,Brown
+PLANT_0102,Corn,0,76.7,18.21,8.25,Healthy,Brown
+PLANT_0103,Wheat,1,74.56,19.54,9.27,Mild Infection,Yellow
+PLANT_0104,Corn,1,81.99,16.97,3.96,Mild Infection,Yellow
+PLANT_0105,Rice,0,33.93,21.53,6.21,Healthy,Yellow
+PLANT_0106,Tomato,0,46.7,22.27,1.7,Healthy,Green
+PLANT_0107,Tomato,0,34.23,31.92,7.44,Healthy,Green
+PLANT_0108,Potato,0,88.13,17.71,9.32,Healthy,Green
+PLANT_0109,Corn,0,57.32,18.06,7.38,Healthy,Yellow
+PLANT_0110,Wheat,0,42.04,30.32,9.64,Healthy,Brown
+PLANT_0111,Tomato,0,82.59,16.18,9.83,Healthy,Green
+PLANT_0112,Rice,0,83.9,19.08,2.55,Healthy,Brown
+PLANT_0113,Tomato,0,46.58,19.79,1.75,Healthy,Yellow
+PLANT_0114,Rice,0,48.86,30.45,9.69,Healthy,Yellow
+PLANT_0115,Tomato,1,55.85,25.11,0.51,Severe Infection,Brown
+PLANT_0116,Potato,0,64.31,31.34,7.22,Healthy,Green
+PLANT_0117,Tomato,0,45.28,32.51,3.07,Healthy,Brown
+PLANT_0118,Corn,0,62.33,30.54,9.11,Healthy,Brown
+PLANT_0119,Rice,0,63.37,30.82,2.46,Healthy,Brown
+PLANT_0120,Tomato,1,84.18,27.95,9.51,Mild Infection,Yellow
+PLANT_0121,Potato,0,38.88,17.11,5.9,Healthy,Green
+PLANT_0122,Potato,1,66.56,16.26,0.4,Mild Infection,Green
+PLANT_0123,Corn,1,79.07,27.6,8.01,Mild Infection,Green
+PLANT_0124,Corn,0,51.22,30.43,7.84,Healthy,Green
+PLANT_0125,Wheat,1,31.17,16.48,0.2,Mild Infection,Brown
+PLANT_0126,Tomato,0,78.28,15.5,0.51,Healthy,Brown
+PLANT_0127,Tomato,0,71.36,28.89,4.36,Healthy,Yellow
+PLANT_0128,Rice,0,31.47,28.95,5.51,Healthy,Yellow
+PLANT_0129,Potato,0,41.61,15.62,7.17,Healthy,Brown
+PLANT_0130,Potato,0,58.18,22.37,1.21,Healthy,Brown
+PLANT_0131,Potato,0,73.82,24.74,8.51,Healthy,Yellow
+PLANT_0132,Rice,0,32.99,23.91,6.17,Healthy,Brown
+PLANT_0133,Rice,0,57.08,21.35,0.66,Healthy,Yellow
+PLANT_0134,Potato,0,78.66,20.45,3.62,Healthy,Brown
+PLANT_0135,Wheat,0,34.51,23.04,1.01,Healthy,Yellow
+PLANT_0136,Tomato,1,67.06,17.81,0.54,Mild Infection,Yellow
+PLANT_0137,Wheat,0,73.32,32.02,8.45,Healthy,Green
+PLANT_0138,Rice,0,31.14,33.0,0.67,Healthy,Brown
+PLANT_0139,Rice,0,35.78,24.35,7.77,Healthy,Green
+PLANT_0140,Potato,0,79.03,21.2,8.29,Healthy,Green
+PLANT_0141,Wheat,1,89.19,17.62,2.22,Mild Infection,Brown
+PLANT_0142,Corn,1,35.33,22.81,6.32,Mild Infection,Green
+PLANT_0143,Corn,1,43.79,21.5,1.35,Mild Infection,Yellow
+PLANT_0144,Wheat,0,61.13,30.48,4.3,Healthy,Brown
+PLANT_0145,Rice,1,48.91,23.26,9.67,Mild Infection,Brown
+PLANT_0146,Potato,0,39.44,16.75,2.34,Healthy,Yellow
+PLANT_0147,Potato,0,37.14,30.78,3.07,Healthy,Brown
+PLANT_0148,Corn,1,85.66,30.25,0.8,Severe Infection,Green
+PLANT_0149,Rice,0,56.54,18.05,7.57,Healthy,Green
+PLANT_0150,Tomato,1,83.94,18.29,9.3,Mild Infection,Green
+PLANT_0151,Rice,0,58.24,23.53,1.68,Healthy,Green
+PLANT_0152,Corn,1,32.79,17.94,4.21,Severe Infection,Brown
+PLANT_0153,Tomato,0,67.59,26.35,3.76,Healthy,Yellow
+PLANT_0154,Wheat,0,53.05,31.88,3.36,Healthy,Green
+PLANT_0155,Rice,1,86.83,18.62,6.2,Severe Infection,Green
+PLANT_0156,Wheat,1,59.91,27.12,6.11,Mild Infection,Green
+PLANT_0157,Wheat,0,78.72,18.63,9.71,Healthy,Yellow
+PLANT_0158,Potato,0,74.87,34.33,4.99,Healthy,Brown
+PLANT_0159,Potato,0,57.14,27.08,7.56,Healthy,Yellow
+PLANT_0160,Tomato,0,70.11,26.89,5.12,Healthy,Yellow
+PLANT_0161,Potato,0,50.33,29.99,4.73,Healthy,Brown
+PLANT_0162,Potato,0,44.48,20.01,9.83,Healthy,Green
+PLANT_0163,Corn,0,88.16,33.51,1.8,Healthy,Yellow
+PLANT_0164,Tomato,1,52.66,17.92,7.0,Severe Infection,Brown
+PLANT_0165,Wheat,1,59.61,30.43,9.48,Severe Infection,Brown
+PLANT_0166,Tomato,1,65.11,29.49,6.25,Mild Infection,Yellow
+PLANT_0167,Wheat,0,39.96,19.89,7.18,Healthy,Green
+PLANT_0168,Rice,0,37.55,34.16,3.39,Healthy,Brown
+PLANT_0169,Rice,1,82.22,27.37,8.38,Severe Infection,Green
+PLANT_0170,Corn,0,31.72,25.45,0.48,Healthy,Brown
+PLANT_0171,Potato,1,83.32,21.57,9.29,Severe Infection,Green
+PLANT_0172,Rice,0,41.86,24.86,0.31,Healthy,Yellow
+PLANT_0173,Tomato,0,50.14,27.12,9.7,Healthy,Brown
+PLANT_0174,Potato,0,69.23,25.6,6.26,Healthy,Brown
+PLANT_0175,Corn,0,41.52,22.4,1.1,Healthy,Brown
+PLANT_0176,Rice,1,37.19,32.02,3.45,Mild Infection,Green
+PLANT_0177,Potato,0,45.91,31.9,3.05,Healthy,Yellow
+PLANT_0178,Corn,0,74.68,20.73,5.18,Healthy,Brown
+PLANT_0179,Corn,1,73.78,30.86,5.34,Mild Infection,Green
+PLANT_0180,Corn,1,63.64,15.55,0.43,Mild Infection,Green
+PLANT_0181,Rice,0,51.62,33.93,7.41,Healthy,Brown
+PLANT_0182,Corn,0,79.54,33.82,9.33,Healthy,Yellow
+PLANT_0183,Wheat,1,68.24,22.4,5.04,Severe Infection,Green
+PLANT_0184,Tomato,0,58.17,34.35,5.54,Healthy,Yellow
+PLANT_0185,Corn,1,87.11,25.45,5.24,Mild Infection,Brown
+PLANT_0186,Rice,1,88.29,26.18,6.23,Mild Infection,Brown
+PLANT_0187,Rice,0,44.29,17.8,1.6,Healthy,Brown
+PLANT_0188,Corn,1,39.78,34.45,9.41,Mild Infection,Brown
+PLANT_0189,Potato,1,76.61,16.29,2.28,Mild Infection,Green
+PLANT_0190,Tomato,1,74.46,32.5,4.95,Severe Infection,Brown
+PLANT_0191,Corn,0,76.58,28.34,8.76,Healthy,Brown
+PLANT_0192,Potato,1,35.37,24.79,8.9,Severe Infection,Green
+PLANT_0193,Potato,0,35.66,21.3,9.37,Healthy,Green
+PLANT_0194,Potato,0,66.35,34.83,9.48,Healthy,Yellow
+PLANT_0195,Potato,0,79.48,30.92,0.77,Healthy,Brown
+PLANT_0196,Potato,1,50.47,27.38,8.06,Severe Infection,Green
+PLANT_0197,Wheat,0,53.45,26.84,7.12,Healthy,Green
+PLANT_0198,Potato,0,47.31,27.1,0.15,Healthy,Green
+PLANT_0199,Wheat,0,81.81,33.82,1.63,Healthy,Yellow
+PLANT_0200,Wheat,0,52.87,22.84,3.34,Healthy,Yellow
+PLANT_0201,Corn,1,56.41,16.16,2.78,Severe Infection,Yellow
+PLANT_0202,Potato,0,59.1,19.25,3.06,Healthy,Yellow
+PLANT_0203,Rice,0,66.26,34.52,2.1,Healthy,Brown
+PLANT_0204,Wheat,1,56.3,18.35,3.1,Mild Infection,Yellow
+PLANT_0205,Rice,0,31.5,15.6,5.37,Healthy,Green
+PLANT_0206,Wheat,0,62.38,20.79,2.23,Healthy,Brown
+PLANT_0207,Potato,0,46.1,32.81,9.72,Healthy,Brown
+PLANT_0208,Tomato,0,58.65,27.67,8.44,Healthy,Yellow
+PLANT_0209,Tomato,0,34.88,34.64,3.93,Healthy,Yellow
+PLANT_0210,Tomato,0,67.73,23.83,6.58,Healthy,Brown
+PLANT_0211,Wheat,1,31.65,23.04,1.67,Mild Infection,Green
+PLANT_0212,Tomato,1,82.26,22.95,8.14,Mild Infection,Green
+PLANT_0213,Tomato,0,45.19,20.12,9.93,Healthy,Green
+PLANT_0214,Potato,0,40.69,34.29,5.3,Healthy,Brown
+PLANT_0215,Rice,0,82.38,18.77,0.77,Healthy,Green
+PLANT_0216,Corn,0,64.62,28.91,2.63,Healthy,Green
+PLANT_0217,Tomato,1,53.95,26.73,3.64,Mild Infection,Brown
+PLANT_0218,Corn,1,78.84,16.31,5.46,Mild Infection,Brown
+PLANT_0219,Tomato,0,84.48,25.21,0.25,Healthy,Brown
+PLANT_0220,Rice,1,50.32,18.76,2.34,Mild Infection,Green
+PLANT_0221,Tomato,1,54.15,16.04,1.31,Mild Infection,Brown
+PLANT_0222,Potato,0,58.07,15.7,9.8,Healthy,Yellow
+PLANT_0223,Tomato,0,44.86,18.57,8.64,Healthy,Yellow
+PLANT_0224,Potato,1,30.51,34.32,1.52,Mild Infection,Yellow
+PLANT_0225,Tomato,0,73.99,21.85,5.49,Healthy,Green
+PLANT_0226,Rice,0,67.48,30.76,0.1,Healthy,Green
+PLANT_0227,Corn,1,57.12,24.56,0.13,Severe Infection,Brown
+PLANT_0228,Rice,0,86.08,17.34,8.87,Healthy,Yellow
+PLANT_0229,Rice,1,55.21,28.71,4.39,Severe Infection,Green
+PLANT_0230,Tomato,0,86.41,27.36,6.58,Healthy,Yellow
+PLANT_0231,Corn,0,32.97,23.63,2.28,Healthy,Brown
+PLANT_0232,Wheat,0,70.05,29.46,3.98,Healthy,Yellow
+PLANT_0233,Wheat,0,86.57,28.63,0.2,Healthy,Brown
+PLANT_0234,Wheat,0,56.95,30.98,3.79,Healthy,Green
+PLANT_0235,Tomato,1,37.88,24.08,8.46,Severe Infection,Brown
+PLANT_0236,Corn,0,54.03,32.28,9.89,Healthy,Green
+PLANT_0237,Potato,1,85.38,25.0,4.67,Mild Infection,Brown
+PLANT_0238,Corn,0,82.55,18.53,2.48,Healthy,Green
+PLANT_0239,Rice,0,49.75,25.89,7.99,Healthy,Yellow
+PLANT_0240,Rice,0,88.89,20.87,2.65,Healthy,Yellow
+PLANT_0241,Tomato,1,66.67,22.7,3.42,Mild Infection,Green
+PLANT_0242,Potato,0,66.96,27.76,3.87,Healthy,Yellow
+PLANT_0243,Wheat,0,68.85,15.3,7.73,Healthy,Green
+PLANT_0244,Rice,0,32.82,16.75,8.4,Healthy,Yellow
+PLANT_0245,Potato,0,80.23,30.13,5.41,Healthy,Green
+PLANT_0246,Potato,0,56.04,33.1,9.02,Healthy,Yellow
+PLANT_0247,Wheat,0,43.97,15.67,6.75,Healthy,Yellow
+PLANT_0248,Tomato,0,56.31,26.23,2.49,Healthy,Green
+PLANT_0249,Corn,0,42.9,27.51,9.63,Healthy,Yellow
+PLANT_0250,Wheat,0,52.85,27.79,2.13,Healthy,Green
+PLANT_0251,Corn,0,59.44,26.61,8.59,Healthy,Green
+PLANT_0252,Corn,1,32.33,33.94,7.39,Mild Infection,Brown
+PLANT_0253,Rice,0,86.43,16.93,1.31,Healthy,Yellow
+PLANT_0254,Wheat,1,35.8,33.17,5.04,Severe Infection,Yellow
+PLANT_0255,Tomato,1,30.29,23.52,0.64,Mild Infection,Green
+PLANT_0256,Wheat,0,37.31,28.99,8.74,Healthy,Brown
+PLANT_0257,Wheat,1,47.21,21.62,7.76,Mild Infection,Yellow
+PLANT_0258,Corn,0,67.27,33.72,3.94,Healthy,Brown
+PLANT_0259,Wheat,0,31.93,31.16,3.58,Healthy,Yellow
+PLANT_0260,Corn,0,40.3,27.73,0.84,Healthy,Green
+PLANT_0261,Potato,0,62.96,23.22,9.03,Healthy,Yellow
+PLANT_0262,Wheat,1,36.22,30.25,5.19,Mild Infection,Yellow
+PLANT_0263,Rice,1,71.21,34.36,2.26,Mild Infection,Brown
+PLANT_0264,Potato,0,46.63,21.92,0.91,Healthy,Brown
+PLANT_0265,Tomato,0,49.34,18.94,0.6,Healthy,Brown
+PLANT_0266,Corn,0,33.45,27.63,8.51,Healthy,Green
+PLANT_0267,Tomato,0,47.82,29.16,8.31,Healthy,Brown
+PLANT_0268,Potato,0,76.13,33.08,9.94,Healthy,Yellow
+PLANT_0269,Tomato,0,45.93,16.82,3.78,Healthy,Yellow
+PLANT_0270,Rice,1,39.71,24.82,5.1,Mild Infection,Green
+PLANT_0271,Tomato,0,45.84,22.62,0.68,Healthy,Yellow
+PLANT_0272,Tomato,1,46.33,31.9,1.08,Mild Infection,Yellow
+PLANT_0273,Wheat,1,44.89,31.75,7.61,Mild Infection,Yellow
+PLANT_0274,Rice,0,41.55,29.16,2.62,Healthy,Brown
+PLANT_0275,Potato,0,86.58,26.0,5.88,Healthy,Green
+PLANT_0276,Wheat,1,78.21,25.5,8.18,Mild Infection,Brown
+PLANT_0277,Wheat,0,88.45,22.02,7.72,Healthy,Green
+PLANT_0278,Corn,0,65.45,27.24,8.55,Healthy,Yellow
+PLANT_0279,Tomato,0,89.12,16.76,1.54,Healthy,Yellow
+PLANT_0280,Rice,0,69.7,33.17,4.18,Healthy,Green
+PLANT_0281,Potato,1,75.82,23.09,4.43,Mild Infection,Yellow
+PLANT_0282,Rice,0,45.62,34.66,4.14,Healthy,Brown
+PLANT_0283,Rice,0,88.74,21.83,9.5,Healthy,Yellow
+PLANT_0284,Tomato,0,70.06,30.89,4.31,Healthy,Brown
+PLANT_0285,Wheat,1,47.92,19.75,2.12,Mild Infection,Brown
+PLANT_0286,Wheat,1,89.28,27.32,0.86,Mild Infection,Green
+PLANT_0287,Potato,1,45.24,34.57,9.11,Severe Infection,Yellow
+PLANT_0288,Wheat,0,38.99,21.91,6.11,Healthy,Brown
+PLANT_0289,Tomato,0,60.39,25.26,3.74,Healthy,Yellow
+PLANT_0290,Corn,0,51.97,33.96,6.29,Healthy,Yellow
+PLANT_0291,Rice,1,65.66,22.94,3.59,Mild Infection,Green
+PLANT_0292,Potato,0,65.39,22.76,7.93,Healthy,Brown
+PLANT_0293,Corn,0,89.54,24.07,2.48,Healthy,Yellow
+PLANT_0294,Potato,0,45.35,15.22,5.32,Healthy,Green
+PLANT_0295,Corn,1,81.62,19.32,2.01,Severe Infection,Brown
+PLANT_0296,Rice,0,51.2,24.56,3.71,Healthy,Brown
+PLANT_0297,Rice,0,67.98,26.23,5.17,Healthy,Brown
+PLANT_0298,Wheat,0,64.19,25.5,4.58,Healthy,Yellow
+PLANT_0299,Corn,1,51.83,25.18,8.67,Mild Infection,Green
+PLANT_0300,Wheat,0,63.71,18.03,1.83,Healthy,Green
+PLANT_0301,Corn,1,47.09,23.54,6.23,Mild Infection,Yellow
+PLANT_0302,Potato,1,44.68,17.4,2.64,Severe Infection,Brown
+PLANT_0303,Wheat,0,30.04,22.47,0.48,Healthy,Yellow
+PLANT_0304,Tomato,0,74.14,34.22,9.09,Healthy,Brown
+PLANT_0305,Corn,0,35.79,16.82,5.88,Healthy,Green
+PLANT_0306,Wheat,0,58.15,25.09,4.42,Healthy,Brown
+PLANT_0307,Rice,1,60.61,32.54,4.57,Mild Infection,Brown
+PLANT_0308,Potato,0,63.54,20.81,0.57,Healthy,Brown
+PLANT_0309,Corn,0,42.43,32.33,3.15,Healthy,Brown
+PLANT_0310,Corn,0,81.79,24.83,2.09,Healthy,Brown
+PLANT_0311,Potato,0,32.27,31.94,0.11,Healthy,Brown
+PLANT_0312,Tomato,1,62.61,27.51,7.48,Mild Infection,Brown
+PLANT_0313,Tomato,0,63.37,29.52,1.21,Healthy,Brown
+PLANT_0314,Rice,1,62.9,20.64,5.55,Severe Infection,Green
+PLANT_0315,Tomato,0,78.78,15.48,9.28,Healthy,Green
+PLANT_0316,Tomato,1,37.26,30.42,2.97,Mild Infection,Yellow
+PLANT_0317,Rice,0,58.09,28.53,2.21,Healthy,Green
+PLANT_0318,Wheat,0,33.37,22.38,3.19,Healthy,Green
+PLANT_0319,Corn,0,56.76,21.14,3.72,Healthy,Yellow
+PLANT_0320,Tomato,0,80.71,22.79,2.68,Healthy,Yellow
+PLANT_0321,Corn,0,56.55,18.4,8.66,Healthy,Yellow
+PLANT_0322,Rice,0,43.32,15.24,3.16,Healthy,Green
+PLANT_0323,Corn,0,86.47,18.55,1.55,Healthy,Yellow
+PLANT_0324,Tomato,1,31.68,23.83,4.37,Mild Infection,Brown
+PLANT_0325,Wheat,0,79.33,27.31,9.58,Healthy,Green
+PLANT_0326,Tomato,0,36.03,29.99,4.31,Healthy,Brown
+PLANT_0327,Wheat,0,36.49,32.09,2.5,Healthy,Green
+PLANT_0328,Potato,0,82.39,34.98,7.96,Healthy,Green
+PLANT_0329,Corn,0,35.99,30.58,7.42,Healthy,Green
+PLANT_0330,Corn,0,79.55,20.0,7.86,Healthy,Brown
+PLANT_0331,Rice,0,65.87,21.31,8.34,Healthy,Yellow
+PLANT_0332,Wheat,1,54.92,16.12,5.96,Mild Infection,Green
+PLANT_0333,Tomato,0,72.17,20.75,2.68,Healthy,Yellow
+PLANT_0334,Tomato,0,78.34,16.25,7.17,Healthy,Brown
+PLANT_0335,Rice,0,56.4,27.28,2.63,Healthy,Brown
+PLANT_0336,Tomato,0,55.15,15.77,2.97,Healthy,Green
+PLANT_0337,Rice,0,35.03,29.65,5.86,Healthy,Brown
+PLANT_0338,Wheat,0,86.79,20.87,5.36,Healthy,Brown
+PLANT_0339,Corn,0,59.44,24.61,2.77,Healthy,Green
+PLANT_0340,Potato,0,56.13,29.88,4.54,Healthy,Yellow
+PLANT_0341,Rice,1,86.69,30.74,8.59,Severe Infection,Brown
+PLANT_0342,Corn,1,45.03,33.05,6.17,Severe Infection,Green
+PLANT_0343,Wheat,0,71.19,25.59,4.72,Healthy,Brown
+PLANT_0344,Tomato,0,49.55,26.31,0.78,Healthy,Green
+PLANT_0345,Rice,0,60.64,23.81,6.0,Healthy,Brown
+PLANT_0346,Corn,0,57.55,16.7,5.75,Healthy,Green
+PLANT_0347,Tomato,1,34.35,18.21,1.89,Mild Infection,Green
+PLANT_0348,Rice,0,53.95,19.17,1.85,Healthy,Brown
+PLANT_0349,Wheat,0,89.75,27.59,4.28,Healthy,Yellow
+PLANT_0350,Potato,0,85.56,27.75,8.77,Healthy,Yellow
+PLANT_0351,Potato,1,89.44,16.65,5.04,Mild Infection,Yellow
+PLANT_0352,Tomato,0,44.49,23.44,2.63,Healthy,Green
+PLANT_0353,Rice,1,69.05,20.14,2.76,Mild Infection,Brown
+PLANT_0354,Tomato,0,78.84,19.51,5.66,Healthy,Yellow
+PLANT_0355,Potato,0,78.46,30.83,7.03,Healthy,Brown
+PLANT_0356,Potato,0,43.83,31.81,1.0,Healthy,Yellow
+PLANT_0357,Tomato,0,72.67,26.47,5.6,Healthy,Yellow
+PLANT_0358,Rice,0,48.83,25.15,8.72,Healthy,Brown
+PLANT_0359,Wheat,0,84.19,19.86,3.04,Healthy,Yellow
+PLANT_0360,Rice,0,39.39,27.08,0.88,Healthy,Green
+PLANT_0361,Wheat,0,74.16,25.93,9.22,Healthy,Yellow
+PLANT_0362,Rice,1,44.05,16.2,2.51,Severe Infection,Brown
+PLANT_0363,Potato,1,86.31,22.02,4.94,Mild Infection,Brown
+PLANT_0364,Corn,0,41.39,17.39,6.27,Healthy,Brown
+PLANT_0365,Potato,0,50.68,21.22,5.55,Healthy,Yellow
+PLANT_0366,Rice,1,63.69,26.49,3.99,Severe Infection,Brown
+PLANT_0367,Potato,0,60.42,30.15,8.49,Healthy,Brown
+PLANT_0368,Potato,1,82.12,20.73,8.96,Severe Infection,Green
+PLANT_0369,Tomato,0,57.59,15.25,1.33,Healthy,Yellow
+PLANT_0370,Rice,0,66.59,23.87,4.6,Healthy,Brown
+PLANT_0371,Rice,0,78.37,16.01,4.64,Healthy,Green
+PLANT_0372,Corn,0,48.2,26.76,4.62,Healthy,Brown
+PLANT_0373,Potato,0,86.99,35.0,7.57,Healthy,Yellow
+PLANT_0374,Wheat,0,58.27,33.37,8.74,Healthy,Green
+PLANT_0375,Wheat,0,32.31,29.53,7.17,Healthy,Green
+PLANT_0376,Rice,1,73.69,32.2,5.71,Severe Infection,Green
+PLANT_0377,Potato,0,30.22,26.53,6.44,Healthy,Yellow
+PLANT_0378,Wheat,0,82.99,27.56,3.61,Healthy,Yellow
+PLANT_0379,Rice,0,31.8,25.64,9.62,Healthy,Brown
+PLANT_0380,Potato,1,85.25,28.72,9.95,Mild Infection,Brown
+PLANT_0381,Wheat,0,87.9,32.8,3.23,Healthy,Green
+PLANT_0382,Tomato,0,32.9,32.87,7.87,Healthy,Brown
+PLANT_0383,Corn,1,56.58,32.31,7.61,Mild Infection,Yellow
+PLANT_0384,Tomato,0,78.82,31.04,9.51,Healthy,Green
+PLANT_0385,Corn,0,54.64,15.82,7.87,Healthy,Yellow
+PLANT_0386,Potato,0,34.22,26.84,7.35,Healthy,Yellow
+PLANT_0387,Wheat,0,60.78,33.94,9.89,Healthy,Yellow
+PLANT_0388,Tomato,0,83.52,28.57,5.46,Healthy,Brown
+PLANT_0389,Wheat,1,82.85,31.47,6.58,Severe Infection,Yellow
+PLANT_0390,Rice,0,57.95,21.61,6.89,Healthy,Yellow
+PLANT_0391,Wheat,0,78.01,34.64,7.51,Healthy,Yellow
+PLANT_0392,Wheat,0,61.18,20.11,2.9,Healthy,Yellow
+PLANT_0393,Corn,0,31.34,27.15,8.62,Healthy,Brown
+PLANT_0394,Potato,0,38.39,25.17,3.86,Healthy,Brown
+PLANT_0395,Tomato,1,44.78,33.72,8.76,Mild Infection,Brown
+PLANT_0396,Potato,0,75.64,33.21,3.77,Healthy,Green
+PLANT_0397,Potato,0,64.31,30.3,2.74,Healthy,Green
+PLANT_0398,Tomato,0,67.19,16.9,9.09,Healthy,Yellow
+PLANT_0399,Wheat,0,78.27,28.8,8.91,Healthy,Brown
+PLANT_0400,Potato,0,49.44,25.19,0.19,Healthy,Brown
+PLANT_0401,Potato,1,67.63,33.86,1.09,Mild Infection,Green
+PLANT_0402,Corn,1,51.2,23.67,6.05,Mild Infection,Green
+PLANT_0403,Tomato,1,56.71,27.16,2.2,Mild Infection,Green
+PLANT_0404,Wheat,0,32.29,19.22,7.1,Healthy,Green
+PLANT_0405,Wheat,0,82.71,29.9,8.66,Healthy,Green
+PLANT_0406,Rice,0,66.73,16.88,1.97,Healthy,Yellow
+PLANT_0407,Rice,0,88.34,33.42,9.17,Healthy,Green
+PLANT_0408,Wheat,0,61.92,29.36,6.24,Healthy,Green
+PLANT_0409,Tomato,0,33.08,25.03,3.92,Healthy,Green
+PLANT_0410,Rice,1,38.71,30.71,2.07,Mild Infection,Green
+PLANT_0411,Corn,1,76.58,25.07,9.0,Mild Infection,Brown
+PLANT_0412,Potato,0,51.23,18.11,7.94,Healthy,Green
+PLANT_0413,Rice,0,65.2,33.55,0.52,Healthy,Green
+PLANT_0414,Tomato,0,71.77,28.9,0.33,Healthy,Yellow
+PLANT_0415,Potato,1,87.92,20.01,6.37,Mild Infection,Brown
+PLANT_0416,Potato,0,81.99,29.55,5.29,Healthy,Brown
+PLANT_0417,Corn,1,57.1,17.98,1.73,Severe Infection,Green
+PLANT_0418,Potato,0,50.6,29.09,5.52,Healthy,Brown
+PLANT_0419,Wheat,0,45.02,21.68,8.66,Healthy,Brown
+PLANT_0420,Rice,1,67.84,20.33,7.39,Mild Infection,Brown
+PLANT_0421,Tomato,0,77.41,34.7,3.34,Healthy,Green
+PLANT_0422,Corn,0,51.29,28.15,5.91,Healthy,Green
+PLANT_0423,Wheat,1,55.59,19.86,5.46,Severe Infection,Brown
+PLANT_0424,Rice,0,32.29,31.24,7.24,Healthy,Green
+PLANT_0425,Tomato,1,86.26,27.29,2.84,Mild Infection,Brown
+PLANT_0426,Corn,0,47.46,18.93,4.31,Healthy,Brown
+PLANT_0427,Potato,1,84.87,33.42,9.38,Mild Infection,Brown
+PLANT_0428,Corn,0,86.19,27.0,0.75,Healthy,Green
+PLANT_0429,Rice,1,45.25,21.63,3.13,Mild Infection,Brown
+PLANT_0430,Wheat,1,38.83,16.88,5.72,Severe Infection,Green
+PLANT_0431,Rice,1,49.09,24.65,1.72,Mild Infection,Green
+PLANT_0432,Potato,0,44.25,33.24,4.84,Healthy,Green
+PLANT_0433,Tomato,1,74.25,19.08,5.74,Severe Infection,Green
+PLANT_0434,Potato,1,65.41,32.36,2.55,Mild Infection,Green
+PLANT_0435,Corn,0,46.24,31.9,3.25,Healthy,Green
+PLANT_0436,Tomato,0,44.85,17.37,7.55,Healthy,Green
+PLANT_0437,Corn,0,50.17,29.02,6.17,Healthy,Green
+PLANT_0438,Corn,0,43.57,17.28,3.41,Healthy,Yellow
+PLANT_0439,Tomato,0,42.16,19.99,4.52,Healthy,Green
+PLANT_0440,Wheat,1,49.95,25.84,2.54,Severe Infection,Yellow
+PLANT_0441,Corn,0,42.39,27.14,0.41,Healthy,Green
+PLANT_0442,Corn,1,69.19,20.44,0.07,Mild Infection,Brown
+PLANT_0443,Rice,1,72.4,25.2,7.63,Mild Infection,Brown
+PLANT_0444,Tomato,0,37.12,20.14,8.95,Healthy,Brown
+PLANT_0445,Wheat,0,89.63,30.64,0.11,Healthy,Green
+PLANT_0446,Tomato,0,52.14,17.07,3.1,Healthy,Brown
+PLANT_0447,Rice,0,78.0,16.45,6.94,Healthy,Yellow
+PLANT_0448,Wheat,0,34.14,27.12,7.4,Healthy,Green
+PLANT_0449,Rice,1,79.79,26.48,2.4,Mild Infection,Green
+PLANT_0450,Wheat,0,33.57,23.03,5.58,Healthy,Brown
+PLANT_0451,Tomato,0,84.2,20.98,4.7,Healthy,Yellow
+PLANT_0452,Potato,0,75.81,24.91,5.35,Healthy,Green
+PLANT_0453,Potato,0,71.28,15.55,4.86,Healthy,Green
+PLANT_0454,Corn,1,78.17,21.37,0.94,Mild Infection,Green
+PLANT_0455,Tomato,0,46.56,34.87,4.04,Healthy,Yellow
+PLANT_0456,Corn,0,64.42,15.84,4.45,Healthy,Brown
+PLANT_0457,Rice,0,41.79,15.5,3.56,Healthy,Yellow
+PLANT_0458,Tomato,1,72.5,23.4,0.41,Mild Infection,Yellow
+PLANT_0459,Wheat,0,48.58,19.68,7.41,Healthy,Brown
+PLANT_0460,Rice,0,30.78,26.3,8.58,Healthy,Green
+PLANT_0461,Tomato,0,53.71,17.21,3.26,Healthy,Yellow
+PLANT_0462,Rice,0,53.76,30.43,3.01,Healthy,Brown
+PLANT_0463,Rice,0,65.1,20.47,1.57,Healthy,Green
+PLANT_0464,Corn,0,53.93,25.34,2.63,Healthy,Yellow
+PLANT_0465,Tomato,0,68.86,18.15,4.28,Healthy,Green
+PLANT_0466,Corn,0,84.35,28.8,9.46,Healthy,Brown
+PLANT_0467,Tomato,0,81.71,26.26,3.2,Healthy,Green
+PLANT_0468,Potato,1,76.62,31.83,2.2,Mild Infection,Green
+PLANT_0469,Wheat,1,72.24,34.94,1.31,Mild Infection,Brown
+PLANT_0470,Potato,0,67.54,32.12,1.68,Healthy,Yellow
+PLANT_0471,Rice,0,73.56,19.06,0.44,Healthy,Brown
+PLANT_0472,Potato,0,61.52,21.51,1.05,Healthy,Yellow
+PLANT_0473,Rice,0,53.81,34.49,2.71,Healthy,Brown
+PLANT_0474,Potato,0,79.7,27.48,8.35,Healthy,Green
+PLANT_0475,Potato,1,47.99,34.91,2.98,Severe Infection,Green
+PLANT_0476,Wheat,0,60.13,27.04,3.65,Healthy,Green
+PLANT_0477,Wheat,1,51.58,17.7,6.09,Mild Infection,Brown
+PLANT_0478,Potato,1,86.8,26.23,0.09,Severe Infection,Yellow
+PLANT_0479,Potato,0,75.6,19.76,1.26,Healthy,Green
+PLANT_0480,Potato,0,89.07,26.63,6.67,Healthy,Yellow
+PLANT_0481,Rice,0,70.18,23.6,6.9,Healthy,Yellow
+PLANT_0482,Wheat,1,68.24,18.06,6.31,Severe Infection,Brown
+PLANT_0483,Tomato,0,47.02,20.29,1.98,Healthy,Yellow
+PLANT_0484,Corn,0,82.31,29.5,8.45,Healthy,Yellow
+PLANT_0485,Rice,0,64.88,30.5,8.58,Healthy,Yellow
+PLANT_0486,Tomato,1,89.93,16.14,1.05,Mild Infection,Yellow
+PLANT_0487,Wheat,1,58.96,15.65,4.69,Severe Infection,Brown
+PLANT_0488,Potato,0,30.44,26.21,1.01,Healthy,Brown
+PLANT_0489,Rice,1,36.43,32.27,5.68,Severe Infection,Yellow
+PLANT_0490,Potato,0,56.08,32.26,9.87,Healthy,Yellow
+PLANT_0491,Wheat,0,34.25,31.71,9.76,Healthy,Green
+PLANT_0492,Potato,1,40.17,21.9,4.4,Severe Infection,Yellow
+PLANT_0493,Tomato,1,39.59,20.86,2.78,Mild Infection,Brown
+PLANT_0494,Rice,0,53.26,28.74,2.6,Healthy,Yellow
+PLANT_0495,Tomato,0,46.33,19.83,4.5,Healthy,Yellow
+PLANT_0496,Potato,0,67.22,20.93,1.8,Healthy,Brown
+PLANT_0497,Corn,1,41.36,18.83,7.14,Severe Infection,Brown
+PLANT_0498,Corn,1,44.31,23.43,8.19,Mild Infection,Brown
+PLANT_0499,Corn,1,41.29,32.05,8.74,Mild Infection,Yellow
+PLANT_0500,Rice,0,51.06,23.69,4.15,Healthy,Yellow
+PLANT_0501,Tomato,0,68.27,21.29,3.48,Healthy,Brown
+PLANT_0502,Wheat,1,77.15,33.18,5.45,Severe Infection,Green
+PLANT_0503,Potato,1,42.21,17.39,2.1,Mild Infection,Green
+PLANT_0504,Corn,0,65.23,15.68,1.15,Healthy,Yellow
+PLANT_0505,Tomato,1,41.82,25.21,9.66,Severe Infection,Green
+PLANT_0506,Potato,0,38.36,22.44,4.1,Healthy,Yellow
+PLANT_0507,Corn,0,84.32,21.35,5.74,Healthy,Green
+PLANT_0508,Corn,0,55.48,34.41,5.16,Healthy,Yellow
+PLANT_0509,Corn,1,42.95,33.6,7.84,Mild Infection,Green
+PLANT_0510,Corn,0,87.39,18.14,5.77,Healthy,Green
+PLANT_0511,Rice,0,51.15,23.57,8.37,Healthy,Yellow
+PLANT_0512,Tomato,0,78.36,31.77,2.65,Healthy,Brown
+PLANT_0513,Corn,0,63.13,27.09,3.43,Healthy,Yellow
+PLANT_0514,Potato,1,46.77,27.41,8.03,Mild Infection,Brown
+PLANT_0515,Tomato,0,51.11,15.98,7.42,Healthy,Brown
+PLANT_0516,Rice,0,77.83,30.04,2.13,Healthy,Green
+PLANT_0517,Potato,1,78.6,16.13,9.99,Mild Infection,Brown
+PLANT_0518,Potato,0,65.53,26.08,1.78,Healthy,Brown
+PLANT_0519,Rice,0,60.72,20.94,1.66,Healthy,Green
+PLANT_0520,Potato,1,57.2,32.77,7.71,Mild Infection,Yellow
+PLANT_0521,Rice,0,70.91,19.54,6.42,Healthy,Brown
+PLANT_0522,Rice,0,40.78,17.14,9.78,Healthy,Green
+PLANT_0523,Corn,0,44.66,31.83,1.36,Healthy,Yellow
+PLANT_0524,Rice,1,78.79,34.95,4.87,Mild Infection,Brown
+PLANT_0525,Potato,1,84.0,21.88,8.54,Severe Infection,Brown
+PLANT_0526,Corn,0,39.64,18.12,1.29,Healthy,Brown
+PLANT_0527,Tomato,0,71.16,20.27,5.31,Healthy,Yellow
+PLANT_0528,Corn,0,56.65,33.14,3.89,Healthy,Brown
+PLANT_0529,Potato,1,51.19,34.43,4.32,Mild Infection,Green
+PLANT_0530,Tomato,0,80.96,25.68,3.6,Healthy,Green
+PLANT_0531,Tomato,0,59.85,23.83,1.21,Healthy,Green
+PLANT_0532,Rice,0,68.27,22.12,2.28,Healthy,Yellow
+PLANT_0533,Wheat,0,56.59,28.94,6.78,Healthy,Green
+PLANT_0534,Rice,1,64.7,27.21,4.46,Severe Infection,Yellow
+PLANT_0535,Wheat,0,73.62,28.59,8.63,Healthy,Brown
+PLANT_0536,Rice,0,39.14,26.51,7.86,Healthy,Yellow
+PLANT_0537,Wheat,0,67.16,20.82,8.92,Healthy,Brown
+PLANT_0538,Tomato,0,85.22,29.43,2.99,Healthy,Yellow
+PLANT_0539,Tomato,1,88.77,33.76,5.63,Severe Infection,Brown
+PLANT_0540,Potato,1,58.69,19.07,2.75,Mild Infection,Brown
+PLANT_0541,Corn,0,44.87,34.02,7.97,Healthy,Green
+PLANT_0542,Wheat,0,48.75,25.34,7.66,Healthy,Brown
+PLANT_0543,Corn,0,37.86,16.84,3.02,Healthy,Brown
+PLANT_0544,Corn,1,38.95,17.44,6.7,Mild Infection,Green
+PLANT_0545,Tomato,1,72.0,31.47,9.43,Mild Infection,Green
+PLANT_0546,Corn,0,81.88,16.41,8.95,Healthy,Brown
+PLANT_0547,Corn,0,56.42,21.66,8.69,Healthy,Yellow
+PLANT_0548,Wheat,0,34.25,15.29,1.71,Healthy,Brown
+PLANT_0549,Corn,0,75.98,19.18,0.48,Healthy,Green
+PLANT_0550,Wheat,0,79.98,19.11,2.78,Healthy,Green
+PLANT_0551,Corn,0,56.64,22.3,1.05,Healthy,Green
+PLANT_0552,Rice,1,47.25,18.11,4.75,Severe Infection,Yellow
+PLANT_0553,Wheat,1,74.91,28.65,2.79,Mild Infection,Yellow
+PLANT_0554,Tomato,1,80.48,31.33,9.57,Mild Infection,Green
+PLANT_0555,Wheat,0,56.72,27.49,4.78,Healthy,Brown
+PLANT_0556,Potato,1,89.34,34.72,7.16,Mild Infection,Yellow
+PLANT_0557,Potato,0,82.57,23.46,0.96,Healthy,Green
+PLANT_0558,Rice,0,80.87,21.77,7.63,Healthy,Yellow
+PLANT_0559,Corn,0,44.66,19.7,8.04,Healthy,Green
+PLANT_0560,Rice,0,67.09,28.32,4.21,Healthy,Green
+PLANT_0561,Wheat,1,50.97,26.96,3.08,Mild Infection,Brown
+PLANT_0562,Tomato,1,84.15,17.35,8.45,Mild Infection,Green
+PLANT_0563,Wheat,0,65.94,33.89,8.4,Healthy,Brown
+PLANT_0564,Corn,1,45.78,18.18,2.7,Mild Infection,Brown
+PLANT_0565,Potato,0,48.44,23.07,7.33,Healthy,Brown
+PLANT_0566,Rice,0,50.46,33.48,5.71,Healthy,Brown
+PLANT_0567,Corn,0,84.29,19.65,3.39,Healthy,Yellow
+PLANT_0568,Wheat,0,52.36,20.18,4.74,Healthy,Yellow
+PLANT_0569,Corn,0,67.36,24.02,6.82,Healthy,Green
+PLANT_0570,Tomato,1,75.49,23.4,7.91,Mild Infection,Brown
+PLANT_0571,Wheat,0,68.76,19.22,5.24,Healthy,Brown
+PLANT_0572,Potato,1,32.19,27.01,0.32,Mild Infection,Brown
+PLANT_0573,Rice,0,77.36,33.34,0.03,Healthy,Brown
+PLANT_0574,Tomato,1,67.69,30.07,1.66,Mild Infection,Green
+PLANT_0575,Potato,0,50.06,18.34,8.45,Healthy,Green
+PLANT_0576,Wheat,1,32.25,16.53,9.92,Mild Infection,Brown
+PLANT_0577,Potato,0,80.91,16.04,0.92,Healthy,Yellow
+PLANT_0578,Rice,0,77.17,21.88,4.07,Healthy,Yellow
+PLANT_0579,Rice,0,77.42,30.36,6.26,Healthy,Green
+PLANT_0580,Rice,0,66.1,20.52,8.43,Healthy,Yellow
+PLANT_0581,Wheat,1,80.5,27.94,0.74,Mild Infection,Green
+PLANT_0582,Potato,0,72.99,24.95,4.52,Healthy,Yellow
+PLANT_0583,Rice,0,69.01,21.12,8.73,Healthy,Green
+PLANT_0584,Wheat,0,31.97,30.61,3.67,Healthy,Brown
+PLANT_0585,Tomato,1,81.18,18.01,9.09,Mild Infection,Green
+PLANT_0586,Tomato,1,37.89,28.86,9.36,Mild Infection,Green
+PLANT_0587,Tomato,0,49.58,34.55,1.85,Healthy,Brown
+PLANT_0588,Potato,0,52.86,33.55,2.41,Healthy,Green
+PLANT_0589,Potato,1,64.42,31.63,8.08,Severe Infection,Green
+PLANT_0590,Rice,0,58.05,31.65,0.36,Healthy,Green
+PLANT_0591,Wheat,0,75.4,34.6,4.1,Healthy,Yellow
+PLANT_0592,Tomato,0,86.82,24.56,1.68,Healthy,Yellow
+PLANT_0593,Wheat,0,79.93,20.74,2.22,Healthy,Brown
+PLANT_0594,Corn,0,68.23,26.53,8.56,Healthy,Brown
+PLANT_0595,Rice,0,87.75,31.5,6.98,Healthy,Yellow
+PLANT_0596,Potato,0,70.64,17.5,6.23,Healthy,Yellow
+PLANT_0597,Corn,0,45.59,26.16,2.89,Healthy,Yellow
+PLANT_0598,Tomato,1,47.06,27.67,8.03,Mild Infection,Brown
+PLANT_0599,Wheat,0,62.14,17.09,2.97,Healthy,Brown
+PLANT_0600,Tomato,0,70.4,30.74,7.55,Healthy,Brown
+PLANT_0601,Corn,0,35.54,22.64,4.01,Healthy,Yellow
+PLANT_0602,Potato,1,40.61,15.79,6.14,Mild Infection,Yellow
+PLANT_0603,Rice,1,37.44,18.73,1.65,Mild Infection,Yellow
+PLANT_0604,Rice,1,33.06,23.61,9.16,Severe Infection,Green
+PLANT_0605,Rice,0,42.75,20.55,2.63,Healthy,Brown
+PLANT_0606,Tomato,1,55.23,15.56,1.27,Mild Infection,Yellow
+PLANT_0607,Tomato,1,35.09,33.24,5.32,Mild Infection,Green
+PLANT_0608,Wheat,0,59.48,32.34,7.04,Healthy,Green
+PLANT_0609,Corn,0,60.23,29.56,8.73,Healthy,Yellow
+PLANT_0610,Corn,1,49.73,15.42,1.73,Severe Infection,Brown
+PLANT_0611,Potato,0,45.06,15.6,5.0,Healthy,Yellow
+PLANT_0612,Potato,1,52.57,33.03,3.03,Mild Infection,Yellow
+PLANT_0613,Tomato,1,60.5,19.18,1.85,Severe Infection,Green
+PLANT_0614,Corn,1,66.06,16.49,5.77,Mild Infection,Brown
+PLANT_0615,Rice,0,45.78,34.95,8.35,Healthy,Yellow
+PLANT_0616,Wheat,0,69.44,21.7,2.87,Healthy,Green
+PLANT_0617,Corn,0,43.98,18.91,9.43,Healthy,Green
+PLANT_0618,Potato,0,42.43,16.93,4.59,Healthy,Yellow
+PLANT_0619,Wheat,0,47.87,28.88,6.81,Healthy,Brown
+PLANT_0620,Potato,0,81.99,30.22,9.43,Healthy,Brown
+PLANT_0621,Corn,0,82.76,15.67,5.16,Healthy,Green
+PLANT_0622,Wheat,0,38.66,26.77,3.82,Healthy,Green
+PLANT_0623,Corn,0,50.96,32.72,8.11,Healthy,Yellow
+PLANT_0624,Rice,0,86.84,20.13,2.7,Healthy,Green
+PLANT_0625,Tomato,0,57.64,30.71,1.26,Healthy,Brown
+PLANT_0626,Potato,1,67.64,28.36,6.95,Mild Infection,Yellow
+PLANT_0627,Corn,0,43.01,26.85,9.96,Healthy,Green
+PLANT_0628,Wheat,0,70.17,30.04,5.28,Healthy,Green
+PLANT_0629,Corn,0,75.87,28.49,8.36,Healthy,Green
+PLANT_0630,Wheat,0,80.22,15.48,1.08,Healthy,Green
+PLANT_0631,Potato,0,48.67,23.17,2.23,Healthy,Brown
+PLANT_0632,Wheat,0,86.31,27.48,0.99,Healthy,Green
+PLANT_0633,Corn,0,69.6,23.92,0.17,Healthy,Yellow
+PLANT_0634,Corn,0,31.4,18.37,3.16,Healthy,Yellow
+PLANT_0635,Potato,0,42.73,26.27,1.56,Healthy,Green
+PLANT_0636,Wheat,0,37.17,17.2,3.15,Healthy,Yellow
+PLANT_0637,Rice,0,63.7,27.81,1.84,Healthy,Green
+PLANT_0638,Corn,1,59.18,26.59,1.4,Severe Infection,Yellow
+PLANT_0639,Potato,1,44.66,32.72,6.3,Severe Infection,Green
+PLANT_0640,Tomato,0,83.69,28.84,4.36,Healthy,Yellow
+PLANT_0641,Potato,0,77.36,19.99,5.13,Healthy,Green
+PLANT_0642,Tomato,1,78.99,34.47,1.16,Severe Infection,Green
+PLANT_0643,Corn,0,59.26,34.16,5.45,Healthy,Yellow
+PLANT_0644,Rice,0,72.85,29.8,1.05,Healthy,Green
+PLANT_0645,Rice,0,45.55,21.59,6.69,Healthy,Green
+PLANT_0646,Rice,0,79.8,21.36,0.53,Healthy,Green
+PLANT_0647,Tomato,1,59.73,25.0,1.2,Severe Infection,Yellow
+PLANT_0648,Potato,0,68.34,25.14,7.05,Healthy,Yellow
+PLANT_0649,Wheat,0,89.19,25.49,8.36,Healthy,Green
+PLANT_0650,Potato,0,40.7,30.28,5.59,Healthy,Yellow
+PLANT_0651,Tomato,1,46.94,23.53,9.3,Mild Infection,Brown
+PLANT_0652,Corn,0,53.55,21.5,7.51,Healthy,Yellow
+PLANT_0653,Rice,1,55.25,28.15,0.15,Severe Infection,Brown
+PLANT_0654,Tomato,1,82.11,33.12,3.1,Mild Infection,Brown
+PLANT_0655,Tomato,0,40.8,24.06,0.99,Healthy,Yellow
+PLANT_0656,Potato,0,45.04,16.16,2.81,Healthy,Yellow
+PLANT_0657,Wheat,0,81.33,22.81,4.6,Healthy,Yellow
+PLANT_0658,Rice,1,85.49,15.65,5.78,Severe Infection,Brown
+PLANT_0659,Rice,0,89.41,21.74,4.37,Healthy,Yellow
+PLANT_0660,Corn,0,62.48,25.96,0.47,Healthy,Yellow
+PLANT_0661,Rice,0,71.4,29.86,2.2,Healthy,Green
+PLANT_0662,Tomato,0,85.93,15.47,2.17,Healthy,Yellow
+PLANT_0663,Tomato,0,60.95,28.85,8.19,Healthy,Yellow
+PLANT_0664,Potato,0,44.09,16.79,0.16,Healthy,Brown
+PLANT_0665,Potato,0,70.46,20.38,5.63,Healthy,Yellow
+PLANT_0666,Corn,1,81.54,24.28,1.12,Mild Infection,Green
+PLANT_0667,Rice,0,59.76,31.1,2.55,Healthy,Yellow
+PLANT_0668,Potato,0,70.54,20.59,4.28,Healthy,Brown
+PLANT_0669,Rice,0,40.07,33.56,4.71,Healthy,Green
+PLANT_0670,Rice,1,86.27,21.62,6.49,Mild Infection,Green
+PLANT_0671,Rice,1,85.81,30.55,4.82,Severe Infection,Yellow
+PLANT_0672,Corn,1,48.44,19.5,0.3,Mild Infection,Yellow
+PLANT_0673,Corn,0,36.57,22.81,6.32,Healthy,Yellow
+PLANT_0674,Rice,0,55.77,19.95,4.99,Healthy,Brown
+PLANT_0675,Tomato,1,33.42,20.24,7.42,Mild Infection,Green
+PLANT_0676,Potato,0,87.48,26.81,7.19,Healthy,Brown
+PLANT_0677,Rice,1,68.92,28.63,8.2,Mild Infection,Brown
+PLANT_0678,Rice,0,66.14,34.17,4.16,Healthy,Brown
+PLANT_0679,Corn,0,30.65,18.18,3.08,Healthy,Green
+PLANT_0680,Rice,0,39.85,17.2,2.8,Healthy,Brown
+PLANT_0681,Rice,0,73.01,28.25,7.84,Healthy,Brown
+PLANT_0682,Rice,0,48.5,29.73,0.17,Healthy,Green
+PLANT_0683,Corn,0,61.26,30.64,2.15,Healthy,Brown
+PLANT_0684,Potato,0,43.76,26.91,2.08,Healthy,Yellow
+PLANT_0685,Potato,1,54.74,27.52,8.08,Mild Infection,Green
+PLANT_0686,Rice,0,39.59,20.69,2.72,Healthy,Green
+PLANT_0687,Rice,1,44.54,31.52,2.35,Severe Infection,Green
+PLANT_0688,Corn,1,44.7,15.58,7.38,Mild Infection,Brown
+PLANT_0689,Rice,0,55.42,33.92,3.86,Healthy,Yellow
+PLANT_0690,Potato,0,47.65,21.34,6.3,Healthy,Green
+PLANT_0691,Corn,0,80.63,34.23,1.36,Healthy,Green
+PLANT_0692,Wheat,1,78.37,33.97,0.03,Mild Infection,Yellow
+PLANT_0693,Wheat,1,55.18,16.31,1.67,Severe Infection,Yellow
+PLANT_0694,Wheat,0,86.13,34.8,0.49,Healthy,Green
+PLANT_0695,Potato,0,39.98,23.25,2.09,Healthy,Green
+PLANT_0696,Potato,0,39.11,32.23,7.65,Healthy,Green
+PLANT_0697,Tomato,0,42.27,21.58,4.09,Healthy,Yellow
+PLANT_0698,Potato,0,32.53,21.32,2.7,Healthy,Brown
+PLANT_0699,Corn,0,52.78,34.48,7.65,Healthy,Green
+PLANT_0700,Rice,0,74.37,22.19,7.3,Healthy,Brown
+PLANT_0701,Rice,0,86.33,15.55,6.19,Healthy,Green
+PLANT_0702,Tomato,0,87.22,30.99,3.51,Healthy,Green
+PLANT_0703,Tomato,0,43.49,27.06,2.54,Healthy,Brown
+PLANT_0704,Wheat,1,73.97,31.06,4.92,Severe Infection,Yellow
+PLANT_0705,Corn,1,74.96,29.04,3.23,Severe Infection,Green
+PLANT_0706,Tomato,0,60.23,28.17,2.91,Healthy,Yellow
+PLANT_0707,Corn,0,67.52,29.59,8.56,Healthy,Yellow
+PLANT_0708,Corn,0,56.68,19.0,3.23,Healthy,Yellow
+PLANT_0709,Rice,0,78.55,27.27,4.98,Healthy,Yellow
+PLANT_0710,Rice,0,77.47,18.38,1.38,Healthy,Yellow
+PLANT_0711,Potato,0,55.01,31.28,6.24,Healthy,Brown
+PLANT_0712,Wheat,0,45.64,21.55,6.86,Healthy,Yellow
+PLANT_0713,Rice,0,77.99,32.51,0.3,Healthy,Green
+PLANT_0714,Tomato,0,34.09,21.23,9.86,Healthy,Yellow
+PLANT_0715,Potato,0,88.21,16.15,9.93,Healthy,Brown
+PLANT_0716,Corn,0,85.28,28.6,6.15,Healthy,Brown
+PLANT_0717,Rice,0,47.58,34.45,7.85,Healthy,Green
+PLANT_0718,Wheat,0,76.12,16.4,7.75,Healthy,Brown
+PLANT_0719,Potato,0,75.41,32.36,5.96,Healthy,Green
+PLANT_0720,Tomato,0,43.64,34.33,1.25,Healthy,Brown
+PLANT_0721,Tomato,1,47.26,26.31,6.49,Severe Infection,Yellow
+PLANT_0722,Corn,1,45.12,33.89,2.24,Severe Infection,Green
+PLANT_0723,Rice,0,81.85,23.64,3.68,Healthy,Yellow
+PLANT_0724,Potato,1,51.25,24.03,2.53,Mild Infection,Green
+PLANT_0725,Rice,1,57.81,23.59,8.58,Mild Infection,Brown
+PLANT_0726,Rice,1,35.67,31.96,2.45,Severe Infection,Yellow
+PLANT_0727,Potato,0,39.39,18.09,1.94,Healthy,Green
+PLANT_0728,Corn,0,43.64,21.53,7.2,Healthy,Yellow
+PLANT_0729,Rice,0,33.28,23.77,5.03,Healthy,Green
+PLANT_0730,Wheat,0,87.48,26.23,6.93,Healthy,Yellow
+PLANT_0731,Tomato,1,74.16,16.2,3.67,Severe Infection,Brown
+PLANT_0732,Corn,0,53.46,16.58,4.41,Healthy,Green
+PLANT_0733,Wheat,1,71.75,16.91,2.49,Mild Infection,Yellow
+PLANT_0734,Rice,0,75.97,24.28,6.68,Healthy,Yellow
+PLANT_0735,Potato,0,56.13,20.92,5.99,Healthy,Yellow
+PLANT_0736,Potato,0,44.23,16.06,2.57,Healthy,Brown
+PLANT_0737,Rice,0,74.05,34.23,4.64,Healthy,Green
+PLANT_0738,Rice,1,50.32,26.94,0.95,Severe Infection,Green
+PLANT_0739,Corn,0,79.73,28.03,9.21,Healthy,Brown
+PLANT_0740,Rice,0,82.89,19.3,3.82,Healthy,Yellow
+PLANT_0741,Corn,1,46.35,21.69,6.06,Severe Infection,Brown
+PLANT_0742,Potato,1,78.51,30.08,0.68,Mild Infection,Yellow
+PLANT_0743,Rice,1,52.47,22.99,1.85,Mild Infection,Brown
+PLANT_0744,Corn,1,81.45,31.94,1.36,Mild Infection,Yellow
+PLANT_0745,Corn,0,49.74,22.5,6.48,Healthy,Yellow
+PLANT_0746,Potato,1,67.83,28.84,3.19,Mild Infection,Yellow
+PLANT_0747,Rice,0,42.05,30.9,9.3,Healthy,Green
+PLANT_0748,Corn,0,81.84,23.34,5.87,Healthy,Green
+PLANT_0749,Wheat,0,34.33,21.49,0.74,Healthy,Green
+PLANT_0750,Corn,1,62.37,25.78,9.38,Mild Infection,Brown
+PLANT_0751,Potato,1,43.17,18.86,6.37,Severe Infection,Green
+PLANT_0752,Potato,0,81.48,29.56,3.83,Healthy,Yellow
+PLANT_0753,Rice,0,43.04,27.6,3.58,Healthy,Yellow
+PLANT_0754,Rice,0,41.58,33.98,4.96,Healthy,Brown
+PLANT_0755,Tomato,1,71.22,24.75,6.71,Mild Infection,Yellow
+PLANT_0756,Rice,0,37.51,31.56,0.57,Healthy,Green
+PLANT_0757,Corn,0,56.66,19.81,0.98,Healthy,Brown
+PLANT_0758,Tomato,0,68.73,20.79,8.44,Healthy,Green
+PLANT_0759,Wheat,0,83.8,18.81,2.84,Healthy,Green
+PLANT_0760,Rice,0,63.59,18.39,9.91,Healthy,Brown
+PLANT_0761,Corn,1,87.25,22.96,2.39,Severe Infection,Green
+PLANT_0762,Wheat,0,74.72,30.56,7.12,Healthy,Green
+PLANT_0763,Rice,0,72.08,17.44,8.69,Healthy,Green
+PLANT_0764,Corn,0,44.17,22.34,8.25,Healthy,Yellow
+PLANT_0765,Corn,0,88.28,28.76,1.7,Healthy,Brown
+PLANT_0766,Potato,0,30.44,23.12,0.54,Healthy,Yellow
+PLANT_0767,Corn,0,34.1,32.83,8.86,Healthy,Yellow
+PLANT_0768,Potato,1,70.34,30.82,3.57,Mild Infection,Yellow
+PLANT_0769,Tomato,0,76.78,16.36,0.6,Healthy,Green
+PLANT_0770,Potato,0,86.96,24.49,0.73,Healthy,Green
+PLANT_0771,Potato,1,50.11,21.92,8.95,Severe Infection,Green
+PLANT_0772,Rice,1,64.23,33.49,9.68,Mild Infection,Yellow
+PLANT_0773,Corn,0,86.16,34.43,0.98,Healthy,Brown
+PLANT_0774,Tomato,0,83.06,20.41,8.89,Healthy,Yellow
+PLANT_0775,Corn,0,69.79,27.61,6.33,Healthy,Yellow
+PLANT_0776,Tomato,0,55.38,17.9,0.09,Healthy,Brown
+PLANT_0777,Wheat,1,67.66,16.04,7.78,Mild Infection,Brown
+PLANT_0778,Wheat,1,64.53,18.85,3.61,Mild Infection,Brown
+PLANT_0779,Rice,1,52.31,32.27,3.82,Mild Infection,Brown
+PLANT_0780,Wheat,1,70.0,26.7,6.5,Mild Infection,Brown
+PLANT_0781,Corn,0,40.18,16.77,5.09,Healthy,Green
+PLANT_0782,Tomato,1,56.29,16.22,3.15,Severe Infection,Green
+PLANT_0783,Tomato,1,73.16,27.92,5.21,Severe Infection,Brown
+PLANT_0784,Rice,1,82.71,16.72,1.57,Mild Infection,Green
+PLANT_0785,Corn,0,47.27,29.01,3.82,Healthy,Brown
+PLANT_0786,Tomato,1,58.82,34.62,6.57,Severe Infection,Yellow
+PLANT_0787,Tomato,0,30.35,21.28,6.93,Healthy,Green
+PLANT_0788,Rice,0,42.18,29.78,2.12,Healthy,Yellow
+PLANT_0789,Tomato,1,42.29,23.43,6.32,Mild Infection,Brown
+PLANT_0790,Potato,1,63.61,20.86,0.11,Mild Infection,Green
+PLANT_0791,Corn,0,73.04,32.69,1.36,Healthy,Brown
+PLANT_0792,Tomato,1,61.22,25.21,7.75,Mild Infection,Yellow
+PLANT_0793,Corn,0,79.67,24.81,7.79,Healthy,Green
+PLANT_0794,Corn,0,44.5,30.26,6.21,Healthy,Green
+PLANT_0795,Rice,0,39.45,20.03,2.6,Healthy,Green
+PLANT_0796,Rice,0,64.88,19.71,2.36,Healthy,Green
+PLANT_0797,Potato,0,77.93,23.51,1.88,Healthy,Brown
+PLANT_0798,Tomato,0,68.21,28.27,2.95,Healthy,Yellow
+PLANT_0799,Corn,0,78.6,29.64,9.73,Healthy,Brown
+PLANT_0800,Potato,0,66.06,33.81,5.75,Healthy,Green
+PLANT_0801,Potato,0,58.95,24.83,7.07,Healthy,Brown
+PLANT_0802,Rice,0,50.36,34.18,2.44,Healthy,Brown
+PLANT_0803,Tomato,0,60.45,22.16,1.51,Healthy,Brown
+PLANT_0804,Potato,0,45.44,27.61,7.21,Healthy,Brown
+PLANT_0805,Tomato,0,60.49,28.54,0.23,Healthy,Yellow
+PLANT_0806,Corn,0,89.37,19.7,1.4,Healthy,Yellow
+PLANT_0807,Potato,1,89.47,29.45,8.86,Mild Infection,Yellow
+PLANT_0808,Tomato,0,79.14,25.53,3.89,Healthy,Green
+PLANT_0809,Corn,1,33.86,19.61,8.12,Mild Infection,Yellow
+PLANT_0810,Tomato,0,76.09,31.75,6.67,Healthy,Yellow
+PLANT_0811,Corn,1,39.66,18.23,4.79,Mild Infection,Brown
+PLANT_0812,Potato,0,36.78,24.31,4.3,Healthy,Brown
+PLANT_0813,Rice,0,32.43,26.9,3.81,Healthy,Brown
+PLANT_0814,Corn,1,40.4,27.73,4.6,Severe Infection,Green
+PLANT_0815,Wheat,0,63.87,24.55,2.33,Healthy,Green
+PLANT_0816,Wheat,0,32.88,30.21,0.56,Healthy,Yellow
+PLANT_0817,Potato,1,68.61,15.49,4.59,Mild Infection,Yellow
+PLANT_0818,Rice,0,77.32,34.79,9.22,Healthy,Brown
+PLANT_0819,Tomato,0,79.51,24.1,7.23,Healthy,Green
+PLANT_0820,Potato,0,60.15,16.51,8.82,Healthy,Green
+PLANT_0821,Corn,1,87.27,22.84,0.19,Severe Infection,Yellow
+PLANT_0822,Rice,1,77.95,27.98,5.1,Mild Infection,Brown
+PLANT_0823,Wheat,1,58.9,23.73,2.17,Mild Infection,Green
+PLANT_0824,Tomato,0,53.57,25.22,1.98,Healthy,Brown
+PLANT_0825,Tomato,1,57.9,15.67,8.06,Severe Infection,Yellow
+PLANT_0826,Potato,1,36.45,29.58,5.24,Severe Infection,Green
+PLANT_0827,Tomato,0,37.51,24.57,9.2,Healthy,Brown
+PLANT_0828,Corn,0,79.89,26.7,6.7,Healthy,Green
+PLANT_0829,Rice,1,86.21,22.22,7.87,Mild Infection,Brown
+PLANT_0830,Corn,0,59.28,23.21,5.34,Healthy,Yellow
+PLANT_0831,Rice,1,76.86,27.41,1.33,Mild Infection,Brown
+PLANT_0832,Wheat,1,43.44,31.84,4.4,Severe Infection,Brown
+PLANT_0833,Corn,0,37.72,17.73,2.38,Healthy,Yellow
+PLANT_0834,Wheat,0,50.63,24.56,1.39,Healthy,Green
+PLANT_0835,Corn,1,76.11,26.82,8.4,Mild Infection,Brown
+PLANT_0836,Tomato,0,65.54,21.93,7.68,Healthy,Brown
+PLANT_0837,Corn,0,53.96,17.98,7.1,Healthy,Yellow
+PLANT_0838,Rice,0,74.42,34.59,4.83,Healthy,Green
+PLANT_0839,Potato,0,54.72,23.51,5.02,Healthy,Brown
+PLANT_0840,Potato,1,77.62,22.69,4.25,Mild Infection,Yellow
+PLANT_0841,Wheat,0,45.18,23.52,4.1,Healthy,Brown
+PLANT_0842,Rice,1,48.32,29.38,5.87,Severe Infection,Yellow
+PLANT_0843,Potato,0,73.54,23.2,2.94,Healthy,Green
+PLANT_0844,Rice,1,50.79,28.41,1.79,Mild Infection,Brown
+PLANT_0845,Potato,0,83.35,20.99,0.9,Healthy,Green
+PLANT_0846,Corn,0,45.03,31.4,8.09,Healthy,Brown
+PLANT_0847,Tomato,0,32.14,24.8,1.75,Healthy,Brown
+PLANT_0848,Wheat,0,48.1,22.94,0.22,Healthy,Yellow
+PLANT_0849,Tomato,0,79.08,27.83,0.88,Healthy,Yellow
+PLANT_0850,Corn,0,77.94,16.57,8.68,Healthy,Brown
+PLANT_0851,Tomato,1,67.44,18.77,6.25,Severe Infection,Yellow
+PLANT_0852,Wheat,0,79.1,16.11,4.18,Healthy,Brown
+PLANT_0853,Wheat,0,52.8,25.28,8.8,Healthy,Brown
+PLANT_0854,Corn,0,50.22,18.79,2.72,Healthy,Yellow
+PLANT_0855,Corn,0,32.86,25.88,5.01,Healthy,Brown
+PLANT_0856,Corn,0,76.9,30.2,0.69,Healthy,Brown
+PLANT_0857,Potato,1,83.73,31.23,6.13,Mild Infection,Brown
+PLANT_0858,Wheat,0,60.18,29.13,3.25,Healthy,Green
+PLANT_0859,Corn,0,59.77,25.62,0.2,Healthy,Brown
+PLANT_0860,Tomato,0,88.08,15.61,3.03,Healthy,Brown
+PLANT_0861,Corn,1,78.43,24.24,9.91,Mild Infection,Yellow
+PLANT_0862,Wheat,0,37.32,33.26,6.4,Healthy,Yellow
+PLANT_0863,Rice,1,75.9,21.39,4.41,Mild Infection,Brown
+PLANT_0864,Potato,1,69.31,15.45,0.36,Severe Infection,Brown
+PLANT_0865,Potato,1,40.46,20.33,6.54,Mild Infection,Green
+PLANT_0866,Rice,0,35.28,26.3,9.0,Healthy,Green
+PLANT_0867,Corn,1,80.06,26.26,1.59,Mild Infection,Yellow
+PLANT_0868,Tomato,0,40.39,17.6,5.58,Healthy,Brown
+PLANT_0869,Potato,1,40.87,26.35,1.66,Severe Infection,Brown
+PLANT_0870,Rice,0,55.58,29.19,3.81,Healthy,Yellow
+PLANT_0871,Wheat,0,59.74,22.61,1.38,Healthy,Brown
+PLANT_0872,Potato,1,64.19,34.75,1.57,Mild Infection,Brown
+PLANT_0873,Wheat,0,40.71,15.2,8.37,Healthy,Brown
+PLANT_0874,Wheat,0,85.94,33.12,3.08,Healthy,Yellow
+PLANT_0875,Tomato,0,42.03,15.41,1.55,Healthy,Brown
+PLANT_0876,Tomato,0,50.94,33.79,0.52,Healthy,Green
+PLANT_0877,Potato,0,50.29,34.17,7.28,Healthy,Yellow
+PLANT_0878,Corn,0,47.09,25.82,8.41,Healthy,Brown
+PLANT_0879,Wheat,0,74.6,25.3,0.72,Healthy,Brown
+PLANT_0880,Wheat,0,47.84,19.24,9.72,Healthy,Brown
+PLANT_0881,Tomato,0,83.65,16.21,9.01,Healthy,Yellow
+PLANT_0882,Potato,1,32.65,18.57,0.12,Severe Infection,Green
+PLANT_0883,Tomato,0,68.52,28.58,0.78,Healthy,Yellow
+PLANT_0884,Wheat,0,61.14,29.83,1.08,Healthy,Yellow
+PLANT_0885,Potato,1,52.53,20.68,9.71,Mild Infection,Brown
+PLANT_0886,Corn,0,72.88,23.1,2.61,Healthy,Green
+PLANT_0887,Potato,0,84.45,31.42,0.4,Healthy,Brown
+PLANT_0888,Tomato,0,61.96,15.08,8.04,Healthy,Green
+PLANT_0889,Potato,0,53.5,19.66,1.57,Healthy,Brown
+PLANT_0890,Rice,1,57.4,21.58,3.84,Severe Infection,Brown
+PLANT_0891,Rice,0,69.27,31.45,6.47,Healthy,Brown
+PLANT_0892,Corn,1,47.71,16.64,0.98,Mild Infection,Green
+PLANT_0893,Rice,0,74.31,27.45,4.9,Healthy,Brown
+PLANT_0894,Tomato,0,33.57,34.31,9.99,Healthy,Yellow
+PLANT_0895,Potato,0,87.16,32.59,7.16,Healthy,Yellow
+PLANT_0896,Corn,0,40.97,20.25,3.35,Healthy,Green
+PLANT_0897,Potato,0,32.34,16.53,0.62,Healthy,Yellow
+PLANT_0898,Corn,0,62.28,23.46,8.73,Healthy,Brown
+PLANT_0899,Corn,0,88.32,17.8,5.58,Healthy,Brown
+PLANT_0900,Corn,0,82.25,24.52,0.29,Healthy,Yellow
+PLANT_0901,Potato,1,53.18,20.46,7.76,Mild Infection,Yellow
+PLANT_0902,Wheat,1,31.92,21.22,9.88,Severe Infection,Brown
+PLANT_0903,Corn,0,68.65,30.1,7.24,Healthy,Green
+PLANT_0904,Rice,0,88.79,31.54,4.05,Healthy,Yellow
+PLANT_0905,Tomato,0,50.12,22.67,5.61,Healthy,Brown
+PLANT_0906,Rice,0,45.56,17.22,6.72,Healthy,Yellow
+PLANT_0907,Tomato,1,33.65,16.9,2.8,Severe Infection,Brown
+PLANT_0908,Corn,1,86.38,21.81,6.97,Mild Infection,Green
+PLANT_0909,Rice,0,41.36,32.9,4.26,Healthy,Yellow
+PLANT_0910,Tomato,0,81.34,25.63,3.43,Healthy,Brown
+PLANT_0911,Wheat,1,89.86,16.15,9.57,Mild Infection,Brown
+PLANT_0912,Rice,0,54.02,31.37,4.4,Healthy,Brown
+PLANT_0913,Wheat,1,77.02,29.19,9.43,Mild Infection,Yellow
+PLANT_0914,Wheat,1,30.89,32.65,2.32,Mild Infection,Green
+PLANT_0915,Wheat,0,35.9,27.39,0.06,Healthy,Yellow
+PLANT_0916,Corn,0,81.34,30.95,7.21,Healthy,Brown
+PLANT_0917,Tomato,1,64.65,16.61,0.24,Severe Infection,Yellow
+PLANT_0918,Tomato,1,79.67,19.29,5.4,Mild Infection,Green
+PLANT_0919,Tomato,0,43.33,17.67,8.78,Healthy,Yellow
+PLANT_0920,Rice,0,71.19,15.79,4.05,Healthy,Green
+PLANT_0921,Tomato,0,32.52,28.26,0.8,Healthy,Brown
+PLANT_0922,Rice,0,78.99,22.79,8.43,Healthy,Brown
+PLANT_0923,Rice,0,89.22,32.33,8.59,Healthy,Yellow
+PLANT_0924,Tomato,0,44.54,23.62,4.22,Healthy,Brown
+PLANT_0925,Potato,1,47.24,16.99,1.76,Mild Infection,Green
+PLANT_0926,Tomato,0,82.03,29.91,1.37,Healthy,Green
+PLANT_0927,Wheat,1,74.36,30.5,5.11,Mild Infection,Brown
+PLANT_0928,Corn,1,47.94,21.14,8.69,Mild Infection,Green
+PLANT_0929,Potato,0,38.4,34.1,7.18,Healthy,Yellow
+PLANT_0930,Potato,0,74.14,17.57,6.21,Healthy,Yellow
+PLANT_0931,Corn,1,70.01,24.74,3.95,Severe Infection,Brown
+PLANT_0932,Corn,0,62.68,22.71,8.75,Healthy,Brown
+PLANT_0933,Potato,0,38.11,24.7,0.4,Healthy,Yellow
+PLANT_0934,Corn,1,73.66,27.55,7.32,Severe Infection,Green
+PLANT_0935,Corn,1,33.53,16.6,6.09,Mild Infection,Yellow
+PLANT_0936,Wheat,0,33.86,27.8,0.6,Healthy,Brown
+PLANT_0937,Corn,0,42.82,24.13,4.99,Healthy,Brown
+PLANT_0938,Wheat,0,38.48,32.08,9.9,Healthy,Green
+PLANT_0939,Corn,1,52.84,20.79,9.3,Mild Infection,Yellow
+PLANT_0940,Wheat,1,33.05,26.88,3.2,Mild Infection,Yellow
+PLANT_0941,Rice,0,74.45,21.64,4.43,Healthy,Yellow
+PLANT_0942,Rice,1,81.48,29.78,5.97,Mild Infection,Green
+PLANT_0943,Tomato,1,37.49,31.61,8.28,Severe Infection,Yellow
+PLANT_0944,Wheat,0,79.99,32.86,2.22,Healthy,Yellow
+PLANT_0945,Wheat,0,58.16,20.63,9.09,Healthy,Yellow
+PLANT_0946,Wheat,1,56.9,34.88,2.31,Mild Infection,Brown
+PLANT_0947,Potato,0,88.83,21.48,2.34,Healthy,Yellow
+PLANT_0948,Corn,0,40.3,27.81,7.15,Healthy,Brown
+PLANT_0949,Wheat,0,48.75,22.13,4.09,Healthy,Yellow
+PLANT_0950,Tomato,0,48.96,33.35,3.64,Healthy,Green
+PLANT_0951,Corn,0,49.51,19.85,1.18,Healthy,Brown
+PLANT_0952,Corn,0,42.17,22.32,8.21,Healthy,Green
+PLANT_0953,Potato,0,32.09,33.83,0.84,Healthy,Green
+PLANT_0954,Tomato,0,71.73,15.64,7.7,Healthy,Brown
+PLANT_0955,Rice,1,74.95,18.11,9.21,Mild Infection,Brown
+PLANT_0956,Tomato,0,79.14,27.76,7.01,Healthy,Green
+PLANT_0957,Rice,1,78.32,25.06,2.98,Severe Infection,Yellow
+PLANT_0958,Wheat,0,49.64,26.53,9.82,Healthy,Brown
+PLANT_0959,Rice,0,48.16,26.98,8.76,Healthy,Green
+PLANT_0960,Potato,0,42.91,34.24,5.79,Healthy,Green
+PLANT_0961,Corn,0,78.63,26.04,4.35,Healthy,Yellow
+PLANT_0962,Corn,1,70.89,31.6,5.43,Mild Infection,Brown
+PLANT_0963,Wheat,0,33.35,21.07,5.15,Healthy,Brown
+PLANT_0964,Wheat,0,67.05,29.46,6.65,Healthy,Green
+PLANT_0965,Wheat,0,34.88,22.71,9.5,Healthy,Green
+PLANT_0966,Potato,0,86.43,32.11,2.99,Healthy,Green
+PLANT_0967,Rice,1,71.43,24.6,2.3,Mild Infection,Green
+PLANT_0968,Corn,0,73.89,15.44,4.15,Healthy,Yellow
+PLANT_0969,Wheat,0,81.01,24.91,1.59,Healthy,Green
+PLANT_0970,Wheat,0,35.29,26.56,3.3,Healthy,Yellow
+PLANT_0971,Wheat,1,40.18,18.56,1.45,Mild Infection,Green
+PLANT_0972,Tomato,0,58.39,21.19,2.13,Healthy,Yellow
+PLANT_0973,Rice,0,89.01,31.91,9.0,Healthy,Yellow
+PLANT_0974,Wheat,0,59.72,27.81,0.72,Healthy,Brown
+PLANT_0975,Potato,0,34.82,29.44,9.28,Healthy,Brown
+PLANT_0976,Tomato,1,52.08,18.58,8.31,Mild Infection,Yellow
+PLANT_0977,Wheat,0,35.3,23.43,0.42,Healthy,Yellow
+PLANT_0978,Wheat,0,41.73,30.47,2.81,Healthy,Green
+PLANT_0979,Rice,0,43.5,15.19,2.9,Healthy,Yellow
+PLANT_0980,Potato,0,32.14,27.15,4.72,Healthy,Brown
+PLANT_0981,Tomato,0,82.92,26.56,4.42,Healthy,Green
+PLANT_0982,Corn,1,52.72,21.11,9.9,Severe Infection,Yellow
+PLANT_0983,Rice,0,32.87,18.49,5.33,Healthy,Yellow
+PLANT_0984,Corn,0,56.75,16.29,9.83,Healthy,Brown
+PLANT_0985,Potato,0,41.89,20.01,5.45,Healthy,Green
+PLANT_0986,Rice,1,82.15,32.34,6.13,Severe Infection,Yellow
+PLANT_0987,Potato,0,39.11,16.39,2.8,Healthy,Brown
+PLANT_0988,Tomato,1,65.23,25.06,0.76,Mild Infection,Green
+PLANT_0989,Rice,1,43.24,20.67,1.37,Mild Infection,Brown
+PLANT_0990,Rice,0,46.18,33.32,9.0,Healthy,Green
+PLANT_0991,Tomato,1,84.61,24.91,5.81,Mild Infection,Green
+PLANT_0992,Potato,0,79.17,33.53,1.61,Healthy,Yellow
+PLANT_0993,Wheat,1,82.98,27.95,7.16,Mild Infection,Brown
+PLANT_0994,Rice,0,62.26,20.62,4.58,Healthy,Green
+PLANT_0995,Rice,0,58.44,15.02,5.81,Healthy,Yellow
+PLANT_0996,Corn,0,71.9,23.08,9.63,Healthy,Brown
+PLANT_0997,Wheat,0,70.59,28.02,5.48,Healthy,Yellow
+PLANT_0998,Rice,0,60.31,23.24,5.5,Healthy,Brown
+PLANT_0999,Wheat,0,34.04,27.18,0.87,Healthy,Yellow
+PLANT_1000,Tomato,0,79.5,24.24,4.39,Healthy,Yellow
+PLANT_1001,Potato,0,74.28,16.95,9.22,Healthy,Green
+PLANT_1002,Corn,0,65.64,30.46,9.03,Healthy,Yellow
+PLANT_1003,Tomato,0,30.04,19.72,0.05,Healthy,Brown
+PLANT_1004,Rice,0,72.5,31.01,4.61,Healthy,Yellow
+PLANT_1005,Tomato,0,55.78,33.08,0.64,Healthy,Brown
+PLANT_1006,Tomato,0,46.8,32.8,6.82,Healthy,Yellow
+PLANT_1007,Corn,0,54.62,21.02,8.5,Healthy,Brown
+PLANT_1008,Corn,0,57.39,15.19,7.75,Healthy,Yellow
+PLANT_1009,Corn,1,83.32,17.97,9.58,Mild Infection,Brown
+PLANT_1010,Corn,1,30.96,24.12,4.25,Severe Infection,Brown
+PLANT_1011,Rice,0,61.34,25.94,6.34,Healthy,Yellow
+PLANT_1012,Potato,0,67.94,25.97,7.44,Healthy,Green
+PLANT_1013,Rice,0,41.0,34.43,6.64,Healthy,Yellow
+PLANT_1014,Potato,0,47.27,32.89,2.93,Healthy,Green
+PLANT_1015,Wheat,0,88.11,30.69,3.84,Healthy,Yellow
+PLANT_1016,Corn,1,42.89,22.46,1.83,Mild Infection,Yellow
+PLANT_1017,Rice,0,62.13,30.03,0.98,Healthy,Green
+PLANT_1018,Rice,0,42.0,24.49,8.06,Healthy,Green
+PLANT_1019,Rice,1,84.38,23.76,5.62,Mild Infection,Green
+PLANT_1020,Tomato,1,46.96,32.76,7.83,Severe Infection,Brown
+PLANT_1021,Corn,1,73.47,30.32,1.63,Severe Infection,Green
+PLANT_1022,Corn,0,32.6,15.4,3.74,Healthy,Brown
+PLANT_1023,Tomato,0,43.9,23.65,8.63,Healthy,Brown
+PLANT_1024,Corn,1,65.2,29.86,3.85,Mild Infection,Green
+PLANT_1025,Wheat,0,67.24,31.62,2.37,Healthy,Yellow
+PLANT_1026,Tomato,0,89.54,26.52,2.16,Healthy,Yellow
+PLANT_1027,Potato,1,66.76,22.16,2.78,Mild Infection,Brown
+PLANT_1028,Wheat,1,53.62,25.16,1.84,Mild Infection,Green
+PLANT_1029,Corn,1,36.35,22.72,1.77,Mild Infection,Green
+PLANT_1030,Tomato,0,84.55,24.6,3.54,Healthy,Green
+PLANT_1031,Potato,1,44.73,21.16,9.71,Mild Infection,Green
+PLANT_1032,Corn,0,41.02,32.64,1.37,Healthy,Yellow
+PLANT_1033,Rice,1,46.42,23.87,5.57,Severe Infection,Brown
+PLANT_1034,Potato,0,73.7,19.26,5.93,Healthy,Brown
+PLANT_1035,Tomato,0,60.51,32.93,4.77,Healthy,Brown
+PLANT_1036,Corn,0,80.39,28.59,3.0,Healthy,Green
+PLANT_1037,Corn,0,50.09,18.91,7.75,Healthy,Green
+PLANT_1038,Wheat,0,83.46,15.66,3.03,Healthy,Green
+PLANT_1039,Tomato,0,38.17,33.07,0.8,Healthy,Yellow
+PLANT_1040,Rice,0,65.19,25.94,6.36,Healthy,Yellow
+PLANT_1041,Potato,1,31.89,30.01,6.94,Mild Infection,Green
+PLANT_1042,Wheat,0,81.76,29.14,3.74,Healthy,Yellow
+PLANT_1043,Wheat,1,47.13,31.62,4.09,Severe Infection,Green
+PLANT_1044,Potato,0,70.26,34.56,8.22,Healthy,Green
+PLANT_1045,Corn,0,73.11,16.9,0.13,Healthy,Brown
+PLANT_1046,Wheat,1,72.51,18.01,7.77,Mild Infection,Green
+PLANT_1047,Rice,0,43.03,30.25,2.79,Healthy,Yellow
+PLANT_1048,Tomato,0,45.3,23.81,4.06,Healthy,Brown
+PLANT_1049,Wheat,0,79.88,28.3,2.38,Healthy,Green
+PLANT_1050,Potato,1,73.54,20.53,8.18,Severe Infection,Green
+PLANT_1051,Rice,1,39.24,31.44,9.95,Mild Infection,Brown
+PLANT_1052,Corn,0,46.27,26.72,8.3,Healthy,Yellow
+PLANT_1053,Potato,0,87.19,29.96,5.74,Healthy,Green
+PLANT_1054,Potato,0,86.87,19.63,5.7,Healthy,Green
+PLANT_1055,Potato,1,57.81,19.02,0.65,Mild Infection,Yellow
+PLANT_1056,Rice,0,30.57,34.62,0.46,Healthy,Green
+PLANT_1057,Wheat,0,31.14,17.39,7.95,Healthy,Green
+PLANT_1058,Corn,0,44.81,26.48,5.56,Healthy,Yellow
+PLANT_1059,Corn,1,81.34,23.43,9.88,Severe Infection,Yellow
+PLANT_1060,Potato,1,72.31,26.68,0.47,Mild Infection,Green
+PLANT_1061,Corn,0,63.71,32.74,3.08,Healthy,Yellow
+PLANT_1062,Wheat,0,60.31,23.9,8.47,Healthy,Yellow
+PLANT_1063,Potato,0,73.87,27.28,3.85,Healthy,Green
+PLANT_1064,Wheat,1,71.9,19.76,2.67,Mild Infection,Yellow
+PLANT_1065,Wheat,0,72.51,28.33,8.26,Healthy,Yellow
+PLANT_1066,Corn,0,50.99,23.65,0.62,Healthy,Yellow
+PLANT_1067,Wheat,0,79.63,34.07,3.03,Healthy,Yellow
+PLANT_1068,Wheat,1,63.52,27.33,1.09,Mild Infection,Yellow
+PLANT_1069,Rice,0,80.17,30.78,0.98,Healthy,Yellow
+PLANT_1070,Corn,0,30.58,30.29,1.54,Healthy,Yellow
+PLANT_1071,Tomato,0,50.19,33.17,9.12,Healthy,Green
+PLANT_1072,Rice,1,37.58,23.21,2.01,Mild Infection,Green
+PLANT_1073,Tomato,0,44.28,15.58,8.27,Healthy,Yellow
+PLANT_1074,Corn,0,40.67,23.82,5.1,Healthy,Green
+PLANT_1075,Tomato,1,89.41,23.09,0.96,Severe Infection,Green
+PLANT_1076,Rice,1,35.81,29.52,2.45,Mild Infection,Green
+PLANT_1077,Wheat,0,40.27,21.52,2.76,Healthy,Green
+PLANT_1078,Rice,1,65.84,16.89,3.38,Mild Infection,Yellow
+PLANT_1079,Corn,0,45.68,26.58,4.48,Healthy,Green
+PLANT_1080,Potato,0,83.4,19.44,1.48,Healthy,Yellow
+PLANT_1081,Potato,0,43.93,22.69,3.59,Healthy,Yellow
+PLANT_1082,Corn,0,55.12,33.53,4.47,Healthy,Brown
+PLANT_1083,Corn,0,33.69,24.8,2.46,Healthy,Green
+PLANT_1084,Wheat,0,69.3,23.64,7.21,Healthy,Green
+PLANT_1085,Corn,0,56.53,33.49,8.97,Healthy,Yellow
+PLANT_1086,Wheat,0,67.99,33.7,6.73,Healthy,Yellow
+PLANT_1087,Rice,0,89.06,26.78,8.34,Healthy,Brown
+PLANT_1088,Corn,1,70.52,23.68,1.04,Mild Infection,Brown
+PLANT_1089,Wheat,0,71.35,31.68,3.85,Healthy,Brown
+PLANT_1090,Potato,1,36.54,25.94,6.06,Mild Infection,Brown
+PLANT_1091,Tomato,0,68.52,19.75,3.88,Healthy,Brown
+PLANT_1092,Wheat,0,55.0,31.42,8.12,Healthy,Yellow
+PLANT_1093,Tomato,0,51.98,31.33,3.12,Healthy,Brown
+PLANT_1094,Corn,1,36.96,33.06,3.02,Mild Infection,Green
+PLANT_1095,Rice,0,86.64,28.03,1.99,Healthy,Yellow
+PLANT_1096,Corn,0,52.89,19.21,8.0,Healthy,Brown
+PLANT_1097,Tomato,0,72.41,24.91,9.41,Healthy,Green
+PLANT_1098,Corn,0,35.86,22.64,2.37,Healthy,Yellow
+PLANT_1099,Corn,1,37.74,34.4,3.83,Mild Infection,Brown
+PLANT_1100,Wheat,0,33.46,33.5,9.44,Healthy,Yellow
+PLANT_1101,Rice,0,41.44,16.11,9.43,Healthy,Brown
+PLANT_1102,Rice,0,46.46,28.87,0.1,Healthy,Green
+PLANT_1103,Tomato,1,83.11,24.39,1.6,Mild Infection,Brown
+PLANT_1104,Potato,1,61.77,23.57,2.27,Mild Infection,Yellow
+PLANT_1105,Wheat,0,53.62,23.67,6.01,Healthy,Yellow
+PLANT_1106,Tomato,0,87.92,26.74,0.7,Healthy,Yellow
+PLANT_1107,Corn,0,53.21,20.76,3.91,Healthy,Brown
+PLANT_1108,Tomato,0,32.95,18.7,6.17,Healthy,Yellow
+PLANT_1109,Tomato,0,60.49,34.1,6.75,Healthy,Brown
+PLANT_1110,Tomato,1,68.39,26.47,0.06,Severe Infection,Yellow
+PLANT_1111,Wheat,1,32.85,20.02,7.53,Mild Infection,Green
+PLANT_1112,Wheat,0,51.21,21.2,8.52,Healthy,Green
+PLANT_1113,Tomato,0,39.48,22.11,5.16,Healthy,Yellow
+PLANT_1114,Corn,0,77.31,29.98,2.4,Healthy,Brown
+PLANT_1115,Potato,1,72.41,27.9,6.45,Severe Infection,Green
+PLANT_1116,Tomato,0,60.49,32.51,9.47,Healthy,Green
+PLANT_1117,Corn,0,79.01,27.96,4.67,Healthy,Yellow
+PLANT_1118,Rice,0,54.43,22.28,7.61,Healthy,Yellow
+PLANT_1119,Potato,0,36.69,17.95,1.0,Healthy,Yellow
+PLANT_1120,Corn,1,49.42,21.19,3.46,Severe Infection,Brown
+PLANT_1121,Corn,1,84.9,30.43,0.56,Mild Infection,Brown
+PLANT_1122,Tomato,0,57.62,33.37,3.65,Healthy,Brown
+PLANT_1123,Tomato,0,40.34,22.63,9.22,Healthy,Yellow
+PLANT_1124,Potato,0,70.53,31.36,5.21,Healthy,Brown
+PLANT_1125,Tomato,0,45.65,25.39,1.46,Healthy,Green
+PLANT_1126,Wheat,0,35.97,20.64,6.89,Healthy,Green
+PLANT_1127,Potato,0,52.46,34.35,4.45,Healthy,Brown
+PLANT_1128,Corn,0,73.43,16.66,7.86,Healthy,Brown
+PLANT_1129,Corn,0,69.43,21.02,9.7,Healthy,Brown
+PLANT_1130,Tomato,0,56.97,15.81,7.3,Healthy,Green
+PLANT_1131,Tomato,0,31.55,17.66,0.98,Healthy,Green
+PLANT_1132,Rice,0,87.63,33.9,1.19,Healthy,Yellow
+PLANT_1133,Wheat,0,63.37,26.06,9.59,Healthy,Brown
+PLANT_1134,Rice,0,83.39,28.47,1.25,Healthy,Yellow
+PLANT_1135,Wheat,0,53.15,23.22,1.79,Healthy,Yellow
+PLANT_1136,Rice,0,43.93,28.91,9.79,Healthy,Yellow
+PLANT_1137,Tomato,0,41.91,25.64,6.66,Healthy,Green
+PLANT_1138,Corn,0,69.59,29.16,4.02,Healthy,Brown
+PLANT_1139,Wheat,0,54.42,20.36,2.46,Healthy,Brown
+PLANT_1140,Tomato,0,51.57,33.77,1.69,Healthy,Yellow
+PLANT_1141,Rice,0,45.75,29.61,2.03,Healthy,Yellow
+PLANT_1142,Tomato,1,37.66,23.58,8.36,Severe Infection,Green
+PLANT_1143,Wheat,0,53.63,21.29,3.12,Healthy,Brown
+PLANT_1144,Wheat,0,69.8,16.61,8.94,Healthy,Yellow
+PLANT_1145,Rice,0,43.78,28.03,1.82,Healthy,Yellow
+PLANT_1146,Wheat,1,69.21,30.94,1.64,Mild Infection,Green
+PLANT_1147,Rice,0,84.49,29.78,6.38,Healthy,Brown
+PLANT_1148,Potato,0,41.43,31.84,1.21,Healthy,Yellow
+PLANT_1149,Wheat,0,81.6,22.49,1.16,Healthy,Yellow
+PLANT_1150,Corn,0,53.74,28.83,4.67,Healthy,Yellow
+PLANT_1151,Rice,0,31.83,32.44,7.19,Healthy,Brown
+PLANT_1152,Tomato,0,81.81,26.32,1.95,Healthy,Brown
+PLANT_1153,Tomato,1,34.65,16.52,7.31,Mild Infection,Yellow
+PLANT_1154,Rice,0,82.47,25.75,2.74,Healthy,Green
+PLANT_1155,Corn,0,51.81,20.36,0.71,Healthy,Green
+PLANT_1156,Potato,0,78.72,15.89,8.31,Healthy,Green
+PLANT_1157,Tomato,1,41.26,33.16,6.62,Severe Infection,Yellow
+PLANT_1158,Tomato,0,62.08,32.19,4.44,Healthy,Brown
+PLANT_1159,Tomato,1,59.81,24.63,5.64,Mild Infection,Yellow
+PLANT_1160,Corn,0,61.58,29.29,5.58,Healthy,Brown
+PLANT_1161,Corn,0,35.57,28.96,6.25,Healthy,Brown
+PLANT_1162,Corn,0,70.87,29.15,4.58,Healthy,Green
+PLANT_1163,Corn,1,38.65,30.21,5.4,Mild Infection,Yellow
+PLANT_1164,Wheat,0,60.45,26.04,9.68,Healthy,Green
+PLANT_1165,Corn,1,58.62,26.39,5.79,Severe Infection,Yellow
+PLANT_1166,Corn,0,49.05,29.19,1.43,Healthy,Green
+PLANT_1167,Tomato,1,85.28,20.62,4.29,Mild Infection,Green
+PLANT_1168,Corn,1,67.2,21.75,9.52,Mild Infection,Brown
+PLANT_1169,Potato,1,42.59,26.54,4.26,Severe Infection,Brown
+PLANT_1170,Tomato,0,86.35,25.77,2.55,Healthy,Yellow
+PLANT_1171,Corn,0,50.1,21.49,4.72,Healthy,Green
+PLANT_1172,Potato,1,43.0,24.03,9.51,Severe Infection,Yellow
+PLANT_1173,Potato,1,48.79,20.92,4.05,Severe Infection,Brown
+PLANT_1174,Wheat,1,49.32,32.32,6.86,Mild Infection,Yellow
+PLANT_1175,Tomato,0,82.27,33.27,5.49,Healthy,Green
+PLANT_1176,Wheat,0,82.56,24.16,6.21,Healthy,Yellow
+PLANT_1177,Wheat,0,80.19,24.08,7.27,Healthy,Brown
+PLANT_1178,Potato,0,88.01,31.97,7.01,Healthy,Yellow
+PLANT_1179,Rice,0,84.01,31.18,6.53,Healthy,Brown
+PLANT_1180,Wheat,0,37.05,31.66,3.41,Healthy,Green
+PLANT_1181,Tomato,0,54.05,26.73,3.56,Healthy,Green
+PLANT_1182,Corn,0,60.07,17.92,7.59,Healthy,Green
+PLANT_1183,Tomato,1,56.04,30.98,9.15,Mild Infection,Yellow
+PLANT_1184,Potato,0,44.15,22.24,6.77,Healthy,Yellow
+PLANT_1185,Rice,0,77.76,26.15,8.18,Healthy,Yellow
+PLANT_1186,Rice,0,33.06,25.4,0.77,Healthy,Green
+PLANT_1187,Wheat,0,35.52,33.65,0.63,Healthy,Yellow
+PLANT_1188,Tomato,0,33.51,21.14,8.53,Healthy,Yellow
+PLANT_1189,Rice,1,58.5,27.55,8.61,Mild Infection,Yellow
+PLANT_1190,Potato,1,34.79,25.83,7.7,Mild Infection,Yellow
+PLANT_1191,Corn,1,57.77,25.35,7.88,Severe Infection,Green
+PLANT_1192,Rice,0,52.37,28.99,9.41,Healthy,Brown
+PLANT_1193,Tomato,1,72.16,25.93,7.67,Mild Infection,Yellow
+PLANT_1194,Tomato,1,65.67,21.73,8.24,Severe Infection,Yellow
+PLANT_1195,Tomato,0,83.41,32.88,6.67,Healthy,Brown
+PLANT_1196,Tomato,1,33.38,27.22,5.51,Mild Infection,Green
+PLANT_1197,Tomato,0,55.71,32.1,8.65,Healthy,Yellow
+PLANT_1198,Rice,0,78.15,17.82,9.3,Healthy,Brown
+PLANT_1199,Tomato,1,79.72,15.21,7.93,Mild Infection,Brown
+PLANT_1200,Wheat,0,78.37,25.62,5.16,Healthy,Yellow
+PLANT_1201,Wheat,0,56.35,15.2,3.7,Healthy,Brown
+PLANT_1202,Potato,0,86.31,28.19,9.78,Healthy,Yellow
+PLANT_1203,Potato,0,78.04,24.3,0.77,Healthy,Brown
+PLANT_1204,Rice,0,51.37,26.63,5.47,Healthy,Green
+PLANT_1205,Corn,0,79.39,23.01,3.11,Healthy,Brown
+PLANT_1206,Wheat,0,63.55,19.48,6.24,Healthy,Green
+PLANT_1207,Rice,1,76.94,33.45,6.27,Mild Infection,Brown
+PLANT_1208,Potato,0,47.93,24.59,0.24,Healthy,Yellow
+PLANT_1209,Potato,0,70.85,23.71,7.03,Healthy,Green
+PLANT_1210,Potato,0,75.17,26.56,3.34,Healthy,Yellow
+PLANT_1211,Tomato,1,58.84,15.24,5.73,Mild Infection,Yellow
+PLANT_1212,Corn,0,80.45,17.74,1.15,Healthy,Brown
+PLANT_1213,Tomato,0,86.61,32.32,5.72,Healthy,Yellow
+PLANT_1214,Wheat,0,75.99,29.91,9.14,Healthy,Brown
+PLANT_1215,Corn,0,48.84,34.57,6.37,Healthy,Yellow
+PLANT_1216,Corn,0,49.26,33.93,5.75,Healthy,Green
+PLANT_1217,Potato,1,40.38,22.67,0.52,Mild Infection,Brown
+PLANT_1218,Potato,1,49.59,24.2,5.58,Severe Infection,Green
+PLANT_1219,Corn,1,43.34,29.99,8.85,Mild Infection,Yellow
+PLANT_1220,Tomato,0,31.0,18.32,7.07,Healthy,Green
+PLANT_1221,Corn,0,77.84,34.93,0.82,Healthy,Brown
+PLANT_1222,Corn,0,59.79,31.21,5.87,Healthy,Brown
+PLANT_1223,Wheat,1,49.68,34.77,0.38,Severe Infection,Green
+PLANT_1224,Tomato,0,44.19,16.68,5.35,Healthy,Yellow
+PLANT_1225,Potato,0,76.84,15.48,0.42,Healthy,Brown
+PLANT_1226,Corn,0,36.72,20.82,6.47,Healthy,Green
+PLANT_1227,Tomato,0,61.4,30.32,0.77,Healthy,Brown
+PLANT_1228,Potato,0,66.46,34.5,9.82,Healthy,Brown
+PLANT_1229,Potato,0,66.32,26.65,3.22,Healthy,Brown
+PLANT_1230,Tomato,0,51.21,29.98,8.52,Healthy,Yellow
+PLANT_1231,Potato,0,73.91,20.89,3.82,Healthy,Green
+PLANT_1232,Wheat,0,85.15,31.65,1.99,Healthy,Green
+PLANT_1233,Potato,1,73.74,30.59,3.71,Severe Infection,Brown
+PLANT_1234,Tomato,0,77.26,34.03,0.6,Healthy,Brown
+PLANT_1235,Tomato,0,43.73,29.09,5.36,Healthy,Green
+PLANT_1236,Tomato,0,83.33,21.88,1.98,Healthy,Yellow
+PLANT_1237,Tomato,0,88.27,29.41,1.03,Healthy,Brown
+PLANT_1238,Corn,0,54.22,31.08,5.43,Healthy,Yellow
+PLANT_1239,Rice,0,56.35,32.42,0.74,Healthy,Yellow
+PLANT_1240,Wheat,0,83.0,18.39,2.67,Healthy,Green
+PLANT_1241,Rice,0,63.3,18.23,3.48,Healthy,Green
+PLANT_1242,Wheat,0,79.01,22.87,7.54,Healthy,Yellow
+PLANT_1243,Wheat,0,46.21,25.24,1.44,Healthy,Green
+PLANT_1244,Potato,0,67.1,17.54,8.65,Healthy,Brown
+PLANT_1245,Tomato,0,71.37,25.7,9.74,Healthy,Green
+PLANT_1246,Corn,1,34.36,30.77,5.62,Severe Infection,Brown
+PLANT_1247,Wheat,0,62.49,30.23,2.35,Healthy,Yellow
+PLANT_1248,Potato,0,34.42,28.88,2.62,Healthy,Brown
+PLANT_1249,Potato,0,75.06,24.59,5.88,Healthy,Yellow
+PLANT_1250,Wheat,1,47.84,21.17,3.69,Severe Infection,Yellow
+PLANT_1251,Rice,0,45.01,24.94,9.41,Healthy,Brown
+PLANT_1252,Rice,0,53.07,30.86,1.27,Healthy,Brown
+PLANT_1253,Potato,0,78.67,19.72,4.04,Healthy,Green
+PLANT_1254,Corn,1,51.7,32.75,4.6,Severe Infection,Green
+PLANT_1255,Rice,1,44.6,25.51,2.9,Mild Infection,Brown
+PLANT_1256,Corn,1,85.32,17.92,3.62,Mild Infection,Yellow
+PLANT_1257,Rice,0,32.85,34.81,3.62,Healthy,Yellow
+PLANT_1258,Corn,0,83.16,29.71,6.22,Healthy,Brown
+PLANT_1259,Wheat,1,41.39,17.5,2.22,Severe Infection,Yellow
+PLANT_1260,Corn,0,70.69,25.91,4.13,Healthy,Green
+PLANT_1261,Potato,0,65.41,26.41,7.44,Healthy,Brown
+PLANT_1262,Tomato,0,78.69,19.59,3.68,Healthy,Yellow
+PLANT_1263,Rice,1,66.2,26.18,8.55,Mild Infection,Brown
+PLANT_1264,Potato,0,66.72,26.71,3.78,Healthy,Yellow
+PLANT_1265,Rice,1,88.22,16.5,6.04,Mild Infection,Brown
+PLANT_1266,Wheat,0,39.64,23.36,1.02,Healthy,Green
+PLANT_1267,Potato,0,45.26,26.68,9.98,Healthy,Yellow
+PLANT_1268,Rice,1,82.0,34.0,8.84,Severe Infection,Brown
+PLANT_1269,Rice,0,34.43,24.39,1.43,Healthy,Brown
+PLANT_1270,Tomato,0,74.89,24.16,1.51,Healthy,Green
+PLANT_1271,Rice,0,82.63,17.82,2.96,Healthy,Yellow
+PLANT_1272,Rice,1,75.0,26.49,2.97,Severe Infection,Yellow
+PLANT_1273,Potato,0,68.48,30.44,8.7,Healthy,Brown
+PLANT_1274,Wheat,0,73.63,31.61,9.2,Healthy,Yellow
+PLANT_1275,Rice,0,61.31,32.09,5.5,Healthy,Green
+PLANT_1276,Corn,0,51.3,26.17,2.54,Healthy,Green
+PLANT_1277,Potato,0,39.25,15.17,2.64,Healthy,Yellow
+PLANT_1278,Rice,0,71.48,20.84,5.67,Healthy,Green
+PLANT_1279,Potato,1,62.07,24.69,7.09,Mild Infection,Green
+PLANT_1280,Tomato,0,72.75,27.53,0.34,Healthy,Yellow
+PLANT_1281,Corn,1,76.37,21.36,4.26,Severe Infection,Green
+PLANT_1282,Corn,0,66.13,30.74,8.45,Healthy,Green
+PLANT_1283,Rice,1,84.88,18.06,3.56,Mild Infection,Green
+PLANT_1284,Rice,0,55.46,16.61,4.74,Healthy,Yellow
+PLANT_1285,Wheat,1,63.52,24.66,9.97,Severe Infection,Yellow
+PLANT_1286,Tomato,0,46.05,28.97,7.6,Healthy,Yellow
+PLANT_1287,Potato,0,75.58,20.37,1.41,Healthy,Green
+PLANT_1288,Potato,0,70.26,17.93,6.65,Healthy,Yellow
+PLANT_1289,Rice,0,35.91,24.48,7.31,Healthy,Green
+PLANT_1290,Corn,0,30.89,18.76,0.95,Healthy,Brown
+PLANT_1291,Corn,0,86.98,15.02,3.58,Healthy,Brown
+PLANT_1292,Potato,0,78.52,21.23,6.91,Healthy,Yellow
+PLANT_1293,Corn,1,56.7,33.35,1.43,Severe Infection,Yellow
+PLANT_1294,Potato,0,48.96,26.89,6.95,Healthy,Brown
+PLANT_1295,Rice,0,85.47,17.11,3.26,Healthy,Yellow
+PLANT_1296,Rice,0,82.24,28.72,4.5,Healthy,Green
+PLANT_1297,Potato,1,68.03,24.35,2.5,Mild Infection,Green
+PLANT_1298,Wheat,0,68.41,30.12,6.74,Healthy,Green
+PLANT_1299,Wheat,0,54.17,18.85,6.22,Healthy,Green
+PLANT_1300,Potato,0,33.73,33.72,0.83,Healthy,Brown
+PLANT_1301,Tomato,0,44.45,21.99,8.52,Healthy,Yellow
+PLANT_1302,Tomato,0,34.99,20.9,6.21,Healthy,Brown
+PLANT_1303,Rice,0,48.78,16.11,7.8,Healthy,Brown
+PLANT_1304,Rice,0,86.41,34.28,9.9,Healthy,Yellow
+PLANT_1305,Wheat,0,49.74,25.97,9.46,Healthy,Green
+PLANT_1306,Potato,1,84.63,21.98,1.3,Severe Infection,Green
+PLANT_1307,Corn,1,45.36,16.22,5.09,Severe Infection,Yellow
+PLANT_1308,Wheat,0,40.74,33.28,7.4,Healthy,Green
+PLANT_1309,Corn,0,84.16,20.83,0.41,Healthy,Brown
+PLANT_1310,Corn,0,85.14,31.8,1.04,Healthy,Brown
+PLANT_1311,Potato,0,37.06,28.58,0.23,Healthy,Green
+PLANT_1312,Rice,0,55.87,34.42,8.97,Healthy,Brown
+PLANT_1313,Tomato,0,78.35,17.61,0.79,Healthy,Green
+PLANT_1314,Tomato,1,38.98,19.79,2.17,Mild Infection,Brown
+PLANT_1315,Wheat,1,54.91,31.15,5.24,Mild Infection,Yellow
+PLANT_1316,Wheat,0,53.01,25.95,1.73,Healthy,Yellow
+PLANT_1317,Wheat,0,87.78,27.8,4.23,Healthy,Brown
+PLANT_1318,Rice,0,40.14,26.7,6.78,Healthy,Brown
+PLANT_1319,Wheat,0,56.18,26.61,3.71,Healthy,Yellow
+PLANT_1320,Wheat,1,84.73,34.21,5.72,Mild Infection,Brown
+PLANT_1321,Tomato,0,30.59,28.27,8.38,Healthy,Yellow
+PLANT_1322,Tomato,1,66.9,26.94,2.74,Severe Infection,Brown
+PLANT_1323,Corn,0,43.81,30.43,1.5,Healthy,Yellow
+PLANT_1324,Potato,1,32.31,28.72,7.81,Mild Infection,Green
+PLANT_1325,Corn,1,32.19,21.87,1.29,Mild Infection,Yellow
+PLANT_1326,Rice,0,50.75,28.53,4.25,Healthy,Yellow
+PLANT_1327,Potato,1,87.8,34.18,1.74,Mild Infection,Brown
+PLANT_1328,Wheat,0,56.06,24.04,7.42,Healthy,Green
+PLANT_1329,Corn,1,45.05,26.9,0.23,Severe Infection,Green
+PLANT_1330,Potato,0,64.69,22.39,2.48,Healthy,Green
+PLANT_1331,Tomato,0,84.41,18.65,1.47,Healthy,Brown
+PLANT_1332,Wheat,1,62.95,29.44,9.56,Mild Infection,Green
+PLANT_1333,Wheat,0,41.3,22.26,5.95,Healthy,Green
+PLANT_1334,Corn,0,66.89,27.86,5.38,Healthy,Brown
+PLANT_1335,Potato,1,85.31,29.46,4.01,Mild Infection,Yellow
+PLANT_1336,Potato,0,58.28,21.01,0.12,Healthy,Green
+PLANT_1337,Corn,0,32.34,30.45,2.23,Healthy,Brown
+PLANT_1338,Corn,0,74.7,34.25,8.55,Healthy,Brown
+PLANT_1339,Rice,0,47.74,19.33,4.92,Healthy,Yellow
+PLANT_1340,Potato,1,86.79,27.1,8.02,Severe Infection,Brown
+PLANT_1341,Rice,1,74.85,22.14,2.38,Mild Infection,Yellow
+PLANT_1342,Potato,0,32.84,21.39,8.07,Healthy,Brown
+PLANT_1343,Potato,0,39.69,29.46,4.31,Healthy,Yellow
+PLANT_1344,Tomato,1,89.48,19.46,1.48,Severe Infection,Yellow
+PLANT_1345,Corn,0,89.08,33.56,3.97,Healthy,Green
+PLANT_1346,Wheat,1,65.75,18.67,1.23,Severe Infection,Green
+PLANT_1347,Corn,0,88.16,16.06,3.33,Healthy,Green
+PLANT_1348,Rice,1,78.91,31.87,6.06,Mild Infection,Green
+PLANT_1349,Rice,1,87.16,22.85,6.17,Mild Infection,Yellow
+PLANT_1350,Corn,0,30.62,32.5,2.6,Healthy,Green
+PLANT_1351,Tomato,0,32.18,21.27,1.32,Healthy,Green
+PLANT_1352,Potato,0,39.6,30.36,8.75,Healthy,Yellow
+PLANT_1353,Potato,0,71.47,29.31,5.18,Healthy,Green
+PLANT_1354,Tomato,0,47.44,30.89,4.71,Healthy,Green
+PLANT_1355,Tomato,1,85.51,24.95,6.09,Mild Infection,Green
+PLANT_1356,Rice,0,50.53,32.28,3.37,Healthy,Brown
+PLANT_1357,Potato,1,32.32,16.28,3.38,Severe Infection,Brown
+PLANT_1358,Rice,0,83.28,16.49,5.76,Healthy,Brown
+PLANT_1359,Tomato,0,85.73,24.12,7.6,Healthy,Green
+PLANT_1360,Tomato,0,63.76,33.07,4.36,Healthy,Yellow
+PLANT_1361,Corn,0,61.45,17.77,8.12,Healthy,Brown
+PLANT_1362,Rice,1,73.64,17.8,8.61,Mild Infection,Brown
+PLANT_1363,Corn,0,35.54,21.86,9.27,Healthy,Green
+PLANT_1364,Potato,0,83.02,23.12,2.65,Healthy,Yellow
+PLANT_1365,Potato,0,62.49,27.2,3.04,Healthy,Yellow
+PLANT_1366,Corn,0,77.39,24.42,3.73,Healthy,Green
+PLANT_1367,Tomato,0,33.83,19.24,9.24,Healthy,Green
+PLANT_1368,Potato,0,35.5,20.58,2.5,Healthy,Yellow
+PLANT_1369,Tomato,0,33.38,32.87,10.0,Healthy,Green
+PLANT_1370,Tomato,0,35.99,17.86,9.0,Healthy,Brown
+PLANT_1371,Potato,0,80.4,28.99,8.49,Healthy,Green
+PLANT_1372,Wheat,1,35.6,21.13,8.59,Severe Infection,Green
+PLANT_1373,Wheat,0,85.98,20.38,4.15,Healthy,Brown
+PLANT_1374,Wheat,1,74.97,22.03,4.26,Mild Infection,Yellow
+PLANT_1375,Rice,1,85.87,23.27,6.04,Mild Infection,Yellow
+PLANT_1376,Rice,0,49.55,16.97,9.89,Healthy,Yellow
+PLANT_1377,Potato,0,43.74,29.6,8.64,Healthy,Green
+PLANT_1378,Corn,0,81.42,15.89,9.09,Healthy,Brown
+PLANT_1379,Tomato,0,64.72,29.43,5.24,Healthy,Yellow
+PLANT_1380,Wheat,0,86.4,15.11,3.01,Healthy,Brown
+PLANT_1381,Wheat,0,33.14,28.7,2.33,Healthy,Brown
+PLANT_1382,Rice,0,64.6,19.88,3.3,Healthy,Yellow
+PLANT_1383,Potato,0,66.29,21.41,5.46,Healthy,Yellow
+PLANT_1384,Potato,0,38.86,25.7,1.2,Healthy,Brown
+PLANT_1385,Wheat,0,83.82,16.8,1.03,Healthy,Green
+PLANT_1386,Corn,0,42.03,34.16,6.51,Healthy,Green
+PLANT_1387,Corn,0,72.37,20.85,5.78,Healthy,Green
+PLANT_1388,Rice,1,53.2,17.47,5.54,Severe Infection,Brown
+PLANT_1389,Corn,0,44.9,19.4,3.23,Healthy,Brown
+PLANT_1390,Tomato,0,81.05,28.27,0.06,Healthy,Brown
+PLANT_1391,Corn,0,77.53,21.62,7.57,Healthy,Brown
+PLANT_1392,Potato,0,51.47,27.06,8.08,Healthy,Brown
+PLANT_1393,Corn,0,76.67,32.17,9.2,Healthy,Green
+PLANT_1394,Corn,0,36.3,33.29,9.05,Healthy,Green
+PLANT_1395,Corn,0,75.28,26.21,5.65,Healthy,Brown
+PLANT_1396,Rice,1,69.09,32.24,7.82,Mild Infection,Brown
+PLANT_1397,Potato,0,37.47,31.83,2.38,Healthy,Yellow
+PLANT_1398,Wheat,0,71.36,25.5,5.55,Healthy,Yellow
+PLANT_1399,Rice,0,88.91,28.89,2.83,Healthy,Green
+PLANT_1400,Corn,0,74.8,21.66,3.79,Healthy,Green
+PLANT_1401,Wheat,1,89.9,17.83,5.73,Severe Infection,Yellow
+PLANT_1402,Potato,0,42.21,32.76,8.62,Healthy,Yellow
+PLANT_1403,Tomato,1,32.54,17.11,0.14,Severe Infection,Green
+PLANT_1404,Corn,0,48.02,26.56,0.43,Healthy,Brown
+PLANT_1405,Wheat,0,87.51,20.44,4.03,Healthy,Green
+PLANT_1406,Rice,1,70.9,29.39,1.12,Mild Infection,Brown
+PLANT_1407,Potato,1,43.48,20.16,8.03,Severe Infection,Yellow
+PLANT_1408,Corn,0,76.53,22.87,8.97,Healthy,Yellow
+PLANT_1409,Corn,0,83.69,23.14,6.7,Healthy,Yellow
+PLANT_1410,Corn,0,78.48,31.6,1.42,Healthy,Yellow
+PLANT_1411,Wheat,1,52.23,28.11,4.23,Mild Infection,Green
+PLANT_1412,Corn,0,69.98,27.17,6.93,Healthy,Yellow
+PLANT_1413,Tomato,0,32.78,26.21,4.5,Healthy,Yellow
+PLANT_1414,Corn,0,31.74,34.82,5.12,Healthy,Brown
+PLANT_1415,Potato,0,49.96,18.64,5.77,Healthy,Brown
+PLANT_1416,Potato,1,74.91,34.9,5.72,Mild Infection,Green
+PLANT_1417,Rice,1,65.8,34.83,8.43,Mild Infection,Green
+PLANT_1418,Rice,0,33.08,17.29,5.82,Healthy,Yellow
+PLANT_1419,Tomato,1,65.71,18.69,3.95,Mild Infection,Brown
+PLANT_1420,Corn,0,72.59,33.42,3.98,Healthy,Green
+PLANT_1421,Rice,1,47.33,29.49,1.46,Mild Infection,Brown
+PLANT_1422,Rice,0,38.03,27.42,0.94,Healthy,Green
+PLANT_1423,Corn,0,51.86,25.77,3.26,Healthy,Brown
+PLANT_1424,Wheat,0,67.22,16.11,8.28,Healthy,Brown
+PLANT_1425,Rice,0,31.26,29.35,4.67,Healthy,Yellow
+PLANT_1426,Corn,0,61.14,31.5,6.43,Healthy,Brown
+PLANT_1427,Wheat,0,82.07,30.2,0.97,Healthy,Green
+PLANT_1428,Potato,1,66.84,33.29,5.49,Mild Infection,Yellow
+PLANT_1429,Tomato,1,35.17,15.08,0.49,Mild Infection,Green
+PLANT_1430,Potato,0,75.13,31.64,6.82,Healthy,Green
+PLANT_1431,Potato,0,39.34,16.4,0.06,Healthy,Brown
+PLANT_1432,Potato,0,46.7,31.54,0.77,Healthy,Yellow
+PLANT_1433,Rice,0,69.25,22.98,5.79,Healthy,Yellow
+PLANT_1434,Potato,0,71.21,15.93,2.41,Healthy,Yellow
+PLANT_1435,Wheat,0,68.44,31.42,7.18,Healthy,Yellow
+PLANT_1436,Corn,1,39.31,26.51,1.09,Severe Infection,Yellow
+PLANT_1437,Potato,1,76.56,21.98,5.35,Mild Infection,Brown
+PLANT_1438,Corn,1,59.71,25.49,2.4,Severe Infection,Green
+PLANT_1439,Tomato,1,63.49,22.88,5.34,Mild Infection,Green
+PLANT_1440,Rice,0,74.13,23.02,4.87,Healthy,Green
+PLANT_1441,Potato,0,36.89,26.78,6.53,Healthy,Brown
+PLANT_1442,Tomato,1,66.63,19.4,2.05,Mild Infection,Yellow
+PLANT_1443,Corn,1,49.37,17.31,2.77,Mild Infection,Green
+PLANT_1444,Tomato,0,84.4,29.31,0.16,Healthy,Yellow
+PLANT_1445,Rice,1,83.51,17.03,3.52,Severe Infection,Green
+PLANT_1446,Tomato,1,66.26,33.04,7.22,Mild Infection,Green
+PLANT_1447,Tomato,0,67.07,33.46,3.74,Healthy,Yellow
+PLANT_1448,Corn,0,89.25,23.87,1.97,Healthy,Yellow
+PLANT_1449,Wheat,0,50.79,16.48,8.35,Healthy,Yellow
+PLANT_1450,Wheat,0,31.99,15.52,6.0,Healthy,Green
+PLANT_1451,Potato,0,49.79,33.76,5.97,Healthy,Brown
+PLANT_1452,Tomato,1,65.73,27.27,3.2,Mild Infection,Brown
+PLANT_1453,Tomato,0,33.38,20.52,0.12,Healthy,Brown
+PLANT_1454,Potato,0,39.47,17.76,9.38,Healthy,Green
+PLANT_1455,Wheat,0,76.45,25.25,9.67,Healthy,Green
+PLANT_1456,Tomato,0,31.54,15.63,7.16,Healthy,Green
+PLANT_1457,Tomato,0,74.85,22.02,4.85,Healthy,Brown
+PLANT_1458,Rice,0,69.87,27.99,0.12,Healthy,Brown
+PLANT_1459,Tomato,1,45.08,26.45,0.6,Mild Infection,Yellow
+PLANT_1460,Potato,1,47.2,31.49,0.93,Mild Infection,Yellow
+PLANT_1461,Corn,0,40.56,24.63,9.77,Healthy,Brown
+PLANT_1462,Corn,0,50.56,21.66,0.25,Healthy,Yellow
+PLANT_1463,Tomato,0,60.15,15.58,3.41,Healthy,Green
+PLANT_1464,Corn,1,40.44,23.29,0.13,Mild Infection,Green
+PLANT_1465,Tomato,1,38.25,25.55,0.72,Severe Infection,Brown
+PLANT_1466,Corn,1,77.82,19.41,8.03,Mild Infection,Brown
+PLANT_1467,Rice,0,50.02,24.48,5.41,Healthy,Brown
+PLANT_1468,Potato,1,58.19,34.83,6.68,Severe Infection,Yellow
+PLANT_1469,Corn,0,38.7,23.62,3.7,Healthy,Green
+PLANT_1470,Tomato,0,34.43,22.24,9.56,Healthy,Green
+PLANT_1471,Rice,0,87.88,34.66,8.15,Healthy,Green
+PLANT_1472,Corn,0,84.98,28.79,1.18,Healthy,Brown
+PLANT_1473,Rice,0,49.28,20.95,7.96,Healthy,Brown
+PLANT_1474,Rice,0,53.79,34.47,7.6,Healthy,Green
+PLANT_1475,Corn,0,40.58,22.74,3.84,Healthy,Brown
+PLANT_1476,Wheat,0,74.9,34.75,4.24,Healthy,Yellow
+PLANT_1477,Wheat,0,63.5,17.4,4.02,Healthy,Brown
+PLANT_1478,Wheat,0,31.53,16.99,3.94,Healthy,Green
+PLANT_1479,Wheat,0,63.66,28.58,6.06,Healthy,Yellow
+PLANT_1480,Tomato,1,68.33,23.71,7.92,Severe Infection,Green
+PLANT_1481,Tomato,1,39.26,31.2,3.02,Mild Infection,Yellow
+PLANT_1482,Tomato,0,50.14,34.82,4.72,Healthy,Brown
+PLANT_1483,Potato,0,30.85,17.49,6.23,Healthy,Green
+PLANT_1484,Tomato,0,89.19,21.84,1.56,Healthy,Yellow
+PLANT_1485,Potato,0,69.44,28.42,4.7,Healthy,Yellow
+PLANT_1486,Wheat,0,54.05,33.13,2.67,Healthy,Green
+PLANT_1487,Wheat,0,30.66,17.01,7.72,Healthy,Brown
+PLANT_1488,Wheat,0,65.42,32.72,8.69,Healthy,Yellow
+PLANT_1489,Rice,0,50.86,24.19,1.28,Healthy,Yellow
+PLANT_1490,Tomato,0,55.87,23.9,5.53,Healthy,Green
+PLANT_1491,Wheat,0,32.36,19.88,8.92,Healthy,Brown
+PLANT_1492,Corn,0,39.57,32.69,8.37,Healthy,Brown
+PLANT_1493,Potato,0,84.3,16.55,5.29,Healthy,Green
+PLANT_1494,Wheat,1,62.49,29.71,4.39,Mild Infection,Brown
+PLANT_1495,Rice,1,42.6,20.96,4.72,Severe Infection,Green
+PLANT_1496,Corn,0,86.71,24.19,0.66,Healthy,Green
+PLANT_1497,Rice,1,48.22,23.95,3.0,Mild Infection,Brown
+PLANT_1498,Wheat,0,75.79,15.41,4.0,Healthy,Yellow
+PLANT_1499,Wheat,0,54.54,33.3,1.52,Healthy,Yellow
+PLANT_1500,Rice,0,63.83,23.43,8.84,Healthy,Green
+PLANT_1501,Potato,1,61.4,33.0,9.61,Mild Infection,Yellow
+PLANT_1502,Wheat,0,75.19,26.25,6.51,Healthy,Green
+PLANT_1503,Tomato,1,72.53,17.08,6.6,Mild Infection,Green
+PLANT_1504,Corn,0,71.73,33.14,8.27,Healthy,Brown
+PLANT_1505,Rice,0,41.45,26.42,9.3,Healthy,Green
+PLANT_1506,Rice,1,35.95,21.45,9.84,Mild Infection,Yellow
+PLANT_1507,Tomato,0,63.85,22.99,4.03,Healthy,Yellow
+PLANT_1508,Tomato,0,87.69,21.44,6.62,Healthy,Brown
+PLANT_1509,Wheat,1,36.01,33.79,4.59,Mild Infection,Green
+PLANT_1510,Corn,0,50.54,26.39,4.58,Healthy,Yellow
+PLANT_1511,Corn,0,82.2,16.77,5.18,Healthy,Yellow
+PLANT_1512,Corn,0,37.97,23.75,6.78,Healthy,Green
+PLANT_1513,Wheat,0,53.23,16.59,8.68,Healthy,Green
+PLANT_1514,Tomato,1,45.12,17.73,4.75,Mild Infection,Green
+PLANT_1515,Wheat,1,37.9,31.01,9.39,Mild Infection,Green
+PLANT_1516,Corn,1,48.35,30.29,1.52,Severe Infection,Brown
+PLANT_1517,Rice,1,53.29,22.74,5.43,Mild Infection,Green
+PLANT_1518,Tomato,0,70.09,16.84,2.77,Healthy,Yellow
+PLANT_1519,Wheat,1,33.44,29.92,3.08,Severe Infection,Brown
+PLANT_1520,Tomato,1,46.44,31.56,8.06,Mild Infection,Green
+PLANT_1521,Corn,0,83.92,23.74,6.74,Healthy,Green
+PLANT_1522,Rice,1,80.49,28.28,0.25,Severe Infection,Brown
+PLANT_1523,Tomato,0,34.28,32.08,6.31,Healthy,Yellow
+PLANT_1524,Tomato,0,89.71,20.44,6.43,Healthy,Yellow
+PLANT_1525,Rice,0,41.67,17.86,6.58,Healthy,Brown
+PLANT_1526,Potato,0,65.0,29.13,7.73,Healthy,Yellow
+PLANT_1527,Tomato,0,58.29,32.88,5.38,Healthy,Brown
+PLANT_1528,Tomato,1,53.52,26.03,1.8,Mild Infection,Green
+PLANT_1529,Wheat,0,63.78,20.4,7.93,Healthy,Brown
+PLANT_1530,Rice,1,55.74,34.22,0.78,Mild Infection,Yellow
+PLANT_1531,Tomato,0,35.23,34.18,1.91,Healthy,Green
+PLANT_1532,Potato,0,70.04,31.26,4.25,Healthy,Green
+PLANT_1533,Tomato,0,53.04,22.57,5.13,Healthy,Yellow
+PLANT_1534,Potato,0,38.61,29.91,7.55,Healthy,Brown
+PLANT_1535,Potato,0,87.2,25.6,7.73,Healthy,Green
+PLANT_1536,Rice,1,64.77,27.76,7.6,Severe Infection,Brown
+PLANT_1537,Rice,1,34.09,22.15,1.4,Severe Infection,Brown
+PLANT_1538,Wheat,1,67.93,19.22,4.55,Mild Infection,Green
+PLANT_1539,Wheat,0,77.1,21.91,4.65,Healthy,Green
+PLANT_1540,Rice,1,30.79,28.49,6.31,Mild Infection,Green
+PLANT_1541,Rice,0,77.05,18.77,0.67,Healthy,Yellow
+PLANT_1542,Tomato,1,64.37,17.33,8.09,Mild Infection,Yellow
+PLANT_1543,Wheat,0,37.58,26.72,7.21,Healthy,Yellow
+PLANT_1544,Rice,0,66.35,31.43,9.55,Healthy,Green
+PLANT_1545,Potato,0,52.37,26.52,2.87,Healthy,Green
+PLANT_1546,Wheat,0,30.96,21.07,7.46,Healthy,Brown
+PLANT_1547,Potato,1,79.88,15.76,4.43,Mild Infection,Brown
+PLANT_1548,Potato,0,34.99,18.33,7.75,Healthy,Brown
+PLANT_1549,Rice,1,82.87,20.84,2.14,Severe Infection,Yellow
+PLANT_1550,Rice,0,34.37,19.79,9.35,Healthy,Yellow
+PLANT_1551,Tomato,0,73.99,21.47,0.56,Healthy,Brown
+PLANT_1552,Rice,0,58.48,20.4,8.44,Healthy,Green
+PLANT_1553,Tomato,0,82.49,29.92,0.93,Healthy,Brown
+PLANT_1554,Tomato,0,82.83,20.08,7.19,Healthy,Yellow
+PLANT_1555,Corn,0,37.07,23.3,0.48,Healthy,Yellow
+PLANT_1556,Corn,0,55.8,19.03,1.86,Healthy,Brown
+PLANT_1557,Wheat,0,84.1,32.98,3.18,Healthy,Green
+PLANT_1558,Potato,0,87.12,26.88,1.98,Healthy,Yellow
+PLANT_1559,Potato,0,70.22,27.84,4.84,Healthy,Brown
+PLANT_1560,Tomato,0,77.51,19.63,0.33,Healthy,Brown
+PLANT_1561,Wheat,0,49.4,28.59,0.7,Healthy,Green
+PLANT_1562,Potato,1,48.49,15.2,6.41,Severe Infection,Green
+PLANT_1563,Potato,0,32.67,21.49,5.59,Healthy,Yellow
+PLANT_1564,Tomato,0,41.02,17.51,8.02,Healthy,Green
+PLANT_1565,Potato,0,49.72,18.06,8.67,Healthy,Green
+PLANT_1566,Tomato,1,38.37,31.18,0.31,Mild Infection,Green
+PLANT_1567,Tomato,1,50.64,16.29,5.07,Mild Infection,Brown
+PLANT_1568,Corn,1,71.47,27.66,5.41,Severe Infection,Green
+PLANT_1569,Potato,0,63.5,20.35,3.35,Healthy,Green
+PLANT_1570,Tomato,1,50.36,29.21,0.81,Severe Infection,Brown
+PLANT_1571,Tomato,0,71.54,24.1,2.7,Healthy,Yellow
+PLANT_1572,Potato,1,72.43,33.78,9.23,Mild Infection,Brown
+PLANT_1573,Wheat,1,66.36,20.0,8.84,Mild Infection,Yellow
+PLANT_1574,Rice,0,81.46,33.71,4.48,Healthy,Yellow
+PLANT_1575,Corn,1,38.93,28.19,8.36,Severe Infection,Brown
+PLANT_1576,Corn,1,47.83,29.86,1.7,Mild Infection,Brown
+PLANT_1577,Tomato,0,56.97,18.69,4.21,Healthy,Yellow
+PLANT_1578,Corn,1,33.61,19.71,9.34,Severe Infection,Green
+PLANT_1579,Tomato,0,86.57,19.73,9.21,Healthy,Yellow
+PLANT_1580,Wheat,0,37.27,33.91,0.92,Healthy,Green
+PLANT_1581,Potato,0,80.18,25.67,8.64,Healthy,Green
+PLANT_1582,Corn,0,85.51,16.77,5.86,Healthy,Yellow
+PLANT_1583,Potato,1,55.42,34.79,5.83,Mild Infection,Green
+PLANT_1584,Wheat,1,48.17,29.5,0.65,Severe Infection,Green
+PLANT_1585,Corn,0,46.88,29.05,2.04,Healthy,Brown
+PLANT_1586,Potato,1,65.26,16.3,8.92,Severe Infection,Green
+PLANT_1587,Wheat,1,59.31,16.72,3.01,Mild Infection,Yellow
+PLANT_1588,Tomato,0,59.68,20.44,6.95,Healthy,Brown
+PLANT_1589,Corn,0,89.94,16.62,3.53,Healthy,Brown
+PLANT_1590,Rice,0,77.09,33.08,6.81,Healthy,Yellow
+PLANT_1591,Potato,0,58.07,30.02,2.6,Healthy,Yellow
+PLANT_1592,Wheat,0,66.75,15.16,0.44,Healthy,Brown
+PLANT_1593,Potato,1,43.99,31.06,0.26,Mild Infection,Green
+PLANT_1594,Potato,0,48.37,25.6,5.03,Healthy,Yellow
+PLANT_1595,Rice,0,88.29,26.83,5.54,Healthy,Brown
+PLANT_1596,Tomato,0,76.5,33.55,7.43,Healthy,Yellow
+PLANT_1597,Wheat,1,61.56,20.74,6.52,Mild Infection,Yellow
+PLANT_1598,Potato,0,89.47,16.2,6.22,Healthy,Yellow
+PLANT_1599,Tomato,1,60.83,25.1,7.0,Severe Infection,Green
+PLANT_1600,Potato,0,64.81,22.42,5.31,Healthy,Brown
+PLANT_1601,Wheat,0,67.41,25.02,4.13,Healthy,Brown
+PLANT_1602,Potato,0,44.88,17.17,0.82,Healthy,Yellow
+PLANT_1603,Potato,0,67.97,16.47,3.1,Healthy,Yellow
+PLANT_1604,Potato,0,42.64,18.72,8.59,Healthy,Yellow
+PLANT_1605,Rice,1,46.57,24.21,4.2,Mild Infection,Yellow
+PLANT_1606,Corn,0,62.21,15.21,0.67,Healthy,Green
+PLANT_1607,Wheat,1,69.19,21.83,0.89,Severe Infection,Yellow
+PLANT_1608,Potato,0,71.04,16.51,3.92,Healthy,Green
+PLANT_1609,Rice,0,39.31,26.55,0.72,Healthy,Green
+PLANT_1610,Wheat,1,73.65,29.33,6.2,Mild Infection,Brown
+PLANT_1611,Corn,0,30.49,31.31,6.14,Healthy,Yellow
+PLANT_1612,Rice,1,40.99,21.2,2.23,Severe Infection,Green
+PLANT_1613,Potato,0,30.61,16.95,1.74,Healthy,Yellow
+PLANT_1614,Potato,0,40.28,21.29,9.59,Healthy,Green
+PLANT_1615,Corn,0,75.9,24.07,6.03,Healthy,Brown
+PLANT_1616,Corn,0,70.49,21.15,4.78,Healthy,Brown
+PLANT_1617,Tomato,1,77.93,31.29,2.91,Mild Infection,Brown
+PLANT_1618,Wheat,1,71.9,25.34,9.97,Mild Infection,Yellow
+PLANT_1619,Rice,1,73.0,20.57,3.75,Mild Infection,Yellow
+PLANT_1620,Tomato,0,41.64,21.57,8.95,Healthy,Brown
+PLANT_1621,Wheat,0,62.98,17.82,4.2,Healthy,Green
+PLANT_1622,Rice,0,61.41,17.08,6.47,Healthy,Green
+PLANT_1623,Corn,0,62.43,17.27,5.75,Healthy,Yellow
+PLANT_1624,Rice,0,35.44,24.33,3.25,Healthy,Yellow
+PLANT_1625,Potato,0,50.84,21.15,0.01,Healthy,Green
+PLANT_1626,Rice,0,76.71,23.2,1.1,Healthy,Brown
+PLANT_1627,Corn,1,48.19,18.49,1.34,Severe Infection,Green
+PLANT_1628,Rice,1,46.31,26.78,3.84,Mild Infection,Brown
+PLANT_1629,Rice,0,31.2,26.75,5.66,Healthy,Brown
+PLANT_1630,Tomato,0,71.11,16.46,3.97,Healthy,Green
+PLANT_1631,Rice,1,88.1,28.38,1.87,Mild Infection,Green
+PLANT_1632,Rice,1,30.26,31.5,2.7,Severe Infection,Yellow
+PLANT_1633,Corn,1,86.99,30.43,8.6,Mild Infection,Brown
+PLANT_1634,Rice,0,65.92,25.24,4.85,Healthy,Yellow
+PLANT_1635,Tomato,0,63.58,23.44,1.11,Healthy,Green
+PLANT_1636,Potato,0,84.42,30.37,5.99,Healthy,Green
+PLANT_1637,Corn,1,74.27,18.67,5.5,Severe Infection,Brown
+PLANT_1638,Corn,0,70.47,16.16,5.33,Healthy,Brown
+PLANT_1639,Rice,0,37.9,32.53,9.64,Healthy,Yellow
+PLANT_1640,Tomato,0,35.57,31.86,3.87,Healthy,Yellow
+PLANT_1641,Wheat,0,79.21,31.14,3.74,Healthy,Yellow
+PLANT_1642,Tomato,0,88.61,17.18,0.56,Healthy,Brown
+PLANT_1643,Corn,0,36.12,24.51,3.22,Healthy,Brown
+PLANT_1644,Potato,0,47.01,18.79,6.73,Healthy,Green
+PLANT_1645,Wheat,1,81.53,28.65,6.31,Severe Infection,Brown
+PLANT_1646,Tomato,0,48.76,17.8,8.34,Healthy,Brown
+PLANT_1647,Corn,1,71.45,15.28,1.27,Mild Infection,Brown
+PLANT_1648,Corn,0,31.73,28.58,1.84,Healthy,Yellow
+PLANT_1649,Rice,0,42.39,26.41,4.29,Healthy,Green
+PLANT_1650,Corn,0,47.44,27.85,5.61,Healthy,Yellow
+PLANT_1651,Corn,0,58.33,25.55,3.08,Healthy,Brown
+PLANT_1652,Potato,1,51.53,25.02,7.88,Mild Infection,Yellow
+PLANT_1653,Potato,0,76.04,34.74,8.8,Healthy,Green
+PLANT_1654,Tomato,0,54.0,17.35,4.07,Healthy,Brown
+PLANT_1655,Corn,1,40.92,20.62,7.95,Mild Infection,Brown
+PLANT_1656,Rice,0,53.65,29.53,6.78,Healthy,Green
+PLANT_1657,Rice,0,88.01,34.65,7.04,Healthy,Brown
+PLANT_1658,Potato,0,30.55,28.56,8.89,Healthy,Yellow
+PLANT_1659,Wheat,0,36.77,20.71,6.84,Healthy,Yellow
+PLANT_1660,Potato,1,68.2,26.75,5.99,Severe Infection,Green
+PLANT_1661,Tomato,1,34.59,33.92,1.74,Mild Infection,Yellow
+PLANT_1662,Wheat,0,49.07,25.63,4.94,Healthy,Brown
+PLANT_1663,Corn,1,53.66,28.92,0.72,Severe Infection,Brown
+PLANT_1664,Wheat,0,55.62,33.71,7.67,Healthy,Yellow
+PLANT_1665,Wheat,0,40.23,19.34,9.93,Healthy,Yellow
+PLANT_1666,Corn,0,57.51,16.04,2.25,Healthy,Green
+PLANT_1667,Wheat,1,62.39,24.53,3.68,Severe Infection,Brown
+PLANT_1668,Potato,0,32.86,23.2,8.11,Healthy,Yellow
+PLANT_1669,Tomato,0,77.71,28.56,0.97,Healthy,Brown
+PLANT_1670,Tomato,0,47.65,29.28,4.19,Healthy,Green
+PLANT_1671,Wheat,0,64.14,24.92,5.27,Healthy,Yellow
+PLANT_1672,Corn,0,74.89,34.19,2.55,Healthy,Brown
+PLANT_1673,Potato,1,30.4,23.65,0.01,Mild Infection,Green
+PLANT_1674,Potato,0,50.65,20.38,3.6,Healthy,Brown
+PLANT_1675,Corn,0,86.18,23.09,4.75,Healthy,Green
+PLANT_1676,Potato,0,73.83,26.21,2.83,Healthy,Yellow
+PLANT_1677,Tomato,0,33.89,29.62,5.93,Healthy,Brown
+PLANT_1678,Wheat,0,70.42,20.53,2.66,Healthy,Green
+PLANT_1679,Wheat,0,76.82,34.69,2.25,Healthy,Yellow
+PLANT_1680,Corn,0,61.35,17.31,8.96,Healthy,Yellow
+PLANT_1681,Tomato,0,30.53,33.73,1.66,Healthy,Brown
+PLANT_1682,Tomato,0,66.9,27.88,4.29,Healthy,Yellow
+PLANT_1683,Potato,0,66.23,21.72,4.65,Healthy,Brown
+PLANT_1684,Tomato,1,81.76,18.64,5.11,Severe Infection,Green
+PLANT_1685,Corn,1,30.85,23.54,3.82,Mild Infection,Brown
+PLANT_1686,Potato,1,57.93,23.33,8.18,Mild Infection,Brown
+PLANT_1687,Potato,0,39.84,25.47,6.34,Healthy,Brown
+PLANT_1688,Corn,1,87.26,34.98,0.6,Mild Infection,Brown
+PLANT_1689,Wheat,1,72.91,33.2,4.32,Severe Infection,Brown
+PLANT_1690,Potato,0,35.89,31.93,3.09,Healthy,Yellow
+PLANT_1691,Wheat,0,66.58,33.11,8.82,Healthy,Yellow
+PLANT_1692,Tomato,0,80.03,28.35,1.92,Healthy,Green
+PLANT_1693,Wheat,0,63.97,15.54,9.98,Healthy,Yellow
+PLANT_1694,Corn,0,65.29,19.08,1.42,Healthy,Yellow
+PLANT_1695,Wheat,0,43.38,21.52,4.73,Healthy,Green
+PLANT_1696,Potato,0,36.06,16.34,0.25,Healthy,Green
+PLANT_1697,Corn,1,87.95,15.76,5.39,Severe Infection,Brown
+PLANT_1698,Corn,0,30.13,31.36,0.15,Healthy,Green
+PLANT_1699,Rice,0,88.38,33.03,6.75,Healthy,Green
+PLANT_1700,Potato,0,52.49,27.78,6.45,Healthy,Yellow
+PLANT_1701,Rice,1,80.03,16.58,9.05,Mild Infection,Yellow
+PLANT_1702,Rice,0,38.17,28.44,0.04,Healthy,Green
+PLANT_1703,Wheat,1,59.66,18.41,4.46,Mild Infection,Green
+PLANT_1704,Potato,1,40.81,29.95,2.32,Severe Infection,Green
+PLANT_1705,Rice,0,43.74,21.14,4.41,Healthy,Yellow
+PLANT_1706,Corn,0,62.63,24.95,9.51,Healthy,Brown
+PLANT_1707,Potato,0,41.86,17.5,8.96,Healthy,Yellow
+PLANT_1708,Corn,0,43.13,16.85,3.4,Healthy,Yellow
+PLANT_1709,Potato,0,77.44,24.92,6.37,Healthy,Yellow
+PLANT_1710,Rice,0,63.05,23.98,0.86,Healthy,Green
+PLANT_1711,Corn,0,70.42,29.89,4.19,Healthy,Green
+PLANT_1712,Potato,0,70.42,23.94,9.05,Healthy,Green
+PLANT_1713,Corn,1,88.05,23.33,1.75,Mild Infection,Green
+PLANT_1714,Tomato,0,51.84,22.92,1.87,Healthy,Green
+PLANT_1715,Corn,1,46.46,32.94,7.78,Severe Infection,Brown
+PLANT_1716,Tomato,0,83.81,17.35,0.42,Healthy,Brown
+PLANT_1717,Wheat,0,41.12,24.62,5.19,Healthy,Yellow
+PLANT_1718,Rice,1,45.73,15.86,3.21,Severe Infection,Green
+PLANT_1719,Rice,0,35.83,27.64,0.47,Healthy,Brown
+PLANT_1720,Rice,0,57.59,21.43,6.95,Healthy,Green
+PLANT_1721,Corn,0,42.93,30.38,7.29,Healthy,Yellow
+PLANT_1722,Corn,1,30.16,29.1,8.37,Severe Infection,Green
+PLANT_1723,Tomato,1,48.63,22.91,2.09,Severe Infection,Green
+PLANT_1724,Corn,1,89.95,15.06,6.37,Mild Infection,Yellow
+PLANT_1725,Wheat,0,58.6,34.03,4.72,Healthy,Green
+PLANT_1726,Wheat,0,88.84,32.81,3.28,Healthy,Green
+PLANT_1727,Corn,1,51.31,32.33,3.86,Severe Infection,Yellow
+PLANT_1728,Corn,0,60.3,21.19,1.2,Healthy,Brown
+PLANT_1729,Wheat,1,43.74,24.37,6.66,Mild Infection,Green
+PLANT_1730,Rice,0,75.37,29.57,0.05,Healthy,Green
+PLANT_1731,Potato,1,80.35,16.88,7.87,Mild Infection,Yellow
+PLANT_1732,Rice,1,71.68,21.22,3.47,Severe Infection,Yellow
+PLANT_1733,Rice,1,71.24,16.28,9.82,Severe Infection,Brown
+PLANT_1734,Potato,1,85.62,33.34,9.2,Mild Infection,Green
+PLANT_1735,Corn,0,50.4,24.21,7.23,Healthy,Brown
+PLANT_1736,Rice,0,48.09,21.48,3.78,Healthy,Green
+PLANT_1737,Potato,0,51.06,16.38,0.64,Healthy,Yellow
+PLANT_1738,Rice,0,76.61,21.04,3.08,Healthy,Brown
+PLANT_1739,Potato,0,52.28,23.0,9.09,Healthy,Green
+PLANT_1740,Potato,0,47.78,18.37,1.42,Healthy,Yellow
+PLANT_1741,Wheat,0,35.04,17.61,0.15,Healthy,Green
+PLANT_1742,Potato,1,43.66,24.48,4.91,Mild Infection,Brown
+PLANT_1743,Wheat,0,33.23,31.49,5.76,Healthy,Brown
+PLANT_1744,Tomato,0,89.19,22.32,1.23,Healthy,Brown
+PLANT_1745,Corn,0,71.43,32.67,7.91,Healthy,Green
+PLANT_1746,Tomato,0,79.07,22.53,1.92,Healthy,Yellow
+PLANT_1747,Rice,1,88.75,32.11,5.25,Mild Infection,Brown
+PLANT_1748,Tomato,1,61.07,16.63,5.57,Severe Infection,Green
+PLANT_1749,Potato,0,52.46,15.16,9.96,Healthy,Brown
+PLANT_1750,Wheat,0,57.59,22.29,8.78,Healthy,Green
+PLANT_1751,Corn,1,46.01,19.91,8.24,Mild Infection,Green
+PLANT_1752,Rice,0,34.57,20.25,2.5,Healthy,Green
+PLANT_1753,Tomato,0,48.07,29.75,5.3,Healthy,Yellow
+PLANT_1754,Tomato,1,79.52,23.66,2.37,Mild Infection,Brown
+PLANT_1755,Wheat,0,38.97,32.19,3.01,Healthy,Yellow
+PLANT_1756,Potato,0,76.18,26.81,8.65,Healthy,Yellow
+PLANT_1757,Corn,0,36.6,23.6,5.86,Healthy,Yellow
+PLANT_1758,Rice,0,86.64,34.94,8.99,Healthy,Green
+PLANT_1759,Potato,0,52.36,22.42,8.85,Healthy,Green
+PLANT_1760,Tomato,0,79.51,34.25,7.24,Healthy,Green
+PLANT_1761,Tomato,0,86.88,19.85,7.09,Healthy,Yellow
+PLANT_1762,Tomato,1,31.76,33.66,7.57,Severe Infection,Brown
+PLANT_1763,Wheat,1,42.86,15.96,5.88,Mild Infection,Brown
+PLANT_1764,Corn,0,56.09,19.96,9.75,Healthy,Green
+PLANT_1765,Rice,1,61.39,32.87,3.4,Mild Infection,Brown
+PLANT_1766,Rice,0,75.84,28.78,1.59,Healthy,Green
+PLANT_1767,Rice,0,50.42,25.9,5.39,Healthy,Green
+PLANT_1768,Corn,1,72.53,22.99,6.67,Severe Infection,Yellow
+PLANT_1769,Rice,1,66.92,29.33,4.7,Mild Infection,Green
+PLANT_1770,Tomato,1,64.84,25.33,1.71,Severe Infection,Brown
+PLANT_1771,Tomato,0,86.88,34.33,8.42,Healthy,Green
+PLANT_1772,Corn,0,74.62,20.96,5.65,Healthy,Brown
+PLANT_1773,Tomato,0,54.42,17.89,0.75,Healthy,Green
+PLANT_1774,Wheat,1,39.96,17.57,6.49,Mild Infection,Green
+PLANT_1775,Rice,0,73.71,33.24,1.13,Healthy,Yellow
+PLANT_1776,Rice,0,76.94,24.39,5.25,Healthy,Yellow
+PLANT_1777,Potato,1,43.36,19.12,6.54,Mild Infection,Brown
+PLANT_1778,Corn,0,64.69,17.39,0.61,Healthy,Yellow
+PLANT_1779,Potato,0,30.85,19.43,3.26,Healthy,Yellow
+PLANT_1780,Corn,0,77.79,19.69,4.44,Healthy,Yellow
+PLANT_1781,Potato,1,46.53,20.45,1.72,Severe Infection,Brown
+PLANT_1782,Tomato,0,77.6,28.72,0.3,Healthy,Yellow
+PLANT_1783,Potato,0,77.39,31.49,8.12,Healthy,Brown
+PLANT_1784,Rice,1,50.44,28.87,2.54,Severe Infection,Brown
+PLANT_1785,Corn,0,52.89,21.05,8.24,Healthy,Brown
+PLANT_1786,Tomato,0,70.06,24.68,5.69,Healthy,Brown
+PLANT_1787,Wheat,0,59.64,23.35,7.24,Healthy,Green
+PLANT_1788,Rice,0,72.8,32.48,8.13,Healthy,Brown
+PLANT_1789,Potato,0,40.67,30.38,2.76,Healthy,Green
+PLANT_1790,Rice,0,52.44,19.77,8.2,Healthy,Brown
+PLANT_1791,Potato,0,40.02,19.36,7.34,Healthy,Green
+PLANT_1792,Potato,0,73.36,30.67,0.27,Healthy,Green
+PLANT_1793,Potato,1,36.42,23.96,6.72,Mild Infection,Green
+PLANT_1794,Rice,0,88.53,19.15,3.85,Healthy,Green
+PLANT_1795,Potato,0,35.57,16.21,3.71,Healthy,Brown
+PLANT_1796,Corn,0,65.39,26.68,3.23,Healthy,Green
+PLANT_1797,Tomato,0,42.27,32.16,7.49,Healthy,Green
+PLANT_1798,Rice,0,85.66,19.84,5.53,Healthy,Brown
+PLANT_1799,Wheat,0,79.36,18.0,8.89,Healthy,Yellow
+PLANT_1800,Tomato,1,87.91,16.21,2.75,Severe Infection,Brown
+PLANT_1801,Rice,1,55.46,19.45,4.49,Mild Infection,Yellow
+PLANT_1802,Corn,0,32.23,18.63,6.98,Healthy,Brown
+PLANT_1803,Corn,0,66.78,15.18,7.06,Healthy,Brown
+PLANT_1804,Rice,1,30.25,20.44,3.37,Mild Infection,Green
+PLANT_1805,Potato,0,46.4,30.01,3.62,Healthy,Brown
+PLANT_1806,Wheat,0,81.39,23.53,9.41,Healthy,Yellow
+PLANT_1807,Wheat,1,55.92,34.47,8.83,Mild Infection,Brown
+PLANT_1808,Potato,0,57.39,19.72,9.42,Healthy,Green
+PLANT_1809,Potato,0,71.32,28.62,4.06,Healthy,Yellow
+PLANT_1810,Corn,0,68.01,25.78,0.77,Healthy,Brown
+PLANT_1811,Wheat,0,81.74,33.38,5.45,Healthy,Yellow
+PLANT_1812,Tomato,0,69.65,30.11,6.4,Healthy,Brown
+PLANT_1813,Tomato,0,58.6,16.16,1.37,Healthy,Green
+PLANT_1814,Tomato,1,57.6,25.22,5.93,Severe Infection,Brown
+PLANT_1815,Wheat,0,51.75,34.49,7.78,Healthy,Brown
+PLANT_1816,Corn,0,32.66,21.41,8.69,Healthy,Green
+PLANT_1817,Wheat,0,52.82,17.5,9.17,Healthy,Green
+PLANT_1818,Rice,0,72.45,26.31,1.72,Healthy,Yellow
+PLANT_1819,Corn,0,60.2,20.29,4.66,Healthy,Green
+PLANT_1820,Tomato,0,76.1,24.42,4.3,Healthy,Yellow
+PLANT_1821,Potato,0,66.58,30.43,9.95,Healthy,Yellow
+PLANT_1822,Potato,0,35.55,30.4,5.68,Healthy,Green
+PLANT_1823,Rice,0,87.22,25.75,4.17,Healthy,Yellow
+PLANT_1824,Potato,1,83.87,33.27,3.08,Mild Infection,Brown
+PLANT_1825,Rice,1,76.78,19.55,8.92,Mild Infection,Brown
+PLANT_1826,Rice,0,77.3,34.02,4.4,Healthy,Yellow
+PLANT_1827,Rice,0,33.91,25.1,5.79,Healthy,Green
+PLANT_1828,Rice,0,82.54,20.43,6.9,Healthy,Yellow
+PLANT_1829,Potato,1,63.29,15.27,2.4,Mild Infection,Green
+PLANT_1830,Corn,0,59.67,19.63,7.31,Healthy,Brown
+PLANT_1831,Wheat,1,68.12,19.7,6.11,Mild Infection,Green
+PLANT_1832,Tomato,0,82.41,26.82,6.19,Healthy,Yellow
+PLANT_1833,Tomato,0,38.6,24.34,6.71,Healthy,Brown
+PLANT_1834,Wheat,0,36.56,24.32,4.55,Healthy,Brown
+PLANT_1835,Rice,0,76.38,25.8,1.97,Healthy,Green
+PLANT_1836,Potato,1,54.32,29.7,2.5,Mild Infection,Brown
+PLANT_1837,Potato,0,46.16,28.68,8.44,Healthy,Green
+PLANT_1838,Corn,0,65.5,28.17,0.61,Healthy,Yellow
+PLANT_1839,Wheat,1,37.56,29.76,7.3,Mild Infection,Brown
+PLANT_1840,Rice,0,42.55,30.8,7.27,Healthy,Yellow
+PLANT_1841,Tomato,0,79.77,19.01,7.15,Healthy,Yellow
+PLANT_1842,Rice,0,74.23,18.1,1.57,Healthy,Green
+PLANT_1843,Rice,0,34.27,25.98,0.36,Healthy,Green
+PLANT_1844,Corn,0,39.71,24.72,0.56,Healthy,Yellow
+PLANT_1845,Rice,0,60.97,33.0,2.45,Healthy,Yellow
+PLANT_1846,Corn,0,87.64,31.94,6.06,Healthy,Brown
+PLANT_1847,Corn,0,39.94,31.62,3.13,Healthy,Green
+PLANT_1848,Potato,1,84.46,22.18,1.5,Severe Infection,Green
+PLANT_1849,Potato,0,38.53,26.29,8.86,Healthy,Green
+PLANT_1850,Rice,0,55.69,28.72,5.92,Healthy,Green
+PLANT_1851,Wheat,1,73.34,29.67,9.1,Severe Infection,Yellow
+PLANT_1852,Corn,1,59.07,16.94,7.76,Mild Infection,Green
+PLANT_1853,Corn,0,52.37,32.84,5.21,Healthy,Brown
+PLANT_1854,Potato,0,83.67,23.74,2.94,Healthy,Brown
+PLANT_1855,Rice,0,37.89,21.94,3.56,Healthy,Green
+PLANT_1856,Rice,1,68.15,33.81,0.21,Mild Infection,Yellow
+PLANT_1857,Corn,1,73.69,22.74,3.31,Mild Infection,Brown
+PLANT_1858,Corn,1,76.02,17.7,2.59,Mild Infection,Brown
+PLANT_1859,Tomato,0,39.88,24.31,4.3,Healthy,Green
+PLANT_1860,Tomato,1,55.67,31.56,0.57,Mild Infection,Green
+PLANT_1861,Rice,0,85.63,17.49,1.94,Healthy,Green
+PLANT_1862,Wheat,0,44.78,18.73,8.21,Healthy,Brown
+PLANT_1863,Wheat,0,32.4,32.81,1.01,Healthy,Yellow
+PLANT_1864,Potato,0,30.88,33.27,4.58,Healthy,Brown
+PLANT_1865,Potato,0,42.82,33.33,1.93,Healthy,Green
+PLANT_1866,Wheat,0,41.77,20.69,4.33,Healthy,Green
+PLANT_1867,Corn,0,75.56,20.62,6.91,Healthy,Yellow
+PLANT_1868,Tomato,0,31.56,22.34,8.63,Healthy,Yellow
+PLANT_1869,Tomato,0,79.06,31.46,2.82,Healthy,Yellow
+PLANT_1870,Wheat,0,82.15,31.22,6.08,Healthy,Green
+PLANT_1871,Corn,0,38.44,24.13,0.04,Healthy,Yellow
+PLANT_1872,Corn,0,71.36,25.82,8.36,Healthy,Yellow
+PLANT_1873,Rice,0,70.65,22.87,5.11,Healthy,Brown
+PLANT_1874,Wheat,0,43.36,34.29,4.52,Healthy,Green
+PLANT_1875,Corn,0,58.46,18.05,7.71,Healthy,Yellow
+PLANT_1876,Tomato,0,46.25,30.73,7.99,Healthy,Green
+PLANT_1877,Wheat,0,73.6,32.16,5.7,Healthy,Yellow
+PLANT_1878,Wheat,1,58.22,31.61,6.65,Mild Infection,Green
+PLANT_1879,Potato,0,63.64,34.96,2.04,Healthy,Brown
+PLANT_1880,Corn,1,88.42,34.87,2.67,Mild Infection,Brown
+PLANT_1881,Tomato,1,78.09,30.59,7.2,Mild Infection,Brown
+PLANT_1882,Rice,0,61.52,31.73,0.37,Healthy,Yellow
+PLANT_1883,Tomato,1,50.89,26.25,6.27,Mild Infection,Brown
+PLANT_1884,Wheat,0,36.61,16.09,9.11,Healthy,Green
+PLANT_1885,Corn,0,54.56,27.97,2.14,Healthy,Brown
+PLANT_1886,Wheat,1,72.73,16.0,7.41,Mild Infection,Brown
+PLANT_1887,Rice,1,67.27,21.23,8.88,Mild Infection,Green
+PLANT_1888,Corn,0,67.63,34.55,6.11,Healthy,Green
+PLANT_1889,Potato,0,78.39,30.42,0.15,Healthy,Yellow
+PLANT_1890,Potato,1,65.78,20.85,8.11,Mild Infection,Yellow
+PLANT_1891,Tomato,0,81.73,24.91,3.78,Healthy,Brown
+PLANT_1892,Tomato,0,83.81,17.55,1.97,Healthy,Brown
+PLANT_1893,Corn,1,76.15,25.06,8.12,Mild Infection,Yellow
+PLANT_1894,Rice,1,83.02,19.64,4.05,Mild Infection,Green
+PLANT_1895,Potato,0,31.27,28.29,9.47,Healthy,Green
+PLANT_1896,Corn,0,85.0,21.64,0.34,Healthy,Green
+PLANT_1897,Wheat,0,31.73,27.82,9.71,Healthy,Yellow
+PLANT_1898,Corn,1,58.67,26.11,4.14,Mild Infection,Yellow
+PLANT_1899,Rice,0,87.86,24.46,8.82,Healthy,Green
+PLANT_1900,Wheat,0,44.87,34.72,5.4,Healthy,Green
+PLANT_1901,Corn,0,61.05,24.93,9.62,Healthy,Green
+PLANT_1902,Potato,0,71.25,31.97,1.05,Healthy,Green
+PLANT_1903,Potato,0,39.46,28.71,9.51,Healthy,Brown
+PLANT_1904,Potato,0,59.21,16.99,2.1,Healthy,Brown
+PLANT_1905,Rice,0,62.13,32.77,2.06,Healthy,Yellow
+PLANT_1906,Tomato,0,37.64,25.69,9.39,Healthy,Yellow
+PLANT_1907,Potato,0,39.14,15.77,0.55,Healthy,Brown
+PLANT_1908,Potato,0,89.14,19.61,3.55,Healthy,Green
+PLANT_1909,Corn,1,82.81,33.89,6.11,Mild Infection,Brown
+PLANT_1910,Tomato,0,41.13,33.38,7.79,Healthy,Green
+PLANT_1911,Potato,0,56.71,20.87,4.82,Healthy,Yellow
+PLANT_1912,Tomato,0,75.07,31.57,7.96,Healthy,Brown
+PLANT_1913,Tomato,1,63.47,21.04,0.74,Mild Infection,Green
+PLANT_1914,Potato,1,66.34,15.6,4.25,Severe Infection,Yellow
+PLANT_1915,Potato,0,53.85,18.06,2.1,Healthy,Yellow
+PLANT_1916,Tomato,0,49.99,26.1,2.92,Healthy,Yellow
+PLANT_1917,Potato,0,49.16,24.48,0.1,Healthy,Green
+PLANT_1918,Wheat,1,52.09,24.18,4.7,Mild Infection,Yellow
+PLANT_1919,Rice,1,86.45,18.22,0.25,Mild Infection,Green
+PLANT_1920,Potato,0,37.05,15.99,3.88,Healthy,Yellow
+PLANT_1921,Wheat,0,61.46,16.78,6.74,Healthy,Green
+PLANT_1922,Potato,1,30.2,22.05,7.26,Severe Infection,Yellow
+PLANT_1923,Corn,0,77.23,18.84,4.56,Healthy,Yellow
+PLANT_1924,Rice,0,89.61,23.34,2.8,Healthy,Green
+PLANT_1925,Potato,0,76.59,22.09,1.9,Healthy,Brown
+PLANT_1926,Potato,1,56.06,34.87,7.14,Severe Infection,Green
+PLANT_1927,Potato,0,70.73,34.72,6.32,Healthy,Green
+PLANT_1928,Potato,1,37.81,16.63,5.39,Severe Infection,Brown
+PLANT_1929,Wheat,0,51.67,29.21,0.65,Healthy,Brown
+PLANT_1930,Tomato,0,74.33,18.26,6.11,Healthy,Brown
+PLANT_1931,Corn,0,49.94,25.63,8.34,Healthy,Green
+PLANT_1932,Potato,0,32.74,23.48,8.71,Healthy,Yellow
+PLANT_1933,Potato,0,87.26,32.99,8.83,Healthy,Brown
+PLANT_1934,Corn,1,39.47,24.35,2.65,Severe Infection,Brown
+PLANT_1935,Tomato,0,31.99,21.34,2.48,Healthy,Green
+PLANT_1936,Potato,1,34.01,22.82,1.92,Severe Infection,Green
+PLANT_1937,Tomato,0,32.28,24.89,2.1,Healthy,Brown
+PLANT_1938,Tomato,0,54.74,28.46,2.43,Healthy,Yellow
+PLANT_1939,Rice,1,32.52,18.57,4.95,Mild Infection,Yellow
+PLANT_1940,Potato,0,62.45,31.09,1.31,Healthy,Green
+PLANT_1941,Potato,0,32.03,17.92,6.24,Healthy,Brown
+PLANT_1942,Rice,0,87.52,26.51,7.45,Healthy,Brown
+PLANT_1943,Rice,1,57.67,29.42,9.14,Mild Infection,Yellow
+PLANT_1944,Potato,1,38.03,26.82,6.74,Mild Infection,Green
+PLANT_1945,Potato,1,69.85,28.65,4.57,Mild Infection,Yellow
+PLANT_1946,Rice,0,73.94,24.62,8.13,Healthy,Green
+PLANT_1947,Rice,1,57.86,23.73,2.38,Severe Infection,Green
+PLANT_1948,Tomato,1,81.47,23.19,0.3,Mild Infection,Yellow
+PLANT_1949,Potato,1,81.99,31.93,4.03,Mild Infection,Green
+PLANT_1950,Corn,0,49.66,26.65,2.97,Healthy,Brown
+PLANT_1951,Potato,0,82.0,22.43,4.59,Healthy,Green
+PLANT_1952,Corn,1,36.86,33.94,5.26,Mild Infection,Green
+PLANT_1953,Wheat,1,48.53,15.0,8.42,Severe Infection,Yellow
+PLANT_1954,Wheat,0,74.58,20.66,4.53,Healthy,Green
+PLANT_1955,Rice,0,48.71,21.83,6.63,Healthy,Green
+PLANT_1956,Potato,1,80.04,33.55,4.05,Mild Infection,Green
+PLANT_1957,Corn,1,75.24,19.72,0.14,Mild Infection,Yellow
+PLANT_1958,Potato,0,76.04,27.31,9.74,Healthy,Brown
+PLANT_1959,Wheat,1,51.2,17.93,3.23,Severe Infection,Yellow
+PLANT_1960,Corn,0,84.26,31.8,5.74,Healthy,Brown
+PLANT_1961,Tomato,0,35.64,29.17,7.29,Healthy,Green
+PLANT_1962,Tomato,0,41.63,31.27,3.68,Healthy,Yellow
+PLANT_1963,Rice,0,69.72,32.97,8.76,Healthy,Yellow
+PLANT_1964,Rice,0,76.78,31.78,7.79,Healthy,Green
+PLANT_1965,Tomato,1,43.19,24.81,7.86,Mild Infection,Brown
+PLANT_1966,Corn,0,78.76,27.42,4.1,Healthy,Yellow
+PLANT_1967,Corn,0,54.14,27.27,7.95,Healthy,Green
+PLANT_1968,Wheat,1,53.35,30.71,8.75,Severe Infection,Yellow
+PLANT_1969,Tomato,0,56.71,34.96,5.79,Healthy,Green
+PLANT_1970,Tomato,0,86.9,16.07,0.02,Healthy,Green
+PLANT_1971,Tomato,0,71.68,16.35,2.12,Healthy,Green
+PLANT_1972,Tomato,0,38.19,31.8,0.73,Healthy,Green
+PLANT_1973,Wheat,1,82.45,30.73,5.85,Mild Infection,Green
+PLANT_1974,Rice,0,57.94,32.39,4.93,Healthy,Green
+PLANT_1975,Corn,1,36.8,20.23,1.61,Severe Infection,Yellow
+PLANT_1976,Rice,0,79.44,16.79,4.87,Healthy,Yellow
+PLANT_1977,Rice,1,87.44,28.23,8.77,Mild Infection,Green
+PLANT_1978,Rice,0,47.81,25.7,6.9,Healthy,Brown
+PLANT_1979,Rice,1,76.22,18.69,1.55,Mild Infection,Green
+PLANT_1980,Corn,0,76.14,24.5,9.35,Healthy,Yellow
+PLANT_1981,Rice,1,39.62,20.26,7.4,Severe Infection,Yellow
+PLANT_1982,Wheat,0,75.2,15.47,5.83,Healthy,Green
+PLANT_1983,Wheat,0,43.82,23.06,6.81,Healthy,Brown
+PLANT_1984,Potato,0,70.91,23.46,6.78,Healthy,Brown
+PLANT_1985,Wheat,0,72.56,28.81,8.98,Healthy,Green
+PLANT_1986,Tomato,1,79.74,27.51,4.24,Mild Infection,Brown
+PLANT_1987,Tomato,0,58.56,34.43,5.05,Healthy,Brown
+PLANT_1988,Tomato,0,74.35,23.33,4.32,Healthy,Yellow
+PLANT_1989,Potato,0,75.65,32.34,9.46,Healthy,Yellow
+PLANT_1990,Tomato,0,85.64,21.93,7.72,Healthy,Yellow
+PLANT_1991,Rice,0,32.08,27.43,8.05,Healthy,Green
+PLANT_1992,Corn,1,85.51,23.52,4.34,Severe Infection,Yellow
+PLANT_1993,Potato,0,84.02,24.59,2.27,Healthy,Green
+PLANT_1994,Rice,0,58.9,33.13,9.29,Healthy,Yellow
+PLANT_1995,Rice,0,36.42,33.57,2.53,Healthy,Brown
+PLANT_1996,Tomato,0,71.32,21.98,5.17,Healthy,Brown
+PLANT_1997,Potato,0,46.57,24.68,5.0,Healthy,Brown
+PLANT_1998,Rice,0,62.57,17.95,1.94,Healthy,Green
+PLANT_1999,Rice,1,55.68,30.16,6.03,Mild Infection,Green
+PLANT_2000,Wheat,1,66.13,15.48,1.87,Mild Infection,Brown
+PLANT_2001,Corn,1,61.88,22.84,1.1,Severe Infection,Yellow
+PLANT_2002,Tomato,0,73.62,17.48,7.88,Healthy,Brown
+PLANT_2003,Tomato,1,62.77,33.2,0.31,Severe Infection,Yellow
+PLANT_2004,Corn,1,89.11,21.65,1.1,Severe Infection,Yellow
+PLANT_2005,Rice,0,71.16,27.69,3.52,Healthy,Yellow
+PLANT_2006,Corn,0,57.12,33.14,3.61,Healthy,Yellow
+PLANT_2007,Potato,0,42.37,33.54,0.88,Healthy,Brown
+PLANT_2008,Rice,0,48.25,22.11,3.07,Healthy,Yellow
+PLANT_2009,Potato,0,69.31,27.9,5.78,Healthy,Brown
+PLANT_2010,Potato,0,37.01,25.76,7.72,Healthy,Brown
+PLANT_2011,Corn,0,77.89,19.99,1.4,Healthy,Brown
+PLANT_2012,Wheat,1,65.41,16.69,4.84,Mild Infection,Green
+PLANT_2013,Potato,0,65.44,23.81,1.95,Healthy,Brown
+PLANT_2014,Tomato,0,75.15,32.98,3.2,Healthy,Brown
+PLANT_2015,Corn,0,79.77,16.9,1.29,Healthy,Yellow
+PLANT_2016,Tomato,0,40.7,25.48,3.26,Healthy,Yellow
+PLANT_2017,Tomato,0,76.03,31.49,3.11,Healthy,Green
+PLANT_2018,Rice,0,49.69,19.95,8.59,Healthy,Yellow
+PLANT_2019,Potato,1,37.83,31.23,8.25,Mild Infection,Yellow
+PLANT_2020,Wheat,0,78.3,28.53,8.38,Healthy,Brown
+PLANT_2021,Wheat,1,88.74,15.71,7.36,Severe Infection,Yellow
+PLANT_2022,Wheat,1,32.32,21.13,7.1,Severe Infection,Yellow
+PLANT_2023,Tomato,1,38.67,20.38,1.2,Mild Infection,Green
+PLANT_2024,Corn,0,30.53,15.63,3.61,Healthy,Yellow
+PLANT_2025,Wheat,1,36.56,23.59,7.21,Severe Infection,Brown
+PLANT_2026,Rice,0,61.07,19.63,2.68,Healthy,Green
+PLANT_2027,Corn,0,66.14,20.74,2.84,Healthy,Green
+PLANT_2028,Tomato,1,81.19,31.58,6.46,Mild Infection,Brown
+PLANT_2029,Wheat,0,89.74,26.36,8.62,Healthy,Green
+PLANT_2030,Tomato,1,40.68,34.07,7.7,Mild Infection,Green
+PLANT_2031,Rice,1,48.54,26.85,4.36,Mild Infection,Yellow
+PLANT_2032,Wheat,0,34.73,32.06,4.54,Healthy,Yellow
+PLANT_2033,Potato,0,51.27,15.65,8.39,Healthy,Green
+PLANT_2034,Corn,1,34.98,19.54,7.02,Severe Infection,Green
+PLANT_2035,Tomato,0,52.08,19.11,1.1,Healthy,Green
+PLANT_2036,Wheat,1,44.85,27.91,2.85,Mild Infection,Green
+PLANT_2037,Tomato,0,37.85,17.85,7.05,Healthy,Brown
+PLANT_2038,Rice,0,78.47,33.15,4.95,Healthy,Green
+PLANT_2039,Tomato,0,79.6,17.81,6.23,Healthy,Brown
+PLANT_2040,Rice,0,87.48,27.41,7.69,Healthy,Yellow
+PLANT_2041,Potato,1,52.03,24.86,0.82,Severe Infection,Yellow
+PLANT_2042,Rice,1,35.48,23.27,1.51,Mild Infection,Green
+PLANT_2043,Wheat,1,38.03,23.57,0.5,Mild Infection,Green
+PLANT_2044,Rice,0,76.97,24.62,6.42,Healthy,Yellow
+PLANT_2045,Wheat,0,87.9,28.97,2.76,Healthy,Green
+PLANT_2046,Potato,1,35.59,31.87,2.92,Mild Infection,Yellow
+PLANT_2047,Corn,0,48.82,18.22,5.58,Healthy,Yellow
+PLANT_2048,Rice,0,42.75,28.13,0.38,Healthy,Green
+PLANT_2049,Tomato,0,38.39,33.69,5.26,Healthy,Yellow
+PLANT_2050,Corn,0,74.88,15.9,7.49,Healthy,Green
+PLANT_2051,Potato,1,32.46,22.97,7.99,Severe Infection,Brown
+PLANT_2052,Corn,0,85.93,21.3,9.14,Healthy,Yellow
+PLANT_2053,Corn,0,87.38,17.12,6.05,Healthy,Green
+PLANT_2054,Rice,0,64.71,21.4,1.38,Healthy,Green
+PLANT_2055,Rice,0,40.28,20.34,4.08,Healthy,Yellow
+PLANT_2056,Corn,0,89.91,31.76,3.19,Healthy,Brown
+PLANT_2057,Wheat,0,43.09,24.49,2.14,Healthy,Brown
+PLANT_2058,Tomato,0,46.82,24.81,6.14,Healthy,Green
+PLANT_2059,Potato,0,36.85,34.28,6.71,Healthy,Green
+PLANT_2060,Wheat,0,85.02,17.27,1.1,Healthy,Yellow
+PLANT_2061,Tomato,1,51.97,24.45,2.45,Severe Infection,Yellow
+PLANT_2062,Rice,0,32.86,31.73,4.57,Healthy,Yellow
+PLANT_2063,Tomato,0,57.23,23.67,2.62,Healthy,Yellow
+PLANT_2064,Corn,1,40.88,25.07,2.25,Severe Infection,Yellow
+PLANT_2065,Potato,0,55.73,26.48,4.39,Healthy,Green
+PLANT_2066,Potato,0,73.34,18.23,8.54,Healthy,Green
+PLANT_2067,Wheat,1,30.86,21.94,1.13,Mild Infection,Brown
+PLANT_2068,Potato,0,65.93,24.51,2.29,Healthy,Yellow
+PLANT_2069,Potato,0,40.04,23.8,2.7,Healthy,Yellow
+PLANT_2070,Potato,0,49.48,32.31,5.16,Healthy,Yellow
+PLANT_2071,Corn,0,76.02,32.57,6.32,Healthy,Green
+PLANT_2072,Corn,0,72.39,29.13,5.0,Healthy,Brown
+PLANT_2073,Tomato,0,57.39,19.71,6.58,Healthy,Green
+PLANT_2074,Potato,0,68.7,31.53,9.25,Healthy,Green
+PLANT_2075,Rice,0,69.57,24.7,8.12,Healthy,Yellow
+PLANT_2076,Tomato,0,40.15,16.21,2.42,Healthy,Brown
+PLANT_2077,Potato,0,73.78,34.32,5.82,Healthy,Yellow
+PLANT_2078,Tomato,0,75.26,33.79,8.35,Healthy,Yellow
+PLANT_2079,Corn,1,76.71,26.14,0.27,Severe Infection,Brown
+PLANT_2080,Potato,0,77.87,21.68,9.41,Healthy,Green
+PLANT_2081,Potato,1,84.9,15.43,6.89,Mild Infection,Yellow
+PLANT_2082,Potato,0,48.3,30.63,2.27,Healthy,Yellow
+PLANT_2083,Rice,0,39.27,16.03,1.39,Healthy,Green
+PLANT_2084,Tomato,0,34.08,27.49,5.72,Healthy,Green
+PLANT_2085,Tomato,0,66.13,20.22,1.37,Healthy,Yellow
+PLANT_2086,Tomato,0,34.64,28.39,5.1,Healthy,Green
+PLANT_2087,Potato,1,72.43,24.38,3.77,Mild Infection,Yellow
+PLANT_2088,Wheat,0,82.13,25.35,7.8,Healthy,Green
+PLANT_2089,Corn,0,49.73,17.95,6.87,Healthy,Green
+PLANT_2090,Wheat,0,52.3,27.46,4.45,Healthy,Brown
+PLANT_2091,Rice,0,52.07,28.88,6.26,Healthy,Brown
+PLANT_2092,Corn,0,51.91,25.48,0.5,Healthy,Green
+PLANT_2093,Tomato,1,78.44,32.51,9.85,Severe Infection,Brown
+PLANT_2094,Potato,0,56.72,23.44,8.93,Healthy,Brown
+PLANT_2095,Wheat,0,59.6,25.26,7.56,Healthy,Brown
+PLANT_2096,Rice,0,44.09,29.03,3.43,Healthy,Yellow
+PLANT_2097,Rice,0,58.43,28.12,0.95,Healthy,Green
+PLANT_2098,Tomato,0,76.58,17.76,8.51,Healthy,Yellow
+PLANT_2099,Rice,0,53.09,25.57,2.24,Healthy,Yellow
+PLANT_2100,Corn,1,83.07,18.19,0.05,Mild Infection,Green
+PLANT_2101,Potato,0,36.13,25.04,3.55,Healthy,Green
+PLANT_2102,Potato,0,85.2,32.78,6.91,Healthy,Brown
+PLANT_2103,Rice,1,85.4,21.08,2.11,Severe Infection,Yellow
+PLANT_2104,Rice,1,36.9,23.95,8.12,Mild Infection,Brown
+PLANT_2105,Tomato,0,35.63,28.91,2.41,Healthy,Yellow
+PLANT_2106,Corn,1,84.8,21.53,1.81,Mild Infection,Green
+PLANT_2107,Potato,0,56.12,17.93,7.0,Healthy,Brown
+PLANT_2108,Potato,0,49.47,27.02,4.46,Healthy,Green
+PLANT_2109,Corn,1,47.65,18.05,7.27,Mild Infection,Brown
+PLANT_2110,Wheat,0,68.52,34.35,4.51,Healthy,Green
+PLANT_2111,Tomato,1,84.78,20.46,6.28,Mild Infection,Brown
+PLANT_2112,Rice,0,64.36,34.09,7.23,Healthy,Green
+PLANT_2113,Tomato,1,71.63,34.06,2.83,Mild Infection,Green
+PLANT_2114,Rice,0,89.62,25.52,0.88,Healthy,Green
+PLANT_2115,Rice,1,33.67,25.79,9.49,Mild Infection,Green
+PLANT_2116,Potato,0,71.71,34.84,5.31,Healthy,Brown
+PLANT_2117,Potato,0,44.86,26.85,8.49,Healthy,Yellow
+PLANT_2118,Wheat,0,88.17,24.48,2.11,Healthy,Brown
+PLANT_2119,Wheat,1,30.3,21.1,8.27,Mild Infection,Green
+PLANT_2120,Potato,0,85.19,22.16,4.36,Healthy,Yellow
+PLANT_2121,Wheat,0,32.37,24.27,8.48,Healthy,Yellow
+PLANT_2122,Rice,0,49.71,15.37,6.05,Healthy,Yellow
+PLANT_2123,Rice,1,35.36,32.16,5.82,Severe Infection,Green
+PLANT_2124,Rice,0,47.31,27.82,4.7,Healthy,Brown
+PLANT_2125,Corn,0,54.61,24.04,9.76,Healthy,Brown
+PLANT_2126,Potato,0,71.94,22.42,7.58,Healthy,Yellow
+PLANT_2127,Corn,0,47.29,22.94,4.54,Healthy,Yellow
+PLANT_2128,Rice,0,42.32,17.92,4.01,Healthy,Yellow
+PLANT_2129,Rice,0,33.63,15.51,1.53,Healthy,Brown
+PLANT_2130,Wheat,0,45.04,15.5,2.13,Healthy,Brown
+PLANT_2131,Tomato,0,67.65,28.11,0.94,Healthy,Brown
+PLANT_2132,Tomato,1,59.44,27.78,9.13,Mild Infection,Green
+PLANT_2133,Corn,1,48.98,21.05,6.5,Mild Infection,Yellow
+PLANT_2134,Corn,0,44.95,24.95,0.54,Healthy,Green
+PLANT_2135,Tomato,1,38.4,24.31,5.09,Mild Infection,Green
+PLANT_2136,Corn,0,36.72,25.55,6.74,Healthy,Green
+PLANT_2137,Wheat,1,62.51,19.81,7.33,Mild Infection,Brown
+PLANT_2138,Potato,0,64.61,24.93,9.47,Healthy,Brown
+PLANT_2139,Potato,0,54.36,26.5,2.41,Healthy,Green
+PLANT_2140,Potato,0,82.96,16.19,6.6,Healthy,Green
+PLANT_2141,Rice,0,36.49,15.86,8.32,Healthy,Yellow
+PLANT_2142,Tomato,0,87.15,18.89,2.78,Healthy,Yellow
+PLANT_2143,Wheat,0,38.01,30.59,8.33,Healthy,Green
+PLANT_2144,Wheat,0,59.88,27.19,1.92,Healthy,Brown
+PLANT_2145,Rice,0,66.37,15.19,6.37,Healthy,Brown
+PLANT_2146,Potato,0,39.59,27.76,0.57,Healthy,Yellow
+PLANT_2147,Tomato,0,69.68,24.2,2.46,Healthy,Brown
+PLANT_2148,Tomato,0,31.56,20.97,9.62,Healthy,Brown
+PLANT_2149,Wheat,1,42.65,30.35,7.35,Mild Infection,Green
+PLANT_2150,Rice,0,41.27,25.32,4.02,Healthy,Green
+PLANT_2151,Corn,0,46.28,33.11,6.12,Healthy,Yellow
+PLANT_2152,Corn,0,30.36,18.97,5.34,Healthy,Brown
+PLANT_2153,Wheat,0,83.55,18.1,5.0,Healthy,Green
+PLANT_2154,Potato,0,33.55,30.67,1.19,Healthy,Green
+PLANT_2155,Rice,0,67.56,22.29,3.16,Healthy,Yellow
+PLANT_2156,Tomato,1,72.97,15.83,0.18,Mild Infection,Brown
+PLANT_2157,Potato,0,48.63,31.35,1.0,Healthy,Green
+PLANT_2158,Potato,0,35.18,32.67,3.93,Healthy,Green
+PLANT_2159,Corn,0,86.84,27.64,5.84,Healthy,Green
+PLANT_2160,Potato,0,73.22,20.17,6.71,Healthy,Brown
+PLANT_2161,Corn,0,48.4,29.22,6.36,Healthy,Green
+PLANT_2162,Rice,1,81.15,21.17,2.89,Mild Infection,Green
+PLANT_2163,Corn,0,57.97,24.96,6.14,Healthy,Brown
+PLANT_2164,Potato,1,52.02,34.92,4.86,Severe Infection,Green
+PLANT_2165,Potato,0,46.08,34.65,7.25,Healthy,Brown
+PLANT_2166,Potato,0,61.0,25.55,3.76,Healthy,Yellow
+PLANT_2167,Rice,1,30.85,15.42,0.04,Mild Infection,Yellow
+PLANT_2168,Tomato,0,78.86,25.43,0.63,Healthy,Brown
+PLANT_2169,Rice,1,36.06,24.83,5.41,Mild Infection,Green
+PLANT_2170,Tomato,0,42.04,24.85,8.58,Healthy,Brown
+PLANT_2171,Tomato,0,85.66,26.26,2.18,Healthy,Yellow
+PLANT_2172,Corn,0,62.77,17.81,0.99,Healthy,Yellow
+PLANT_2173,Rice,0,32.19,21.2,5.94,Healthy,Brown
+PLANT_2174,Rice,1,84.55,18.02,9.32,Mild Infection,Brown
+PLANT_2175,Potato,0,84.44,22.57,5.97,Healthy,Green
+PLANT_2176,Wheat,0,67.67,17.54,4.17,Healthy,Brown
+PLANT_2177,Potato,0,87.8,15.91,1.79,Healthy,Brown
+PLANT_2178,Corn,0,64.94,16.2,0.49,Healthy,Brown
+PLANT_2179,Tomato,1,67.41,21.86,7.43,Severe Infection,Green
+PLANT_2180,Rice,0,55.86,20.74,0.01,Healthy,Green
+PLANT_2181,Wheat,0,43.34,19.75,2.63,Healthy,Green
+PLANT_2182,Tomato,0,52.02,31.48,3.45,Healthy,Green
+PLANT_2183,Rice,0,53.32,33.17,6.26,Healthy,Brown
+PLANT_2184,Tomato,0,89.46,23.84,2.94,Healthy,Green
+PLANT_2185,Tomato,1,71.86,17.34,6.13,Mild Infection,Brown
+PLANT_2186,Corn,0,40.84,28.76,8.24,Healthy,Brown
+PLANT_2187,Corn,0,85.85,19.51,4.0,Healthy,Green
+PLANT_2188,Potato,1,36.95,20.99,2.95,Mild Infection,Green
+PLANT_2189,Wheat,0,67.33,20.12,1.8,Healthy,Green
+PLANT_2190,Tomato,0,81.26,16.57,9.81,Healthy,Green
+PLANT_2191,Potato,0,67.92,16.41,8.41,Healthy,Brown
+PLANT_2192,Wheat,1,67.64,33.96,4.88,Mild Infection,Green
+PLANT_2193,Corn,0,46.36,21.08,7.98,Healthy,Brown
+PLANT_2194,Corn,0,64.64,20.68,9.96,Healthy,Brown
+PLANT_2195,Wheat,1,89.4,19.86,0.35,Severe Infection,Yellow
+PLANT_2196,Corn,0,32.9,34.61,9.95,Healthy,Brown
+PLANT_2197,Rice,1,68.0,32.5,7.39,Severe Infection,Green
+PLANT_2198,Wheat,0,71.29,32.03,0.11,Healthy,Green
+PLANT_2199,Tomato,0,75.85,30.19,6.7,Healthy,Yellow
+PLANT_2200,Rice,0,38.38,21.53,2.27,Healthy,Green
+PLANT_2201,Wheat,1,64.57,26.57,7.63,Severe Infection,Green
+PLANT_2202,Rice,0,87.46,30.76,8.29,Healthy,Green
+PLANT_2203,Tomato,1,46.46,23.07,5.68,Severe Infection,Yellow
+PLANT_2204,Potato,1,43.72,28.46,8.58,Severe Infection,Brown
+PLANT_2205,Tomato,1,48.94,22.95,4.99,Mild Infection,Yellow
+PLANT_2206,Corn,1,48.84,29.76,4.45,Mild Infection,Yellow
+PLANT_2207,Tomato,0,73.91,16.07,7.55,Healthy,Yellow
+PLANT_2208,Wheat,0,85.97,22.16,7.3,Healthy,Yellow
+PLANT_2209,Potato,0,49.88,19.98,8.67,Healthy,Brown
+PLANT_2210,Potato,0,53.87,27.58,3.91,Healthy,Yellow
+PLANT_2211,Tomato,0,61.18,15.79,9.3,Healthy,Brown
+PLANT_2212,Tomato,0,77.22,25.65,6.47,Healthy,Green
+PLANT_2213,Corn,0,40.2,34.22,4.98,Healthy,Yellow
+PLANT_2214,Tomato,0,82.01,20.25,1.53,Healthy,Yellow
+PLANT_2215,Wheat,0,35.32,20.24,4.66,Healthy,Green
+PLANT_2216,Corn,0,51.72,22.81,1.78,Healthy,Yellow
+PLANT_2217,Corn,0,38.26,26.44,9.6,Healthy,Brown
+PLANT_2218,Corn,0,51.67,21.97,1.92,Healthy,Brown
+PLANT_2219,Wheat,0,86.67,24.12,1.58,Healthy,Brown
+PLANT_2220,Potato,1,63.17,15.81,2.96,Mild Infection,Brown
+PLANT_2221,Potato,0,51.75,26.14,9.59,Healthy,Brown
+PLANT_2222,Tomato,0,77.18,28.08,1.03,Healthy,Brown
+PLANT_2223,Wheat,0,34.76,15.15,3.77,Healthy,Yellow
+PLANT_2224,Potato,0,69.88,23.93,5.83,Healthy,Brown
+PLANT_2225,Rice,0,33.77,24.0,2.26,Healthy,Brown
+PLANT_2226,Rice,0,41.54,31.32,2.59,Healthy,Yellow
+PLANT_2227,Wheat,1,88.24,30.1,5.55,Mild Infection,Yellow
+PLANT_2228,Potato,1,76.74,22.03,4.58,Mild Infection,Brown
+PLANT_2229,Potato,0,74.61,23.78,9.31,Healthy,Brown
+PLANT_2230,Wheat,0,75.28,24.99,9.76,Healthy,Yellow
+PLANT_2231,Potato,1,31.72,22.46,6.29,Mild Infection,Brown
+PLANT_2232,Wheat,0,83.72,15.55,7.0,Healthy,Brown
+PLANT_2233,Tomato,1,52.03,21.29,9.57,Mild Infection,Green
+PLANT_2234,Rice,0,46.71,30.28,8.87,Healthy,Brown
+PLANT_2235,Potato,0,57.63,34.74,8.79,Healthy,Yellow
+PLANT_2236,Rice,0,34.83,31.72,1.88,Healthy,Yellow
+PLANT_2237,Tomato,0,75.91,28.74,6.65,Healthy,Yellow
+PLANT_2238,Rice,0,48.54,34.4,1.48,Healthy,Green
+PLANT_2239,Rice,0,84.86,15.44,0.91,Healthy,Brown
+PLANT_2240,Wheat,0,34.68,24.13,7.04,Healthy,Green
+PLANT_2241,Tomato,0,36.98,31.35,8.89,Healthy,Green
+PLANT_2242,Tomato,0,76.38,29.84,4.73,Healthy,Green
+PLANT_2243,Corn,1,48.84,34.2,1.75,Mild Infection,Brown
+PLANT_2244,Wheat,0,87.23,33.24,9.79,Healthy,Green
+PLANT_2245,Potato,1,53.25,30.01,6.54,Severe Infection,Green
+PLANT_2246,Potato,0,55.45,21.68,0.89,Healthy,Yellow
+PLANT_2247,Tomato,0,75.33,30.77,6.04,Healthy,Green
+PLANT_2248,Rice,0,82.72,17.57,8.75,Healthy,Yellow
+PLANT_2249,Corn,1,59.98,24.42,4.14,Mild Infection,Green
+PLANT_2250,Rice,0,32.09,34.35,1.37,Healthy,Yellow
+PLANT_2251,Corn,0,36.2,26.47,3.27,Healthy,Green
+PLANT_2252,Wheat,0,86.54,34.07,0.24,Healthy,Yellow
+PLANT_2253,Potato,0,36.29,15.77,7.89,Healthy,Green
+PLANT_2254,Wheat,0,58.91,31.77,1.99,Healthy,Green
+PLANT_2255,Potato,0,39.94,19.61,2.46,Healthy,Yellow
+PLANT_2256,Rice,0,54.87,30.2,8.76,Healthy,Brown
+PLANT_2257,Potato,0,62.04,26.01,8.11,Healthy,Brown
+PLANT_2258,Tomato,0,47.61,25.74,4.54,Healthy,Yellow
+PLANT_2259,Tomato,1,81.1,20.14,4.51,Severe Infection,Green
+PLANT_2260,Wheat,1,32.57,28.56,8.27,Mild Infection,Brown
+PLANT_2261,Wheat,0,49.12,26.48,1.98,Healthy,Brown
+PLANT_2262,Potato,0,75.25,17.79,4.25,Healthy,Brown
+PLANT_2263,Corn,0,59.12,30.72,5.75,Healthy,Yellow
+PLANT_2264,Wheat,0,77.37,22.88,7.51,Healthy,Yellow
+PLANT_2265,Rice,0,52.44,18.23,0.89,Healthy,Yellow
+PLANT_2266,Tomato,0,41.83,32.98,3.64,Healthy,Green
+PLANT_2267,Corn,0,78.73,34.06,9.97,Healthy,Brown
+PLANT_2268,Corn,0,43.17,29.98,1.91,Healthy,Yellow
+PLANT_2269,Corn,0,53.04,23.85,0.23,Healthy,Brown
+PLANT_2270,Tomato,1,84.66,22.02,4.37,Severe Infection,Yellow
+PLANT_2271,Rice,1,39.94,16.22,0.85,Mild Infection,Green
+PLANT_2272,Rice,0,36.59,31.25,5.8,Healthy,Brown
+PLANT_2273,Rice,0,34.64,30.87,2.84,Healthy,Green
+PLANT_2274,Rice,0,36.33,23.05,0.38,Healthy,Yellow
+PLANT_2275,Wheat,1,57.54,24.98,10.0,Mild Infection,Brown
+PLANT_2276,Wheat,1,60.98,31.89,1.39,Severe Infection,Yellow
+PLANT_2277,Rice,0,53.08,16.62,2.46,Healthy,Yellow
+PLANT_2278,Rice,0,40.58,22.57,7.93,Healthy,Green
+PLANT_2279,Tomato,1,45.45,30.86,2.92,Severe Infection,Brown
+PLANT_2280,Rice,0,86.39,34.48,2.45,Healthy,Yellow
+PLANT_2281,Wheat,1,52.1,33.4,8.99,Mild Infection,Brown
+PLANT_2282,Tomato,0,34.19,29.27,6.5,Healthy,Brown
+PLANT_2283,Corn,0,54.44,22.23,6.59,Healthy,Brown
+PLANT_2284,Rice,0,87.88,20.23,5.3,Healthy,Brown
+PLANT_2285,Tomato,0,57.32,27.83,9.48,Healthy,Yellow
+PLANT_2286,Wheat,1,81.16,29.48,2.03,Mild Infection,Brown
+PLANT_2287,Rice,0,30.91,28.97,1.16,Healthy,Brown
+PLANT_2288,Potato,1,81.7,23.2,9.37,Mild Infection,Brown
+PLANT_2289,Tomato,0,36.98,25.84,2.67,Healthy,Green
+PLANT_2290,Tomato,1,82.22,21.47,9.43,Mild Infection,Yellow
+PLANT_2291,Corn,0,31.7,24.45,6.91,Healthy,Yellow
+PLANT_2292,Wheat,1,30.76,32.8,8.02,Mild Infection,Green
+PLANT_2293,Rice,1,47.45,32.85,2.84,Severe Infection,Yellow
+PLANT_2294,Wheat,1,75.2,30.57,1.11,Mild Infection,Yellow
+PLANT_2295,Wheat,1,31.61,27.33,8.84,Mild Infection,Brown
+PLANT_2296,Wheat,0,35.82,32.87,7.33,Healthy,Green
+PLANT_2297,Tomato,0,47.3,31.04,5.1,Healthy,Brown
+PLANT_2298,Wheat,1,55.71,21.44,3.8,Mild Infection,Yellow
+PLANT_2299,Rice,1,79.52,30.61,9.83,Mild Infection,Yellow
+PLANT_2300,Rice,1,41.08,25.73,9.26,Severe Infection,Yellow
+PLANT_2301,Rice,1,70.3,15.85,5.59,Mild Infection,Yellow
+PLANT_2302,Rice,1,31.65,29.7,7.27,Mild Infection,Green
+PLANT_2303,Potato,0,84.3,26.57,1.17,Healthy,Brown
+PLANT_2304,Potato,1,74.78,21.83,4.94,Mild Infection,Green
+PLANT_2305,Rice,1,47.76,33.82,1.84,Mild Infection,Brown
+PLANT_2306,Corn,1,89.41,25.44,5.51,Severe Infection,Yellow
+PLANT_2307,Potato,1,37.94,21.85,7.93,Severe Infection,Green
+PLANT_2308,Potato,0,81.15,22.49,3.39,Healthy,Yellow
+PLANT_2309,Corn,0,81.16,20.63,0.24,Healthy,Brown
+PLANT_2310,Corn,0,64.82,23.9,6.04,Healthy,Brown
+PLANT_2311,Rice,0,38.84,21.12,9.6,Healthy,Green
+PLANT_2312,Tomato,0,55.8,25.57,3.0,Healthy,Green
+PLANT_2313,Rice,0,88.89,20.55,9.61,Healthy,Yellow
+PLANT_2314,Corn,0,76.23,23.22,1.33,Healthy,Green
+PLANT_2315,Wheat,0,37.22,16.05,7.09,Healthy,Green
+PLANT_2316,Corn,0,69.81,20.9,0.07,Healthy,Brown
+PLANT_2317,Corn,0,73.78,33.01,3.07,Healthy,Yellow
+PLANT_2318,Potato,1,67.51,23.49,1.39,Mild Infection,Brown
+PLANT_2319,Corn,1,44.02,25.68,9.23,Severe Infection,Yellow
+PLANT_2320,Corn,1,50.43,31.79,9.24,Mild Infection,Yellow
+PLANT_2321,Tomato,0,32.35,30.63,9.3,Healthy,Brown
+PLANT_2322,Potato,0,67.56,24.36,6.46,Healthy,Green
+PLANT_2323,Tomato,1,88.01,26.69,3.62,Severe Infection,Brown
+PLANT_2324,Tomato,1,36.87,23.77,7.29,Mild Infection,Green
+PLANT_2325,Potato,0,58.23,32.16,6.09,Healthy,Brown
+PLANT_2326,Potato,1,89.57,24.16,7.14,Severe Infection,Green
+PLANT_2327,Tomato,0,81.48,32.71,4.13,Healthy,Green
+PLANT_2328,Wheat,0,39.18,30.48,3.16,Healthy,Green
+PLANT_2329,Wheat,1,58.14,31.99,9.23,Mild Infection,Brown
+PLANT_2330,Potato,0,56.05,31.34,2.08,Healthy,Green
+PLANT_2331,Wheat,0,85.97,24.6,3.45,Healthy,Brown
+PLANT_2332,Corn,1,48.63,25.26,3.93,Mild Infection,Green
+PLANT_2333,Corn,0,65.56,27.69,7.1,Healthy,Brown
+PLANT_2334,Potato,0,74.51,18.92,1.27,Healthy,Yellow
+PLANT_2335,Tomato,0,78.81,15.46,5.59,Healthy,Yellow
+PLANT_2336,Rice,0,59.75,27.19,3.44,Healthy,Green
+PLANT_2337,Potato,0,56.88,33.64,8.64,Healthy,Green
+PLANT_2338,Corn,1,59.03,21.35,2.37,Mild Infection,Yellow
+PLANT_2339,Rice,1,77.51,24.22,3.95,Mild Infection,Green
+PLANT_2340,Rice,0,62.94,29.81,0.07,Healthy,Yellow
+PLANT_2341,Rice,1,46.83,16.08,3.61,Mild Infection,Yellow
+PLANT_2342,Wheat,1,36.96,25.98,0.64,Mild Infection,Yellow
+PLANT_2343,Potato,0,30.82,20.89,0.58,Healthy,Green
+PLANT_2344,Corn,1,32.9,15.04,2.73,Mild Infection,Yellow
+PLANT_2345,Corn,0,42.42,17.0,1.23,Healthy,Brown
+PLANT_2346,Potato,1,76.65,29.78,6.63,Mild Infection,Brown
+PLANT_2347,Corn,0,53.26,22.47,1.13,Healthy,Yellow
+PLANT_2348,Corn,1,39.23,19.36,4.9,Mild Infection,Brown
+PLANT_2349,Corn,0,76.18,17.54,3.3,Healthy,Brown
+PLANT_2350,Corn,0,59.01,26.72,4.68,Healthy,Brown
+PLANT_2351,Rice,1,80.26,15.49,5.9,Severe Infection,Green
+PLANT_2352,Potato,0,50.53,24.37,1.49,Healthy,Yellow
+PLANT_2353,Wheat,0,84.55,29.82,2.27,Healthy,Brown
+PLANT_2354,Tomato,0,84.3,31.9,6.7,Healthy,Green
+PLANT_2355,Tomato,0,83.69,15.87,1.54,Healthy,Green
+PLANT_2356,Rice,0,55.62,24.07,8.25,Healthy,Green
+PLANT_2357,Rice,0,50.72,18.19,7.13,Healthy,Yellow
+PLANT_2358,Corn,1,85.11,22.34,0.96,Severe Infection,Yellow
+PLANT_2359,Potato,0,87.26,21.88,4.67,Healthy,Green
+PLANT_2360,Rice,0,37.1,21.36,4.37,Healthy,Green
+PLANT_2361,Tomato,1,35.24,25.8,4.78,Mild Infection,Brown
+PLANT_2362,Rice,0,42.21,18.59,5.5,Healthy,Brown
+PLANT_2363,Wheat,1,48.9,15.38,3.76,Mild Infection,Yellow
+PLANT_2364,Corn,0,76.41,30.79,6.14,Healthy,Yellow
+PLANT_2365,Corn,0,82.99,26.11,9.07,Healthy,Brown
+PLANT_2366,Potato,1,76.0,27.03,2.63,Mild Infection,Green
+PLANT_2367,Tomato,0,84.95,26.05,8.95,Healthy,Brown
+PLANT_2368,Tomato,0,33.66,30.41,7.25,Healthy,Yellow
+PLANT_2369,Potato,0,43.18,34.62,4.77,Healthy,Yellow
+PLANT_2370,Potato,0,49.42,29.05,9.29,Healthy,Brown
+PLANT_2371,Rice,0,33.83,29.46,3.52,Healthy,Green
+PLANT_2372,Tomato,0,75.45,30.41,9.05,Healthy,Brown
+PLANT_2373,Tomato,0,79.87,21.12,5.49,Healthy,Yellow
+PLANT_2374,Tomato,0,54.04,18.02,0.81,Healthy,Yellow
+PLANT_2375,Corn,0,90.0,27.15,6.74,Healthy,Green
+PLANT_2376,Tomato,0,61.01,17.95,9.45,Healthy,Green
+PLANT_2377,Potato,0,60.23,28.65,3.99,Healthy,Green
+PLANT_2378,Wheat,1,88.49,23.76,0.26,Mild Infection,Yellow
+PLANT_2379,Rice,0,55.01,21.76,6.86,Healthy,Brown
+PLANT_2380,Potato,1,61.8,23.98,4.09,Mild Infection,Green
+PLANT_2381,Corn,1,72.2,24.45,4.13,Severe Infection,Brown
+PLANT_2382,Wheat,1,72.64,26.09,5.82,Mild Infection,Brown
+PLANT_2383,Wheat,0,43.81,31.79,5.58,Healthy,Brown
+PLANT_2384,Wheat,1,35.29,26.23,1.54,Mild Infection,Brown
+PLANT_2385,Corn,1,47.32,29.74,8.32,Mild Infection,Brown
+PLANT_2386,Tomato,1,30.17,26.28,5.95,Mild Infection,Brown
+PLANT_2387,Rice,1,89.38,22.96,7.61,Mild Infection,Brown
+PLANT_2388,Tomato,1,30.76,33.59,6.73,Mild Infection,Brown
+PLANT_2389,Rice,1,38.3,25.24,0.87,Mild Infection,Yellow
+PLANT_2390,Potato,0,62.91,32.07,8.36,Healthy,Brown
+PLANT_2391,Tomato,1,35.17,21.3,7.97,Mild Infection,Brown
+PLANT_2392,Rice,1,66.1,25.16,1.73,Mild Infection,Yellow
+PLANT_2393,Rice,0,63.16,27.76,8.14,Healthy,Yellow
+PLANT_2394,Corn,0,37.13,34.25,8.2,Healthy,Green
+PLANT_2395,Corn,0,55.47,17.28,5.41,Healthy,Brown
+PLANT_2396,Tomato,1,39.14,34.75,1.83,Mild Infection,Brown
+PLANT_2397,Corn,0,89.94,30.22,3.87,Healthy,Yellow
+PLANT_2398,Rice,0,61.29,22.6,2.84,Healthy,Green
+PLANT_2399,Corn,0,62.81,19.3,4.17,Healthy,Yellow
+PLANT_2400,Corn,1,48.03,26.72,1.97,Mild Infection,Yellow
+PLANT_2401,Potato,0,41.56,32.32,7.98,Healthy,Brown
+PLANT_2402,Potato,1,34.04,26.96,6.54,Mild Infection,Green
+PLANT_2403,Tomato,0,38.79,15.18,7.82,Healthy,Brown
+PLANT_2404,Wheat,0,56.98,32.98,6.85,Healthy,Green
+PLANT_2405,Rice,0,68.44,25.62,0.14,Healthy,Green
+PLANT_2406,Wheat,0,88.29,34.56,0.54,Healthy,Green
+PLANT_2407,Corn,0,39.57,23.86,9.88,Healthy,Yellow
+PLANT_2408,Potato,0,49.46,15.53,0.65,Healthy,Brown
+PLANT_2409,Wheat,1,51.81,15.91,7.94,Severe Infection,Brown
+PLANT_2410,Wheat,0,53.69,27.06,1.7,Healthy,Green
+PLANT_2411,Tomato,1,65.63,26.73,4.79,Severe Infection,Brown
+PLANT_2412,Corn,0,55.51,22.4,8.05,Healthy,Brown
+PLANT_2413,Rice,0,61.24,31.15,7.94,Healthy,Yellow
+PLANT_2414,Corn,1,34.64,28.72,4.04,Mild Infection,Yellow
+PLANT_2415,Wheat,1,34.84,27.44,7.23,Mild Infection,Green
+PLANT_2416,Rice,0,60.99,24.2,5.23,Healthy,Yellow
+PLANT_2417,Corn,0,89.46,28.53,9.32,Healthy,Green
+PLANT_2418,Wheat,0,67.05,26.45,3.83,Healthy,Yellow
+PLANT_2419,Tomato,0,81.92,28.21,7.43,Healthy,Brown
+PLANT_2420,Corn,0,49.84,31.28,0.54,Healthy,Green
+PLANT_2421,Wheat,0,73.21,27.3,5.84,Healthy,Brown
+PLANT_2422,Rice,1,44.74,27.59,0.6,Mild Infection,Green
+PLANT_2423,Corn,0,38.33,33.35,7.78,Healthy,Brown
+PLANT_2424,Wheat,0,60.81,30.95,4.48,Healthy,Yellow
+PLANT_2425,Potato,0,34.23,19.86,8.88,Healthy,Green
+PLANT_2426,Potato,0,40.3,15.8,7.83,Healthy,Brown
+PLANT_2427,Rice,0,31.21,20.86,8.66,Healthy,Yellow
+PLANT_2428,Tomato,0,33.03,27.93,6.08,Healthy,Green
+PLANT_2429,Potato,0,66.7,23.19,1.92,Healthy,Green
+PLANT_2430,Tomato,1,66.44,16.86,2.12,Mild Infection,Brown
+PLANT_2431,Tomato,1,49.43,34.32,9.05,Mild Infection,Yellow
+PLANT_2432,Rice,0,43.95,30.13,5.62,Healthy,Brown
+PLANT_2433,Wheat,0,79.12,17.63,4.71,Healthy,Brown
+PLANT_2434,Potato,0,52.0,29.01,3.45,Healthy,Brown
+PLANT_2435,Potato,0,45.68,21.19,1.22,Healthy,Brown
+PLANT_2436,Rice,0,40.42,16.77,9.61,Healthy,Yellow
+PLANT_2437,Tomato,0,76.71,23.77,0.11,Healthy,Green
+PLANT_2438,Corn,0,42.16,29.58,3.84,Healthy,Brown
+PLANT_2439,Corn,1,50.26,28.93,2.96,Mild Infection,Yellow
+PLANT_2440,Wheat,1,79.61,17.26,0.7,Mild Infection,Yellow
+PLANT_2441,Tomato,0,59.09,28.87,5.97,Healthy,Green
+PLANT_2442,Tomato,0,75.71,30.04,6.13,Healthy,Yellow
+PLANT_2443,Potato,1,83.57,22.04,2.76,Mild Infection,Green
+PLANT_2444,Tomato,1,36.1,28.97,4.17,Severe Infection,Green
+PLANT_2445,Corn,0,78.1,27.12,2.22,Healthy,Green
+PLANT_2446,Wheat,0,49.04,25.24,1.49,Healthy,Green
+PLANT_2447,Corn,0,47.27,32.57,8.71,Healthy,Brown
+PLANT_2448,Wheat,0,78.19,30.97,4.8,Healthy,Brown
+PLANT_2449,Corn,1,64.56,21.37,6.59,Mild Infection,Green
+PLANT_2450,Corn,0,40.57,23.94,2.67,Healthy,Yellow
+PLANT_2451,Potato,0,63.39,30.13,0.15,Healthy,Green
+PLANT_2452,Potato,0,49.71,32.64,3.52,Healthy,Yellow
+PLANT_2453,Wheat,1,80.99,27.25,0.43,Mild Infection,Yellow
+PLANT_2454,Rice,0,73.95,17.39,0.43,Healthy,Brown
+PLANT_2455,Wheat,1,47.12,30.11,4.08,Mild Infection,Brown
+PLANT_2456,Tomato,0,61.49,17.0,0.29,Healthy,Green
+PLANT_2457,Wheat,0,32.58,31.71,8.2,Healthy,Brown
+PLANT_2458,Wheat,0,36.49,21.54,4.78,Healthy,Brown
+PLANT_2459,Tomato,0,50.51,33.63,4.08,Healthy,Yellow
+PLANT_2460,Corn,1,43.35,26.27,1.25,Severe Infection,Brown
+PLANT_2461,Corn,0,61.0,25.88,2.71,Healthy,Brown
+PLANT_2462,Corn,1,78.32,26.79,1.52,Mild Infection,Yellow
+PLANT_2463,Tomato,1,35.65,18.29,6.63,Mild Infection,Brown
+PLANT_2464,Potato,0,37.09,21.71,7.36,Healthy,Green
+PLANT_2465,Corn,0,62.12,29.75,2.24,Healthy,Green
+PLANT_2466,Corn,1,71.09,32.03,5.69,Severe Infection,Green
+PLANT_2467,Tomato,0,46.89,18.46,6.98,Healthy,Brown
+PLANT_2468,Corn,0,34.03,18.62,2.98,Healthy,Yellow
+PLANT_2469,Wheat,0,78.83,34.9,8.94,Healthy,Brown
+PLANT_2470,Potato,0,60.09,22.54,3.14,Healthy,Yellow
+PLANT_2471,Wheat,1,40.96,21.06,2.19,Mild Infection,Brown
+PLANT_2472,Rice,1,38.57,20.11,3.1,Mild Infection,Brown
+PLANT_2473,Potato,0,50.54,25.82,8.73,Healthy,Yellow
+PLANT_2474,Wheat,0,82.28,32.37,5.37,Healthy,Brown
+PLANT_2475,Potato,0,35.61,27.81,1.41,Healthy,Yellow
+PLANT_2476,Potato,1,73.0,25.76,3.6,Mild Infection,Yellow
+PLANT_2477,Tomato,0,42.46,22.96,6.82,Healthy,Yellow
+PLANT_2478,Corn,0,54.74,21.8,1.82,Healthy,Green
+PLANT_2479,Corn,1,45.57,30.16,2.91,Severe Infection,Brown
+PLANT_2480,Corn,0,81.25,17.81,2.95,Healthy,Green
+PLANT_2481,Wheat,0,57.17,32.9,8.31,Healthy,Green
+PLANT_2482,Wheat,1,44.11,23.81,2.13,Mild Infection,Yellow
+PLANT_2483,Wheat,1,64.45,16.44,9.63,Severe Infection,Green
+PLANT_2484,Wheat,0,64.3,23.36,6.96,Healthy,Yellow
+PLANT_2485,Potato,1,64.39,17.07,1.9,Severe Infection,Green
+PLANT_2486,Corn,1,51.98,27.96,7.06,Mild Infection,Brown
+PLANT_2487,Rice,0,79.7,16.96,0.72,Healthy,Green
+PLANT_2488,Tomato,0,73.08,31.87,6.46,Healthy,Brown
+PLANT_2489,Corn,1,62.46,26.19,4.86,Mild Infection,Yellow
+PLANT_2490,Tomato,0,44.76,19.51,0.37,Healthy,Yellow
+PLANT_2491,Rice,1,52.38,19.24,7.09,Mild Infection,Green
+PLANT_2492,Tomato,0,81.43,26.95,9.97,Healthy,Green
+PLANT_2493,Potato,0,30.9,34.26,0.23,Healthy,Brown
+PLANT_2494,Tomato,0,44.5,27.55,1.3,Healthy,Green
+PLANT_2495,Tomato,1,48.83,34.45,8.2,Mild Infection,Yellow
+PLANT_2496,Rice,0,52.27,29.9,9.1,Healthy,Green
+PLANT_2497,Wheat,1,75.4,31.62,7.1,Mild Infection,Brown
+PLANT_2498,Wheat,0,47.66,23.76,9.53,Healthy,Green
+PLANT_2499,Rice,1,73.22,18.53,6.77,Mild Infection,Brown
+PLANT_2500,Potato,1,72.87,27.76,9.0,Mild Infection,Yellow

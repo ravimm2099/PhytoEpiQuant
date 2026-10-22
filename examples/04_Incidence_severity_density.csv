@@ -1,0 +1,4 @@
+plot,plants_assessed,plants_diseased,total_leaf_area_cm2,diseased_leaf_area_cm2,lesions_count,plot_area_m2
+P1,100,20,10000,600,60,10
+P2,100,45,10000,1800,160,10
+P3,100,70,10000,3700,350,10
